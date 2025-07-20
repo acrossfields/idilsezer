@@ -8,7 +8,9 @@ header {                                /* main top bar (logo + menu) */
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  flex-direction: row;
   flex-wrap: wrap;
+  box-sizing: border-box;
   width: 100%;
   position: relative;
   z-index: 10;
@@ -19,7 +21,7 @@ header {                                /* main top bar (logo + menu) */
 header .inner {                     /* inside the top bar */
   width: 100%;
   margin: 0;
-  padding: 12px 20px 12px 20px;     /* 12 top, 20 right, 12 bottom, 20 left */
+  padding: 20px 20px 12px 20px;     /* 12 top, 20 right, 12 bottom, 20 left */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
