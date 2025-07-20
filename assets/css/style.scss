@@ -1,49 +1,80 @@
-/* Basic reset and base styles */
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-  background-color: #fff;
-  color: #222;
-}
+---
+---
 
-/* Top bar styles */
-.topbar {
+header {                                /* main top bar (logo + menu) */
+  background-color: #bfc3cb;            /* background color */
+  color: #bdbdbd;                       /* overridden below */
+  padding: 0;
   display: flex;
+  justify-content: flex-start;
   align-items: center;
-  justify-content: space-between;
-  background-color: #bfc3cb;
-  padding: 1rem 2rem;
-  border-bottom: 1px solid #aaa;
+  width: 100%;
+  position: relative;
+  z-index: 10;
+  border-top: 3px solid #333333;        /* main top bar top border */
+  border-bottom: 1px solid #333333;     /* main top bar bottom border */
 }
 
-/* Logo */
-.logo img {
-  height: 40px;
-  object-fit: contain;
-}
-
-/* Main navigation */
-.main-nav ul {
-  list-style: none;
+header .inner {                     /* inside the top bar */
+  width: 100%;
+  margin: 0;
+  padding: 12px 20px 12px 20px;     /* 12 top, 20 right, 12 bottom, 20 left */
   display: flex;
-  gap: 2rem;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+header .site-logo img {
+  height: 50px;
+}
+
+header nav {
+  display: flex;
+}
+
+header nav ul {
+  list-style: none;
   margin: 0;
   padding: 0;
+  display: flex;
 }
 
-.main-nav a {
-  text-decoration: none;
-  color: #222;
-  font-weight: bold;
-  transition: color 0.2s ease;
+header nav ul li {
+  margin-right: 20px;
 }
 
-.main-nav a:hover {
-  color: #007acc;
+header nav ul li:last-child {
+  margin-right: 0;
 }
 
-/* Content area */
-main {
-  padding: 2rem;
+header nav ul li a {                     /* top bar menu items styling */
+  color: #343840;                        /* menu items font color */
+  text-decoration: none;                 /* no underline */
+  font-size: 20px;                       /* size 20px */
+  font-weight: normal;                   /* not bold */
+  font-family: sans-serif;               /* font not chosen yet */
+}
+
+header nav ul li a:hover {
+  color: #343840;
+  text-decoration: underline;
+}
+
+body {                                   /* default content styling */
+  background-color: #dfe1e5;             /* background color */
+  color: #2c2f36;                        /* text color */
+  font-size: 16px;                       /* text size */
+  line-height: 1.25;                     /* text line spacing */
+  margin: 0;
+  font-family: sans-serif;               /* font not chosen yet */
+}
+
+body a {
+  color: #2c2f36;                        /* link color not chosen yet */
+  text-decoration: underline;
+}
+
+body a:hover {
+  color: #2c2f36;                        /* link hover color not chosen yet */
+  text-decoration: underline;
 }
