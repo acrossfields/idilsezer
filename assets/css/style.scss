@@ -20,7 +20,7 @@ header {                                /* main top bar (logo + nav menu) */
 
 header .inner {                     /* inside the top bar */
   width: 100%;
-  margin: 10px 0px 0px 0px;
+  margin: 0;
   padding: 20px 12px 10px 10px;     /* top, bottom, left, right */
   display: flex;
   flex-direction: column;
@@ -38,7 +38,7 @@ header nav {
 header nav ul {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 10px 0px 0px 0px;
   display: flex;
 }
 
@@ -68,7 +68,8 @@ body {                                   /* default content styling */
   color: #2c2f36;                        /* text color */
   font-size: 16px;                       /* text size */
   line-height: 1.25;                     /* text line spacing */
-  margin: 5px 10px;                      /* top & bottom, left & right*/
+  padding: 10px;
+  margin: 0;
   font-family: sans-serif;               /* font not chosen yet */
 }
 
