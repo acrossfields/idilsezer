@@ -2,9 +2,10 @@
 ---
 
 .header-wrapper {                     /* HEADER BAR */
-  margin-left: 5px;                   /* between navbar's left edge and body border */
-  margin-right: 5px;                  /* between navbar's right edge and body border */
-  margin-bottom: 5px;                 /* between navbar's bottom edge and navbar's top edge */
+  margin-left: 5px;                   /* between header wrapper's left edge and body border */
+  margin-right: 5px;                  /* between header wrapper's right edge and body border */
+  margin-bottom: 5px;                 /* between header wrapper's bottom edge and navbar's top edge */
+  padding: 2px;                       /* padding between logo/flag box and header wrapper */
   background-color: #435D5E;          /* header bar's background color */
   border-top: 5px solid #1D2829;      /* thickness & color of line over header bar */
   border-bottom: 3px solid #263436;   /* thickness & color of line under header bar */
@@ -13,16 +14,16 @@
 }
 
 .logo-box {
-  padding-top: 2px;                    /* L1 */
-  padding-left: 2px;                   /* L2 */
-  padding-bottom: 2px;                 /* L3 */
+  padding-top: 2px;                    /* between logo and the logo box's top edge*/
+  padding-left: 2px;                   /* between logo and the logo box's left edge*/
+  padding-bottom: 2px;                 /* between logo and the logo box's bottom edge*/
   height: 50px;
 }
 
 .flag-box {
-  padding-top: 2px;                   /* F1 */
-  padding-right: 2px;                 /* F2 */
-  padding-bottom: 2px;                /* F3 */
+  padding-top: 2px;                   /* between flag and flag box's top edge*/
+  padding-right: 2px;                 /* between flag and flag box's right edge*/
+  padding-bottom: 2px;                /* between flag and flag box's bottom edge*/
   height: 20px;
 }
 
@@ -31,7 +32,7 @@
   margin-right: 5px;                     /* between navbar's right edge and body border */
   margin-bottom: 5px;                    /* between navbar's bottom edge and beginning of content */
   background-color: #608687;             /* navbar's background color */
-  border-bottom: 3px solid #263436;      /* thickness B3 color CorB3 */
+  border-bottom: 3px solid #263436;      /* thickness & color of line under navbar */
   display: flex;
   flex-wrap: wrap;                       /* allows navbar to wrap if menu is too long */
   padding-top: 2px;                       /* between navbar's top edge and row of menu items */ 
@@ -42,31 +43,31 @@
 }
 
 .nav-wrapper .menu-item {
-  font-size: 2px;                        /* menu items font size */
+  font-size: 20px;                        /* menu items font size */
   color: #263436;                        /* menu items font color */
   font-family: sans-serif;               /* menu items font */
   padding-top: 2px;                      /* vertical padding for each menu item */
   padding-bottom: 2px;                   /* vertical padding for each menu item */
   text-decoration: none;
 }
+
 .nav-wrapper .menu-item:hover {
   color: #263436;
   text-decoration: underline;
 }
 
 .content-box {
-  margin-left: 5px;                     /* CL */
-  margin-right: 5px;                    /* CR */
-  padding: 2px;                         /* CP */
-  background-color: #8DC5C7;            /* CorC */
+  margin-left: 5px;                     /* between content box's left edge and body border*/
+  margin-right: 5px;                    /* between content box's right edge and body border*/
+  padding: 2px;                         /* padding between content and content box*/
+  background-color: #8DC5C7;            /* background color of content box */
 }
 
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: sans-serif;               /* default font */
   background-color: #dfe1e5;             /* default font color */
   font-size: 16px;                       /* default fontsize */
-  line-height: 1.25;
 }
 
 body a {
