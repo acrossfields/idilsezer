@@ -1,2 +1,10 @@
 title: Idil Sezer
 description: A site to showcase my professional background & skills
+lang: en
+permalink: /:lang/:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: en
