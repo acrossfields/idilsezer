@@ -16,7 +16,7 @@
 .logo-box {
   padding-top: 3px;                    /* between logo and the logo box's top edge*/
   padding-left: 5px;                   /* between logo and the logo box's left edge*/
-  padding-bottom: 5px;                 /* between logo and the logo box's bottom edge*/
+  padding-bottom: 6px;                 /* between logo and the logo box's bottom edge*/
   height: 50px;
 }
 
@@ -36,7 +36,7 @@
   display: flex;
   flex-wrap: wrap;                       /* allows navbar to wrap if menu is too long */
   padding-top: 2px;                       /* between navbar's top edge and row of menu items */ 
-  padding-left: 5px;                      /* between navbar's left edge and first menu item */ 
+  padding-left: 6px;                      /* between navbar's left edge and first menu item */ 
   padding-bottom: 2px;                    /* between navbar's bottom edge and row of menu items */ 
   padding-right: 5px;                     /* between navbar's right edge and last menu item */ 
   gap: 0 10px;                             /* between menu items - vertical and horizontal */
@@ -44,7 +44,7 @@
 
 .nav-wrapper .menu-item {
   font-size: 16px;                               /* menu items font size */
-  color: #bff6de;                                /* menu items font color */
+  color: #cfffea;                                /* menu items font color */
   font-family: 'Averia Libre', sans-serif;       /* menu items font */
   padding-top: 2px;                              /* vertical padding for each menu item */
   padding-bottom: 2px;                           /* vertical padding for each menu item */
