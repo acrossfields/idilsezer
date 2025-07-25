@@ -2,21 +2,21 @@
 ---
 
 .header-wrapper {                     /* HEADER BAR */
-  margin-left: 5px;                   /* between header wrapper's left edge and body border */
-  margin-right: 5px;                  /* between header wrapper's right edge and body border */
-  margin-bottom: 5px;                 /* between header wrapper's bottom edge and navbar's top edge */
+  margin-left: 0;                     /* between header wrapper's left edge and body border */
+  margin-right: 0;                    /* between header wrapper's right edge and body border */
+  margin-bottom: 0;                   /* between header wrapper's bottom edge and navbar's top edge */
   padding: 2px;                       /* padding between logo/flag box and header wrapper */
   background-color: #435D5E;          /* header bar's background color */
-  border-top: 5px solid #1D2829;      /* thickness & color of line over header bar */
-  border-bottom: 3px solid #263436;   /* thickness & color of line under header bar */
+  border-top: 4px solid #092935;      /* thickness & color of line over header bar */
+  border-bottom: 3px solid #092935;   /* thickness & color of line under header bar */
   display: flex;
   justify-content: space-between;
 }
 
 .logo-box {
-  padding-top: 2px;                    /* between logo and the logo box's top edge*/
-  padding-left: 2px;                   /* between logo and the logo box's left edge*/
-  padding-bottom: 2px;                 /* between logo and the logo box's bottom edge*/
+  padding-top: 3px;                    /* between logo and the logo box's top edge*/
+  padding-left: 3px;                   /* between logo and the logo box's left edge*/
+  padding-bottom: 3px;                 /* between logo and the logo box's bottom edge*/
   height: 50px;
 }
 
@@ -28,11 +28,11 @@
 }
 
 .nav-wrapper {                           /* NAVIGATION BAR */
-  margin-left: 5px;                      /* between navbar's left edge and body border*/
-  margin-right: 5px;                     /* between navbar's right edge and body border */
-  margin-bottom: 5px;                    /* between navbar's bottom edge and beginning of content */
-  background-color: #608687;             /* navbar's background color */
-  border-bottom: 3px solid #263436;      /* thickness & color of line under navbar */
+  margin-left: 0;                        /* between navbar's left edge and body border*/
+  margin-right: 0;                       /* between navbar's right edge and body border */
+  margin-bottom: 0;                      /* between navbar's bottom edge and beginning of content */
+  background-color: #116671;             /* navbar's background color */
+  border-bottom: 2px solid #0d4e57;      /* thickness & color of line under navbar */
   display: flex;
   flex-wrap: wrap;                       /* allows navbar to wrap if menu is too long */
   padding-top: 2px;                       /* between navbar's top edge and row of menu items */ 
@@ -43,9 +43,9 @@
 }
 
 .nav-wrapper .menu-item {
-  font-size: 20px;                               /* menu items font size */
-  color: #263436;                                /* menu items font color */
-  font-family: 'Ysabeau Office', sans-serif;     /* menu items font */
+  font-size: 16px;                               /* menu items font size */
+  color: #FFFFFF;                                /* menu items font color */
+  font-family: 'Averia Libre', sans-serif;       /* menu items font */
   padding-top: 2px;                              /* vertical padding for each menu item */
   padding-bottom: 2px;                           /* vertical padding for each menu item */
   text-decoration: none;
