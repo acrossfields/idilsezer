@@ -35,15 +35,15 @@
   border-bottom: 2px solid #0d4e57;      /* thickness & color of line under navbar */
   display: flex;
   flex-wrap: wrap;                       /* allows navbar to wrap if menu is too long */
-  padding-top: 2px;                       /* between navbar's top edge and row of menu items */ 
-  padding-left: 8px;                      /* between navbar's left edge and first menu item */ 
-  padding-bottom: 2px;                    /* between navbar's bottom edge and row of menu items */ 
+  padding-top: 3px;                       /* between navbar's top edge and row of menu items */ 
+  padding-left: 9px;                      /* between navbar's left edge and first menu item */ 
+  padding-bottom: 4px;                    /* between navbar's bottom edge and row of menu items */ 
   padding-right: 5px;                     /* between navbar's right edge and last menu item */ 
-  gap: 0 10px;                             /* between menu items - vertical and horizontal */
+  gap: 0 12px;                             /* between menu items - vertical and horizontal */
 }
 
 .nav-wrapper .menu-item {
-  font-size: 16px;                               /* menu items font size */
+  font-size: 18px;                               /* menu items font size */
   color: #cfffea;                                /* menu items font color */
   font-family: 'Averia Libre', sans-serif;       /* menu items font */
   padding-top: 2px;                              /* vertical padding for each menu item */
