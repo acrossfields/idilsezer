@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: home
 title: Background
 lang: en
 permalink: /en/background/
