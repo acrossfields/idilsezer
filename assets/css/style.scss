@@ -78,14 +78,14 @@ body a:hover {
 
 .content-home {
   margin: 15px;
-  padding: 0;
+  padding: 5px;
   font-family: 'Dosis', sans-serif;
   font-size: 18px;
 }
 
 .content-home.eng {
   margin: 20px;
-  padding: 10px;
+  padding: 10px 15px;
   color: #d8e2e8;
   background-color: rgba(38, 68, 96, 0.6);
   border: 2px solid #162736;
@@ -95,7 +95,7 @@ body a:hover {
 
 .content-home.lang {
   margin: 20px;
-  padding: 10px;
+  padding: 10px 15px;
   color: #d8e2e8;
   background-color: rgba(72, 57, 85, 0.6);
   border: 2px solid #282030;
@@ -105,7 +105,7 @@ body a:hover {
 
 .content-home.qa {
   margin: 20px;
-  padding: 10px;
+  padding: 10px 15px;
   color: #d8e2e8;
   background-color: rgba(69, 103, 94, 0.6);
   border: 2px solid #2a3e39;
