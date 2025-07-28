@@ -14,7 +14,7 @@
 }
 
 .logo-box {
-  padding-top: 5px;                    /* between logo and the logo box's top edge*/
+  padding-top: 6px;                    /* between logo and the logo box's top edge*/
   padding-left: 8px;                   /* between logo and the logo box's left edge*/
   padding-bottom: 8px;                 /* between logo and the logo box's bottom edge*/
   height: 50px;
@@ -36,7 +36,7 @@
   display: flex;
   flex-wrap: wrap;                       /* allows navbar to wrap if menu is too long */
   padding-top: 3px;                       /* between navbar's top edge and row of menu items */ 
-  padding-left: 9px;                      /* between navbar's left edge and first menu item */ 
+  padding-left: 10px;                      /* between navbar's left edge and first menu item */ 
   padding-bottom: 4px;                    /* between navbar's bottom edge and row of menu items */ 
   padding-right: 5px;                     /* between navbar's right edge and last menu item */ 
   gap: 0 12px;                             /* between menu items - vertical and horizontal */
