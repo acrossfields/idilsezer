@@ -5,8 +5,6 @@ lang: en
 permalink: /en/
 ---
 
-This will be my home page.
-
 <p class="content-home">This will be my home page.</p>
 
 <div class="content-home eng">
