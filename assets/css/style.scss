@@ -57,17 +57,18 @@
 }
 
 .content-box {
-  margin-left: 5px;                     /* between content box's left edge and body border*/
-  margin-right: 5px;                    /* between content box's right edge and body border*/
-  padding: 2px;                         /* padding between content and content box*/
-  background-color: #8DC5C7;            /* background color of content box */
+  margin-left: 0;                       /* between content box's edges and body border*/
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;  
+  padding: 0;                           /* between content and content box's edges*/
 }
 
 body {
   margin: 0;
   font-family: sans-serif;               /* default font */
   color: #283a44;                        /* default font color */
-  font-size: 14px;                       /* default fontsize */
+  font-size: 16px;                       /* default fontsize */
   background-color: #d8e2e8;             /* background color */
 }
 
