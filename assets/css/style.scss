@@ -57,7 +57,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 0;                             /* between the body and sides of the screen */
   font-family: 'Nunito', sans-serif;     /* default font */
   color: #283a44;                        /* default font color */
   font-size: 16px;                       /* default fontsize */
@@ -70,17 +70,15 @@ body a {
 }
 
 body a:hover {
-  color: #0f9ed5;                        /* default link hover color */
+  color: #0f9ed5;                      /* default link hover color */
   text-decoration: underline;
 }
 
 .content-home {
-  margin-left: 0;                       /* between content box's edges and body border*/
-  margin-right: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding: 0;                           /* between content and content box's edges*/
+  margin-bottom: 10px;                /* under the content box*/
+  padding: 0 10px 10px;               /* top-left&right-bottom padding between content and content box's edges*/
   font-family: 'Dosis', sans-serif;
+  font-size: 18px;
 }
 
 .content-home.eng {
