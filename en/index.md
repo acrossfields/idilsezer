@@ -8,12 +8,11 @@ permalink: /en/
 <p class="content-home">[Statement]</p>
 
 <div class="content-home eng">
-
-**Engineering**
-
-- bullet 1
-- bullet 2
-
+  <p style="font-weight: bold; font-size: 1.2em; margin-bottom: 0.6em;">Engineering</p>
+  <ul style="margin-top: 0;">
+    <li>Bullet one</li>
+    <li>Bullet two</li>
+  </ul>
 </div>
 
 <div class="content-home lang">
