@@ -5,10 +5,15 @@ lang: en
 permalink: /en/
 ---
 
-<p class="content-home">This will be my home page.</p>
+<p class="content-home">[Statement]</p>
 
 <div class="content-home eng">
-  <p>Engineering hightlights</p>
+
+**Engineering**
+
+- bullet 1
+- bullet 2
+
 </div>
 
 <div class="content-home lang">
