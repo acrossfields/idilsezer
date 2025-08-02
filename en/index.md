@@ -18,7 +18,13 @@ permalink: /en/
 </div>
 
 <div class="content-home lang">
-  <p>Applied linguistics highlights</p>
+  <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Applied Linguistics</p>
+  <ul style="margin-top: 0; padding-left: 15px;">
+    <li style="margin-bottom: 10px;">Proficiency in academic, technical, business, and colloquial English</li>
+    <li style="margin-bottom: 10px;">Cambridge certification in English language teaching</li>
+    <li style="margin-bottom: 10px;">EFL teaching at a leading language institute in Brazil</li>
+    <li style="margin-bottom: 10px;">Turkish localization of narrative-driven video games</li>
+  </ul>
 </div>
 
 <div class="content-home qa">
