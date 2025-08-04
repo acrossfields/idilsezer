@@ -40,6 +40,6 @@ permalink: /en/
   <ul style="margin-top: 0; padding-left: 18px;">
     <li style="margin-bottom: 10px;">Autonomous study of programming fundamentals</li>
     <li style="margin-bottom: 10px;">Certification in Data Science with applied training in Python-based methods</li>
-    <li style="margin-bottom: 10px;">AI prompting for self-learning and project development</li>
+    <li style="margin-bottom: 10px;">AI prompting practice for self-learning and project development</li>
   </ul>
 </div>
