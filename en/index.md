@@ -5,7 +5,7 @@ lang: en
 permalink: /en/
 ---
 
-<p class="content-home">[Statement]</p>
+<p class="content-home">[Brand statement]</p>
 
 <div class="content-home eng">
   <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Engineering</p>
@@ -36,7 +36,7 @@ permalink: /en/
 </div>
 
 <div class="content-home data">
-  <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Quality Assurance</p>
+  <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Exploration in Data & Computing</p>
   <ul style="margin-top: 0; padding-left: 18px;">
     <li style="margin-bottom: 10px;">Autonomous study of programming fundamentals</li>
     <li style="margin-bottom: 10px;">Certification in data science with applied training in Python-based methods</li>
