@@ -115,3 +115,59 @@ body a:hover {
   background-color: #d8dcbc;
   border-radius: 6px;
 }
+
+.bg {
+  margin: 15px;
+  padding: 8px 5px;
+  font-family: 'Ysabeau', sans-serif;
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.bg-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 15px;
+  margin: 15px;
+  padding: 8px 5px;
+}
+
+.bg-box {
+  display: flex;
+  align-items: center;
+  padding: 8px 15px;
+  border-radius: 6px;
+  line-height: 1.25;
+  font-size: 16px;
+}
+
+.bg-box.eng.main {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #d3dfe9;
+  background-color: #345c80;
+}
+
+.bg-box.eng.sub {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #162736;
+  background-color: #9eb8cf;
+}
+
+.bg-box.eng.side {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #162736;
+  background-color: #bbcddc;
+}
+
+.bg-box img {
+  max-width: 80px;
+  height: auto;
+  margin: 0;
+}
+
+.bg-box-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
