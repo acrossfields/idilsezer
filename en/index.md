@@ -7,7 +7,7 @@ permalink: /en/
 
 <p class="content-home">[Brand statement]</p>
 
-<div class="content-home eng">
+<div class="home eng">
   <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Engineering</p>
   <ul style="margin-top: 0; padding-left: 18px;">
     <li style="margin-bottom: 10px;">Bachelor's & Master's degrees in Aeronautical Engineering</li>
@@ -16,7 +16,7 @@ permalink: /en/
   </ul>
 </div>
 
-<div class="content-home lang">
+<div class="home lang">
   <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Applied Linguistics</p>
   <ul style="margin-top: 0; padding-left: 18px;">
     <li style="margin-bottom: 10px;">Proficiency in academic, technical, business, and colloquial English</li>
@@ -26,7 +26,7 @@ permalink: /en/
   </ul>
 </div>
 
-<div class="content-home qa">
+<div class="home qa">
   <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Quality Assurance</p>
   <ul style="margin-top: 0; padding-left: 18px;">
     <li style="margin-bottom: 10px;">LQA & FQA testing of video games ranging from indie to AAA titles</li>
@@ -35,7 +35,7 @@ permalink: /en/
   </ul>
 </div>
 
-<div class="content-home data">
+<div class="home data">
   <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Exploration in Data & Computing</p>
   <ul style="margin-top: 0; padding-left: 18px;">
     <li style="margin-bottom: 10px;">Autonomous study of programming fundamentals</li>
