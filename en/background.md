@@ -17,7 +17,6 @@ permalink: /en/background/
   </div>
   
   <div class="bg-box eng side">
-    <img src="/assets/images/itu.png" alt="ITU">
     <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU">
     <div class="bg-box-text">
       <p>Bachelor's Degree in Aeronautical Engineering</p>
