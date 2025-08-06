@@ -5,7 +5,7 @@ lang: en
 permalink: /en/
 ---
 
-<p class="content-home">[Brand statement]</p>
+<p class="home">[Brand statement]</p>
 
 <div class="home eng">
   <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Engineering</p>
