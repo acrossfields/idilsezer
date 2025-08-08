@@ -145,6 +145,11 @@ table {
   width: 50px;
 }
 
+.table-bgheader td:nth-child(1) img {
+  max-width: 100%;
+  height: auto;
+}
+
 .table-bgheader td:nth-child(2) {
   text-align: left;
   vertical-align: middle;
