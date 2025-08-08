@@ -13,11 +13,13 @@ permalink: /en/background/
       <img src="{{ '/assets/images/edu.png' | relative_url }}" alt="Education">
     </td>
     <td style="background-color: #bbcddc;">
-      <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU">
-    </td>
-    <td style="background-color: #bbcddc;">
-      Bachelor's Degree in Aeronautical Engineering<br>
-      <strong>Istanbul Technical University</strong>
+      <div style="margin-bottom: 5px;">
+        Bachelor's Degree in Aeronautical Engineering
+      </div>
+      <div style="display: flex; align-items: left; gap: 5px;">
+        <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
+        <strong>Istanbul Technical University</strong>
+      </div>
     </td>
     <td style="background-color: #bbcddc;">
       Sep 2004<br>
