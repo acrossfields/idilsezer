@@ -16,7 +16,7 @@ permalink: /en/background/
       <div style="margin-bottom: 5px;">
         Bachelor's Degree in Aeronautical Engineering
       </div>
-      <div style="display: flex; align-items: left; gap: 5px;">
+      <div style="display: flex; align-items: center; gap: 5px;">
         <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
         <strong>Istanbul Technical University</strong>
       </div>
