@@ -23,7 +23,7 @@ permalink: /en/background/
     </td>
     <td style="background-color: #bbcddc;">
       Sep 2004<br>
-      Aug 2008<br>
+      <div style="margin-bottom: 8px;">Aug 2008</div>
       Istanbul<br>
       Türkiye
     </td>
