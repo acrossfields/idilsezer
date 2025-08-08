@@ -145,30 +145,14 @@ table {
   width: 50px;
 }
 
-.table-bgheader td:nth-child(1) img {
-  max-width: 100%;
-  height: auto;
-}
-
 .table-bgheader td:nth-child(2) {
-  text-align: center;
-  vertical-align: middle;
-  width: 20px;
-}
-
-.table-bgheader td:nth-child(2) img {
-  max-width: 100%;
-  height: auto;
-}
-
-.table-bgheader td:nth-child(3) {
   text-align: left;
   vertical-align: middle;
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 18px;
 }
 
-.table-bgheader td:nth-child(4) {
+.table-bgheader td:nth-child(3) {
   text-align: right;
   vertical-align: middle;
   width: 80px;
