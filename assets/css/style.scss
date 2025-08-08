@@ -120,7 +120,7 @@ body a:hover {
   margin: 15px;
   padding: 8px 5px;
   font-family: 'Ysabeau', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.25;
 }
 
@@ -128,40 +128,38 @@ body a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 15px;
-  margin: 15px;
-  padding: 8px 5px;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
 }
 
 .bg-box {
   display: flex;
   align-items: center;
-  padding: 8px 15px;
+  padding: 0;
   border-radius: 6px;
-  line-height: 1.25;
-  font-size: 16px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  line-height: 1;
+  font-size: 18px;
 }
 
 .bg-box.eng.main {
-  font-family: 'Ubuntu Condensed', sans-serif;
   color: #d3dfe9;
   background-color: #345c80;
 }
 
 .bg-box.eng.sub {
-  font-family: 'Ubuntu Condensed', sans-serif;
   color: #162736;
   background-color: #9eb8cf;
 }
 
 .bg-box.eng.side {
-  font-family: 'Ubuntu', sans-serif;
   color: #162736;
   background-color: #bbcddc;
 }
 
 .bg-box img {
-  max-height: 80px;
+  max-height: 30px;
   width: auto;
   margin: 0;
 }
