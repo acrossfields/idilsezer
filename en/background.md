@@ -16,7 +16,8 @@ permalink: /en/background/
       <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU">
     </td>
     <td style="background-color:#bbcddc; color:#162736;">
-      edu summary
+      Bachelor's Degree in Aeronautical Engineering<br>
+      <strong>Istanbul Technical University</strong><br>
     </td>
     <td style="background-color:#bbcddc; color:#162736;">
       date
