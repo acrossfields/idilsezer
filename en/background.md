@@ -12,7 +12,7 @@ permalink: /en/background/
     <td style="background-color: #345c80;">
       <img src="{{ '/assets/images/edu.png' | relative_url }}" alt="Education">
     </td>
-    <td style="background-color: #bbcddc;">
+    <td style="background-color: #9eb8cf;">
       <div style="margin-bottom: 5px;">
         Bachelor's Degree in Aeronautical Engineering
       </div>
