@@ -7,7 +7,7 @@ permalink: /en/background/
 
 <p class="bg">Engineering background:</p>
 
-<table class="table-bgheader">
+<table class="table-bgheader" style="margin-right: 30px;">
   <tr>
     <td style="background-color:#345c80;">
       <img src="{{ '/assets/images/edu.png' | relative_url }}" alt="Education">
