@@ -17,10 +17,11 @@ permalink: /en/background/
     </td>
     <td style="background-color:#bbcddc; color:#162736;">
       Bachelor's Degree in Aeronautical Engineering<br>
-      <strong>Istanbul Technical University</strong><br>
+      <strong>Istanbul Technical University</strong>
     </td>
     <td style="background-color:#bbcddc; color:#162736;">
-      date
+      Sep 2004 - Aug 2008<br>
+      Istanbul, Türkiye
     </td>
   </tr>
 </table>
