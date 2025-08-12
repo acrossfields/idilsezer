@@ -126,7 +126,7 @@ body a:hover {
 
 table {
   margin: 10px 8px;
-  width: calc(100% - 16px);   /* subtract total horizontal margins */
+  width: calc(100% - 16px);
 }
 
 .table-bgheader {
@@ -163,3 +163,33 @@ table {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 14px;
 }
+
+.table-bgsub {
+  border: none;
+}
+
+.table-bgsub td {
+  border: none;
+  padding: 8px;
+}
+
+.table-bgsub td:nth-child(1) {
+  text-align: left;
+  vertical-align: middle;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 16px;
+  width: 100px;
+}
+
+.table-bgsub td:nth-child(2) {
+  text-align: left;
+  vertical-align: middle;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 16px;
+}
+
+.bg-indented {
+  border-left: 3px solid #345c80;
+  margin-left: 12px;
+}
+
