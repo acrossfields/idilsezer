@@ -17,7 +17,7 @@ permalink: /en/background/
         Bachelor's Degree in Aeronautical Engineering
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="{{ '/assets/images/itu-eng.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
+        <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
@@ -31,7 +31,7 @@ permalink: /en/background/
 </table>
 
 <div class="bg-indented">
-  <p>This is some text inside the section.</p>
+  <p>Summary of Bachelor's Degree</p>
 
   <table class="table-bgsub">
     <tr>
