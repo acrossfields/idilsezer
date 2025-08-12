@@ -35,8 +35,12 @@ permalink: /en/background/
 
   <table class="table-bgsub">
     <tr>
-      <td>Col 1</td>
-      <td>Col 2</td>
+      <td style="background-color: #9eb8cf;">
+        Col 1
+      </td>
+      <td style="background-color: #bbcddc;">
+        Col 2
+      </td>
     </tr>
   </table>
 
