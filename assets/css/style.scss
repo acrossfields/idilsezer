@@ -163,17 +163,11 @@ body a:hover {
 
 .bg-indented {
   border-left: 3px solid #345c80;
-  margin: 0 0 8px 11px;
+  margin: 5px 5px 8px 11px;
   padding: 0 0 0 5px;
 }
 
-.bg-indented table {
-  margin: 0;
-  padding: 0;
-}
-
 .table-bgsub {
-  margin: 10px 8px;
   margin: 5px 8px 5px 16px;
   width: calc(100% - 24px);
   border: none;
