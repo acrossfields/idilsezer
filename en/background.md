@@ -10,14 +10,14 @@ permalink: /en/background/
 <table class="table-bgheader">
   <tr>
     <td style="background-color: #345c80;">
-      <img src="{{ '/assets/images/edu.png' | relative_url }}" alt="Education">
+      <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
     </td>
     <td style="background-color: #9eb8cf;">
       <div style="margin-bottom: 5px;">
         Bachelor's Degree in Aeronautical Engineering
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
+        <img src="{{ '/assets/images/itu-eng.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
@@ -36,13 +36,23 @@ permalink: /en/background/
   <table class="table-bgsub">
     <tr>
       <td style="background-color: #9eb8cf;">
-        Col 1
+        Internship
       </td>
       <td style="background-color: #bbcddc;">
-        Col 2
+        Prysmian Group
       </td>
     </tr>
   </table>
 
-  <p>Another paragraph after the table.</p>
+  <table class="table-bgsub">
+    <tr>
+      <td style="background-color: #9eb8cf;">
+        Internship
+      </td>
+      <td style="background-color: #bbcddc;">
+        Turkish Aerospace Industries
+      </td>
+    </tr>
+  </table>
+
 </div>
