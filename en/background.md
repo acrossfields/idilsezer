@@ -52,6 +52,9 @@ permalink: /en/background/
       <td style="background-color: #bbcddc;">
         Turkish Aerospace Industries
       </td>
+      <td style="background-color: #bbcddc;">
+        <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
+      </td>
     </tr>
   </table>
 
