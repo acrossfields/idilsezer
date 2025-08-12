@@ -124,12 +124,9 @@ body a:hover {
   line-height: 1.25;
 }
 
-table {
+.table-bgheader {
   margin: 10px 8px;
   width: calc(100% - 16px);
-}
-
-.table-bgheader {
   border: none;
 }
 
@@ -172,10 +169,13 @@ table {
 
 .bg-indented table {
   margin: 0;
-  padding: 0 0 5px 0;
+  padding: 0;
 }
 
 .table-bgsub {
+  margin: 10px 8px;
+  margin: 5px 8px 5px 16px;
+  width: calc(100% - 24px);
   border: none;
 }
 
