@@ -29,3 +29,16 @@ permalink: /en/background/
     </td>
   </tr>
 </table>
+
+<div class="bg-indented">
+  <p>This is some text inside the section.</p>
+
+  <table class="table-bgsub">
+    <tr>
+      <td>Col 1</td>
+      <td>Col 2</td>
+    </tr>
+  </table>
+
+  <p>Another paragraph after the table.</p>
+</div>
