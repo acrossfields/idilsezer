@@ -164,6 +164,16 @@ table {
   font-size: 14px;
 }
 
+.bg-indented {
+  border-left: 3px solid #345c80;
+  margin-left: 20px;
+  padding-left: 8px;
+}
+
+.bg-indented table {
+  margin-left: 0;
+}
+
 .table-bgsub {
   border: none;
 }
@@ -187,10 +197,3 @@ table {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 16px;
 }
-
-.bg-indented {
-  border-left: 3px solid #345c80;
-  margin-left: 20px;
-  padding-left: 8px;
-}
-
