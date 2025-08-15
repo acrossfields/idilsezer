@@ -5,8 +5,6 @@ lang: en
 permalink: /en/background/
 ---
 
-<p class="bg">Engineering background:</p>
-
 <table class="table-bgheader">
   <tr>
     <td style="background-color: #345c80;">
