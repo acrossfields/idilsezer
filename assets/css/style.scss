@@ -57,6 +57,31 @@
   text-decoration: underline;
 }
 
+.sub-nav {
+  background: #f0f0f0;   /* light background */
+  border-bottom: 1px solid #ccc;
+  padding: 0.5em 1em;
+  margin-bottom: 1.5em;
+}
+
+.sub-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1em;   /* spacing between links */
+}
+
+.sub-nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.sub-nav a:hover {
+  text-decoration: underline;
+}
+
 body {
   margin: 0;                             /* between the body and sides of the screen */
   font-family: 'Nunito', sans-serif;     /* default font */
