@@ -29,7 +29,7 @@ permalink: /en/background/
 </table>
 
 <div class="bg-indented">
-  <p style="margin-top: 5px; margin-bottom: 5px;">Summary of Bachelor's Degree</p>
+  <p style="margin-top: 0; margin-bottom: 10px;">Summary of Bachelor's Degree</p>
   <table class="table-bgsub">
     <tr>
       <td style="background-color: #9eb8cf;">
