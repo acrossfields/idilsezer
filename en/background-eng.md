@@ -58,4 +58,18 @@ permalink: /en/background/engineering/
     </tr>
   </table>
 
+  <table class="table-bgsub">
+    <tr>
+      <td style="background-color: #9eb8cf;">
+        Team project
+      </td>
+      <td style="background-color: #bbcddc;">
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="{{ '/assets/images/dbf.png' | relative_url }}" alt="DBF" style="height: 24px;">
+          <span>12th AIAA-Cessna-Raytheon Design/Build/Fly Competition</span>
+        </div>
+      </td>
+    </tr>
+  </table>
+
 </div>
