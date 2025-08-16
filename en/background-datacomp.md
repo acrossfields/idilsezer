@@ -1,6 +1,6 @@
 ---
 layout: backgr
-title: Background
+title: Data & Computing Background
 lang: en
 permalink: /en/background/data-computing/
 ---
