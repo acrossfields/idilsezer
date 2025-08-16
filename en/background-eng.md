@@ -2,7 +2,7 @@
 layout: backgr
 title: Background
 lang: en
-permalink: /en/background/
+permalink: /en/background/engineering/
 ---
 
 <table class="table-bgheader">
