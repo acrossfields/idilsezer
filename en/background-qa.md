@@ -1,6 +1,6 @@
 ---
 layout: backgr
-title: Background
+title: Quality Assurance Background
 lang: en
 permalink: /en/background/qa/
 ---
