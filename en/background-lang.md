@@ -1,6 +1,6 @@
 ---
 layout: backgr
-title: Background
+title: Linguistics Background
 lang: en
 permalink: /en/background/linguistics/
 ---
