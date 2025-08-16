@@ -36,7 +36,10 @@ permalink: /en/background/engineering/
         Internship
       </td>
       <td style="background-color: #bbcddc;">
-        Prysmian Group
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 32px;">
+          <span>Prysmian Group</span>
+        </div>
       </td>
     </tr>
   </table>
@@ -47,10 +50,10 @@ permalink: /en/background/engineering/
         Internship
       </td>
       <td style="background-color: #bbcddc;">
-        Turkish Aerospace Industries
-      </td>
-      <td style="background-color: #bbcddc;">
-        <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="{{ '/assets/images/tai.png' | relative_url }}" alt="TAI" style="height: 32px;">
+          <span>Turkish Aerospace Industries</span>
+        </div>
       </td>
     </tr>
   </table>
