@@ -37,7 +37,7 @@ permalink: /en/background/engineering/
       </td>
       <td style="background-color: #bbcddc;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 32px;">
+          <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
           <span>Prysmian Group</span>
         </div>
       </td>
@@ -51,7 +51,7 @@ permalink: /en/background/engineering/
       </td>
       <td style="background-color: #bbcddc;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/tai.png' | relative_url }}" alt="TAI" style="height: 32px;">
+          <img src="{{ '/assets/images/tai.png' | relative_url }}" alt="TAI" style="width: 40px;">
           <span>Turkish Aerospace Industries</span>
         </div>
       </td>
