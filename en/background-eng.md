@@ -5,7 +5,7 @@ lang: en
 permalink: /en/background/engineering/
 ---
 
-<table class="table-bgheader">
+<table class="table-bgheader" style="color: #162736;">
   <tr>
     <td style="background-color: #345c80;">
       <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
@@ -29,8 +29,8 @@ permalink: /en/background/engineering/
 </table>
 
 <div class="bg-indented">
-  <p style="margin-top: 0; margin-bottom: 10px;">Summary of Bachelor's Degree</p>
-  <table class="table-bgsub">
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of Bachelor's Degree</p>
+  <table class="table-bgsub" style="color: #162736;">
     <tr>
       <td style="background-color: #9eb8cf;">
         Internship
@@ -44,7 +44,7 @@ permalink: /en/background/engineering/
     </tr>
   </table>
 
-  <table class="table-bgsub">
+  <table class="table-bgsub" style="color: #162736;">
     <tr>
       <td style="background-color: #9eb8cf;">
         Internship
@@ -58,7 +58,7 @@ permalink: /en/background/engineering/
     </tr>
   </table>
 
-  <table class="table-bgsub">
+  <table class="table-bgsub" style="color: #162736;">
     <tr>
       <td style="background-color: #9eb8cf;">
         Team project
