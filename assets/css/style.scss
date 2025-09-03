@@ -73,11 +73,11 @@
 
 .sub-nav ul {
   list-style: none;
-  /* margin: 0; */
-  /* padding: 0; */
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-wrap: wrap;
-  gap: 0 12px;
+  gap: 0 15px;
 }
 
 .sub-nav li {
@@ -85,7 +85,7 @@
 }
 
 .sub-nav a {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
   color: #e1fff2;
   font-family: 'Averia Libre', sans-serif;
