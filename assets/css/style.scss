@@ -99,6 +99,11 @@
   text-decoration: underline;
 }
 
+.nav-wrapper a.active,
+.sub-nav a.active {
+  font-weight: bold;
+}
+
 body {
   margin: 0;                             /* between the body and sides of the screen */
   font-family: 'Nunito', sans-serif;     /* default font */
