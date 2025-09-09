@@ -20,10 +20,10 @@
 
     <nav class="sub-nav">
       <ul>
-        <li><a href="{{ '/en/background/engineering/' | relative_url }}">Engineering</a></li>
-        <li><a href="{{ '/en/background/linguistics/' | relative_url }}">Applied Linguistics</a></li>
-        <li><a href="{{ '/en/background/qa/' | relative_url }}">Quality Assurance</a></li>
-        <li><a href="{{ '/en/background/data-computing/' | relative_url }}">Data &amp; Computing</a></li>
+        <li><a href="{{ '/en/background/engineering/' | relative_url }}" class="{% if page.url == '/en/background/engineering/' %}active{% endif %}">Engineering</a></li>
+        <li><a href="{{ '/en/background/linguistics/' | relative_url }}" class="{% if page.url == '/en/background/linguistics/' %}active{% endif %}">Applied Linguistics</a></li>
+        <li><a href="{{ '/en/background/qa/' | relative_url }}" class="{% if page.url == '/en/background/qa/' %}active{% endif %}">Quality Assurance</a></li>
+        <li><a href="{{ '/en/background/data-computing/' | relative_url }}" class="{% if page.url == '/en/background/data-computing/' %}active{% endif %}">Data &amp; Computing</a></li>
       </ul>
     </nav>
     
