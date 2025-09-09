@@ -11,9 +11,8 @@
 </header>
 
 <nav class="nav-wrapper">
-  <a href="{{ '/en/' | relative_url }}" class="menu-item {% if page.url == '/en/' %}active{% endif %}">Home</a>
-  <a href="{{ '/en/background/' | relative_url }}" class="menu-item {% if page.url contains '/background/' %}active{% endif %}">Background</a>
-  <a href="{{ '/en/capabilities/' | relative_url }}" class="menu-item {% if page.url contains '/capabilities/' %}active{% endif %}">Capabilities</a>
-  <a href="{{ '/en/contact/' | relative_url }}" class="menu-item {% if page.url contains '/contact/' %}active{% endif %}">Contact</a>
+  <a href="{{ '/en/' | relative_url }}" class="menu-item{% if page.url == '/en/' %} active{% endif %}">Home</a>
+  <a href="{{ '/en/background/' | relative_url }}" class="menu-item{% if page.url contains '/en/background/' %} active{% endif %}">Background</a>
+  <a href="{{ '/en/capabilities/' | relative_url }}" class="menu-item{% if page.url == '/en/capabilities/' %} active{% endif %}">Capabilities</a>
+  <a href="{{ '/en/contact/' | relative_url }}" class="menu-item{% if page.url == '/en/contact/' %} active{% endif %}">Contact</a>
 </nav>
-
