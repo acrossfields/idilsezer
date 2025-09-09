@@ -99,9 +99,14 @@
   text-decoration: underline;
 }
 
-.nav-wrapper a.active,
+.nav-wrapper a.active {
+  font-weight: bold;
+  color: #ddfdad;
+}
+
 .sub-nav a.active {
   font-weight: bold;
+  color: #ebfece;
 }
 
 body {
