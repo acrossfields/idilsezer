@@ -30,6 +30,7 @@ permalink: /en/background/engineering/
 
 <div class="bg-indented">
   <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of Bachelor's Degree</p>
+
   <table class="table-bgsub" style="color: #162736;">
     <tr>
       <td style="background-color: #9eb8cf;">
@@ -40,14 +41,6 @@ permalink: /en/background/engineering/
           <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
           <span>Prysmian Group</span>
         </div>
-      </td>
-      <td style="background-color: #9eb8cf;"></td>
-    </tr>
-    <tr class="table-bgsub-details">
-      <td colspan="3" style="background-color: #e6eef4;">
-        <p>
-          [Details of the internship]
-        </p>
       </td>
     </tr>
   </table>
