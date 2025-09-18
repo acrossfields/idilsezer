@@ -41,6 +41,8 @@ permalink: /en/background/engineering/
           <span>Prysmian Group</span>
         </div>
       </td>
+      <td style="background-color: #9eb8cf;">
+      </td>
     </tr>
   </table>
 
