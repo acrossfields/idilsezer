@@ -42,6 +42,14 @@ permalink: /en/background/engineering/
           <span>Prysmian Group</span>
         </div>
       </td>
+      <td style="background-color: #9eb8cf;"></td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3" style="background-color: #e6eef4; color: #162736; padding: 8px;">
+        <p>
+          [Details of the internship]
+        </p>
+      </td>
     </tr>
   </table>
 
