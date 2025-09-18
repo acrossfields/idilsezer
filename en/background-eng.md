@@ -41,7 +41,7 @@ permalink: /en/background/engineering/
           <span>Prysmian Group</span>
         </div>
       </td>
-      <td class="arrow-cell" style="background-color: #9eb8cf;"></td>
+      <td style="background-color: #9eb8cf;"></td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="background-color: #e6eef4;">
