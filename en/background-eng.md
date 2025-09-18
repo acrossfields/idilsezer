@@ -44,6 +44,13 @@ permalink: /en/background/engineering/
       <td style="background-color: #9eb8cf;">
       </td>
     </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3" style="background-color: #e6eef4;">
+        <p>
+          [Details of the internship]
+        </p>
+      </td>
+    </tr>
   </table>
 
   <table class="table-bgsub" style="color: #162736;">
