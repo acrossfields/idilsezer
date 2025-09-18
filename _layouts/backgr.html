@@ -34,14 +34,14 @@
     </div>
 
     <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        document.querySelectorAll(".table-bgsub td.arrow-cell").forEach(function (arrowCell) {
-          arrowCell.addEventListener("click", function () {
-            const table = arrowCell.closest(".table-bgsub");
-            table.classList.toggle("open");
-          });
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll(".table-bgsub td:nth-child(3)").forEach(function (arrowCell) {
+        arrowCell.addEventListener("click", function () {
+          const table = arrowCell.closest(".table-bgsub");
+          table.classList.toggle("open");
         });
       });
+    });
     </script>
     
   </body>
