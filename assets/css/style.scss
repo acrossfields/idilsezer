@@ -277,6 +277,6 @@ body a:hover {
   color: #162736;
 }
 
-.table-bgsub.open + .table-bgsub-details {
+.table-bgsub.open .table-bgsub-details {
   display: table-row;
 }
