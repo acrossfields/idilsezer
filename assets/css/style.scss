@@ -235,7 +235,6 @@ body a:hover {
   text-align: center;
   vertical-align: middle;
   width: 20px;
-  font-size: 14px;
   cursor: pointer;
   position: relative;
   user-select: none;
@@ -245,7 +244,6 @@ body a:hover {
   content: "▼";
   display: inline-block;
   transition: transform 0.2s ease;
-  color: #162736;
 }
 
 .table-bgsub.open td:nth-child(3)::after {
