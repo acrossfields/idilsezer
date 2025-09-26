@@ -42,7 +42,8 @@ permalink: /en/background/engineering/
           <span>Prysmian Group</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px;"></td>
+      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      </td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
@@ -64,7 +65,8 @@ permalink: /en/background/engineering/
           <span>Turkish Aerospace Industries</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px;"></td>
+      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      </td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
@@ -86,7 +88,8 @@ permalink: /en/background/engineering/
           <span>Design/Build/Fly Competition</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px;"></td>
+      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      </td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
