@@ -64,6 +64,14 @@ permalink: /en/background/engineering/
           <span>Turkish Aerospace Industries</span>
         </div>
       </td>
+      <td style="background-color: #9eb8cf; padding: 8px;"></td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+        <p style="margin: 0;">
+          [Details of the internship]
+        </p>
+      </td>
     </tr>
   </table>
 
@@ -77,6 +85,14 @@ permalink: /en/background/engineering/
           <img src="{{ '/assets/images/dbf.png' | relative_url }}" alt="DBF" style="height: 32px;">
           <span>Design/Build/Fly Competition</span>
         </div>
+      </td>
+      <td style="background-color: #9eb8cf; padding: 8px;"></td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+        <p style="margin: 0;">
+          [Details of the project]
+        </p>
       </td>
     </tr>
   </table>
