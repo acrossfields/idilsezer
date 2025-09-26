@@ -28,7 +28,7 @@ permalink: /en/background/engineering/
   </tr>
 </table>
 
-<div class="bg-indented">
+<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 5px 0 2px 8px;">
   <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of Bachelor's Degree</p>
 
   <table class="table-bgsub" style="color: #162736;">
