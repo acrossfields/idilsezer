@@ -31,7 +31,7 @@ permalink: /en/background/engineering/
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 5px 0 2px 8px;">
   <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of Bachelor's Degree</p>
 
-  <table class="table-bgsub" style="color: #162736;">
+  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
       <td style="background-color: #9eb8cf;">
         Internship
@@ -53,7 +53,7 @@ permalink: /en/background/engineering/
     </tr>
   </table>
 
-  <table class="table-bgsub" style="color: #162736;">
+  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
       <td style="background-color: #9eb8cf;">
         Internship
@@ -67,7 +67,7 @@ permalink: /en/background/engineering/
     </tr>
   </table>
 
-  <table class="table-bgsub" style="color: #162736;">
+  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
       <td style="background-color: #9eb8cf;">
         Team project
