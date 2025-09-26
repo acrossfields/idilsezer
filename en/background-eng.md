@@ -135,7 +135,7 @@ permalink: /en/background/engineering/
       </td>
       <td style="background-color: #bbcddc; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
+          <img src="{{ '/assets/images/tubitak.png' | relative_url }}" alt="TUBITAK" style="height: 32px;">
           <span>TÜBİTAK</span>
         </div>
       </td>
