@@ -179,7 +179,8 @@ permalink: /en/background/engineering/
       <td style="background-color: #9eb8cf; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         Master's thesis
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td style="background-color: #bbcddc; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
+        Experimental study on laminated composites
       </td>
       <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
       </td>
