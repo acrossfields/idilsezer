@@ -10,7 +10,7 @@ permalink: /en/background/engineering/
     <td style="background-color: #345c80; padding: 8px;">
       <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
     </td>
-    <td style="background-color: #9eb8cf; padding: 8px;">
+    <td style="background-color: #9eb8cf; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 18px;">
       <div style="margin-bottom: 5px;">
         Bachelor's Degree in Aeronautical Engineering
       </div>
@@ -19,7 +19,7 @@ permalink: /en/background/engineering/
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
-    <td style="background-color: #bbcddc; padding: 8px;">
+    <td style="background-color: #bbcddc; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 14px;">
       Sep 2004<br>
       <div style="margin-bottom: 8px;">Aug 2008</div>
       Istanbul<br>
