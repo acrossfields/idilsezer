@@ -45,8 +45,8 @@ permalink: /en/background/engineering/
       <td style="background-color: #9eb8cf;"></td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3">
-        <p>
+      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+        <p style="margin: 0;">
           [Details of the internship]
         </p>
       </td>
