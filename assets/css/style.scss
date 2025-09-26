@@ -274,10 +274,12 @@ body a:hover {
 
 .table-bgsub-details {
   display: none;
+}
+
+.table-bgsub-details td {
   font-size: 15px;
   font-family: 'Ysabeau', sans-serif;
   padding: 5px;
-  color: #162736;
 }
 
 .table-bgsub.open .table-bgsub-details {
