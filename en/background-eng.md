@@ -33,16 +33,16 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Internship
       </td>
-      <td style="background-color: #bbcddc;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
           <span>Prysmian Group</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf;"></td>
+      <td style="background-color: #9eb8cf; padding: 8px;"></td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
