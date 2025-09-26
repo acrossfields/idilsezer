@@ -158,7 +158,7 @@ permalink: /en/background/engineering/
       </td>
       <td style="background-color: #bbcddc; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
+          <img src="{{ '/assets/images/aiaa.png' | relative_url }}" alt="AIAA" style="height: 24px;">
           <span>AIAA</span>
         </div>
       </td>
