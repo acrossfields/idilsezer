@@ -33,10 +33,10 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td style="background-color: #9eb8cf; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         Internship
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td style="background-color: #bbcddc; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
           <span>Prysmian Group</span>
@@ -55,10 +55,10 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td style="background-color: #9eb8cf; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         Internship
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td style="background-color: #bbcddc; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/tai.png' | relative_url }}" alt="TAI" style="width: 40px;">
           <span>Turkish Aerospace Industries</span>
@@ -69,10 +69,10 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td style="background-color: #9eb8cf; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         Team project
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td style="background-color: #bbcddc; padding: 8px; font-family: 'Ubuntu Condensed', sans-serif; font-size: 16px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/dbf.png' | relative_url }}" alt="DBF" style="height: 32px;">
           <span>Design/Build/Fly Competition</span>
