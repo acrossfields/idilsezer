@@ -55,10 +55,10 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Internship
       </td>
-      <td style="background-color: #bbcddc;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/tai.png' | relative_url }}" alt="TAI" style="width: 40px;">
           <span>Turkish Aerospace Industries</span>
@@ -69,10 +69,10 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Team project
       </td>
-      <td style="background-color: #bbcddc;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/dbf.png' | relative_url }}" alt="DBF" style="height: 32px;">
           <span>Design/Build/Fly Competition</span>
