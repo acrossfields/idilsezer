@@ -102,7 +102,7 @@ permalink: /en/background/engineering/
 
 </div>
 
-<table class="table-bgheader" style="color: #162736; margin: 10px 8px;">
+<table class="table-bgheader" style="color: #162736; margin: 20px 8px 10px 8px;">
   <tr>
     <td style="background-color: #345c80; padding: 8px;">
       <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
