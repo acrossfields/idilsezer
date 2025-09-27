@@ -46,7 +46,7 @@ permalink: /en/background/engineering/
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+      <td colspan="3" style="font-family: 'Carrois Gothic', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
           [Aug 2006 - Sep 2006] In the Prysmian cable factory located in Bursa, Türkiye, I observed the design process in the product planning department and gathered general knowledge about factory organization.
         </p>
@@ -69,7 +69,7 @@ permalink: /en/background/engineering/
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+      <td colspan="3" style="font-family: 'Carrois Gothic', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
           [Jun 2007 - Jul 2007] In the TAI facility located in Ankara, Türkiye, I observed modernization of F-16s, manufacturing and assembly of both metal and composite components, and other processes performed by a major Turkish manufacturer of aerospace products and services for Airbus, Sikorsky, Eurocopter, and MD Helicopters.
         </p>
@@ -92,7 +92,7 @@ permalink: /en/background/engineering/
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+      <td colspan="3" style="font-family: 'Carrois Gothic', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
           As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the UçArı team's model aircraft. This was an invaluable experience for me, as it brought together all the theoretical knowledge on aircraft design that I had been collecting for four years and allowed me to experience building a model aircraft from scratch with my own hands. I also secured sponsorship and designed the team logo.
         </p>
@@ -143,7 +143,7 @@ permalink: /en/background/engineering/
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+      <td colspan="3" style="font-family: 'Carrois Gothic', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
           [Details of the research assistance]
         </p>
@@ -166,7 +166,7 @@ permalink: /en/background/engineering/
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+      <td colspan="3" style="font-family: 'Carrois Gothic', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
           [Details of the training]
         </p>
@@ -186,7 +186,7 @@ permalink: /en/background/engineering/
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
+      <td colspan="3" style="font-family: 'Carrois Gothic', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
           [Details of the thesis]
         </p>
