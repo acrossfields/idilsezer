@@ -79,16 +79,16 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 16px;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Team project
       </td>
-      <td style="background-color: #bbcddc; padding: 8px; font-size: 16px;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/dbf.png' | relative_url }}" alt="DBF" style="height: 32px;">
           <span>Design/Build/Fly Competition</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
