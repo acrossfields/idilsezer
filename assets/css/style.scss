@@ -204,6 +204,9 @@ body a:hover {
 
 .bg-indented {
   border-left: 3px solid #345c80;
+}
+
+.bg-indented p {
   font-family: 'Barlow', sans-serif;
   font-size: 16px;
 }
@@ -255,7 +258,8 @@ body a:hover {
   display: none;
 }
 
-.table-bgsub-details td {
+.table-bgsub-details td,
+.table-bgsub-details td p {
   font-family: 'Barlow', sans-serif;
   font-size: 10px;
 }
