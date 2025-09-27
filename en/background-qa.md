@@ -5,4 +5,4 @@ lang: en
 permalink: /en/background/qa/
 ---
 
-<p class="bg">[Quality assurance background]</p>
+[Quality assurance background]
