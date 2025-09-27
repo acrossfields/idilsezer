@@ -29,7 +29,7 @@ permalink: /en/background/engineering/
 </table>
 
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 5px 0 2px 8px;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of Bachelor's Degree</p>
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">My academic interests were mainly focused on structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
@@ -48,7 +48,7 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
-          [Details of the internship]
+          [Aug 2006 - Sep 2006] In the Prysmian cable factory located in Bursa, Türkiye, I observed the design process in the product planning department and gathered general knowledge about factory organization.
         </p>
       </td>
     </tr>
@@ -71,7 +71,7 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
-          [Details of the internship]
+          [Jun 2007 - Jul 2007] In the TAI facility located in Ankara, Türkiye, I observed modernization of F-16s, manufacturing and assembly of both metal and composite components, and other processes performed by a major Turkish manufacturer of aerospace products and services for Airbus, Sikorsky, Eurocopter, and MD Helicopters.
         </p>
       </td>
     </tr>
@@ -94,7 +94,7 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="font-family: 'Ysabeau', sans-serif; font-size: 15px; padding: 5px;">
         <p style="margin: 0;">
-          [Details of the project]
+          As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the UçArı team's model aircraft. This was an invaluable experience for me, as it brought together all the theoretical knowledge on aircraft design that I had been collecting for four years and allowed me to experience building a model aircraft from scratch with my own hands. I also secured sponsorship and designed the team logo.
         </p>
       </td>
     </tr>
