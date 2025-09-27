@@ -192,17 +192,20 @@ body a:hover {
 .table-bgheader td:nth-child(2) {
   text-align: left;
   vertical-align: middle;
+  font-size: 18px;
 }
 
 .table-bgheader td:nth-child(3) {
   text-align: right;
   vertical-align: middle;
   width: 50px;
+  font-size: 14px;
 }
 
 .bg-indented {
   border-left: 3px solid #345c80;
   font-family: 'Barlow', sans-serif;
+  font-size: 16px;
 }
 
 .table-bgsub {
@@ -219,11 +222,13 @@ body a:hover {
   text-align: left;
   vertical-align: middle;
   width: 100px;
+  font-size: 16px;
 }
 
 .table-bgsub td:nth-child(2) {
   text-align: left;
   vertical-align: middle;
+  font-size: 16px;
 }
 
 .table-bgsub td:nth-child(3) {
@@ -233,6 +238,7 @@ body a:hover {
   cursor: pointer;
   position: relative;
   user-select: none;
+  font-size: 14px;
 }
 
 .table-bgsub td:nth-child(3)::after {
@@ -248,6 +254,7 @@ body a:hover {
 .table-bgsub-details {
   display: none;
   font-family: 'Barlow', sans-serif;
+  font-size: 15px;
 }
 
 .table-bgsub.open .table-bgsub-details {
