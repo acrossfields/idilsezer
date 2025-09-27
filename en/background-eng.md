@@ -10,7 +10,7 @@ permalink: /en/background/engineering/
     <td style="background-color: #345c80; padding: 8px;">
       <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
     </td>
-    <td style="background-color: #9eb8cf; padding: 8px; font-size: 18px;">
+    <td style="background-color: #9eb8cf; padding: 8px;">
       <div style="margin-bottom: 5px;">
         Bachelor's Degree in Aeronautical Engineering
       </div>
@@ -19,7 +19,7 @@ permalink: /en/background/engineering/
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
-    <td style="background-color: #bbcddc; padding: 8px; font-size: 14px;">
+    <td style="background-color: #bbcddc; padding: 8px;">
       Sep 2004<br>
       <div style="margin-bottom: 8px;">Aug 2008</div>
       Istanbul<br>
@@ -33,20 +33,20 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 16px;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Internship
       </td>
-      <td style="background-color: #bbcddc; padding: 8px; font-size: 16px;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
           <span>Prysmian Group</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-size: 15px; padding: 5px;">
+      <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
           [Aug 2006 - Sep 2006] In the Prysmian cable factory located in Bursa, Türkiye, I observed the design process in the product planning department and gathered general knowledge about factory organization.
         </p>
@@ -56,20 +56,20 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 16px;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Internship
       </td>
-      <td style="background-color: #bbcddc; padding: 8px; font-size: 16px;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/tai.png' | relative_url }}" alt="TAI" style="width: 40px;">
           <span>Turkish Aerospace Industries</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-size: 15px; padding: 5px;">
+      <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
           [Jun 2007 - Jul 2007] In the TAI facility located in Ankara, Türkiye, I observed modernization of F-16s, manufacturing and assembly of both metal and composite components, and other processes performed by a major Turkish manufacturer of aerospace products and services for Airbus, Sikorsky, Eurocopter, and MD Helicopters.
         </p>
@@ -92,7 +92,7 @@ permalink: /en/background/engineering/
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-size: 15px; padding: 5px;">
+      <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
           As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the UçArı team's model aircraft. This was an invaluable experience for me, as it brought together all the theoretical knowledge on aircraft design that I had been collecting for four years and allowed me to experience building a model aircraft from scratch with my own hands. I also secured sponsorship and designed the team logo.
         </p>
@@ -107,7 +107,7 @@ permalink: /en/background/engineering/
     <td style="background-color: #345c80; padding: 8px;">
       <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
     </td>
-    <td style="background-color: #9eb8cf; padding: 8px; font-size: 18px;">
+    <td style="background-color: #9eb8cf; padding: 8px;">
       <div style="margin-bottom: 5px;">
         Master's Degree in Aeronautical and Astronautical Engineering
       </div>
@@ -116,7 +116,7 @@ permalink: /en/background/engineering/
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
-    <td style="background-color: #bbcddc; padding: 8px; font-size: 14px;">
+    <td style="background-color: #bbcddc; padding: 8px;">
       Sep 2008<br>
       <div style="margin-bottom: 8px;">Jul 2011</div>
       Istanbul<br>
@@ -130,20 +130,20 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 16px;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Research assistance
       </td>
-      <td style="background-color: #bbcddc; padding: 8px; font-size: 16px;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/tubitak.png' | relative_url }}" alt="TUBITAK" style="height: 32px;">
           <span>TÜBİTAK</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-size: 15px; padding: 5px;">
+      <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
           [Details of the research assistance]
         </p>
@@ -153,20 +153,20 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 16px;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Extracurricular training
       </td>
-      <td style="background-color: #bbcddc; padding: 8px; font-size: 16px;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="{{ '/assets/images/aiaa.png' | relative_url }}" alt="AIAA" style="height: 32px;">
           <span>AIAA</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-size: 15px; padding: 5px;">
+      <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
           [Details of the training]
         </p>
@@ -176,17 +176,17 @@ permalink: /en/background/engineering/
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 16px;">
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Master's thesis
       </td>
-      <td style="background-color: #bbcddc; padding: 8px; font-size: 16px;">
+      <td style="background-color: #bbcddc; padding: 8px;">
         Experimental study on laminated composites
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; font-size: 14px; color: #162736;">
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="font-size: 15px; padding: 5px;">
+      <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
           [Details of the thesis]
         </p>
