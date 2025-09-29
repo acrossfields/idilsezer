@@ -125,7 +125,7 @@ permalink: /en/background/engineering/
   </tr>
 </table>
 
-<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 5px 0 2px 8px; border-left-color: #345c80;">
+<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
   <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of Master's Degree</p>
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
