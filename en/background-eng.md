@@ -98,7 +98,7 @@ permalink: /en/background/engineering/
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
           <img src="{{ '/assets/images/dbf_ucari.jpeg' | relative_url }}" alt="UçArı Team" style="max-width: 400px; width: 100%; height: auto;">
-          <figcaption style="font-size: 12px; color: #555;">The UçArı team at Hezarfen Airfield for flight testing</figcaption>
+          <figcaption style="font-size: 12px; color: #162736;">The UçArı team at Hezarfen Airfield for flight testing</figcaption>
         </figure>
       </td>
     </tr>
@@ -106,7 +106,7 @@ permalink: /en/background/engineering/
 
 </div>
 
-<table class="table-bgheader" style="color: #162736; margin: 25px 8px 5px 8px;">
+<table class="table-bgheader" style="color: #162736; margin: 40px 8px 5px 8px;">
   <tr>
     <td style="background-color: #345c80; padding: 8px;">
       <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
@@ -200,7 +200,7 @@ permalink: /en/background/engineering/
 
 </div>
 
-<table class="table-bgheader" style="color: #162736; margin: 25px 8px 5px 8px;">
+<table class="table-bgheader" style="color: #162736; margin: 40px 8px 5px 8px;">
   <tr>
     <td style="background-color: #345c80; padding: 8px;">
       <img src="{{ '/assets/images/exp-eng.png' | relative_url }}" alt="Experience">
