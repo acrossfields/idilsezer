@@ -96,6 +96,10 @@ permalink: /en/background/engineering/
         <p style="margin: 0;">
           As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the UçArı team's model aircraft. This was an invaluable experience for me, as it brought together all the theoretical knowledge on aircraft design that I had been collecting for four years and allowed me to experience building a model aircraft from scratch with my own hands. I also secured sponsorship and designed the team logo.
         </p>
+        <figure style="margin: 10px 0; text-align: left;">
+          <img src="{{ '/assets/images/dbf_ucari.jpeg' | relative_url }}" alt="UçArı Team" style="max-width: 100%; height: auto;">
+          <figcaption style="font-size: 12px; color: #555;">The UçArı team at Hezarfen Airfield for flight testing</figcaption>
+        </figure>
       </td>
     </tr>
   </table>
