@@ -42,7 +42,7 @@ permalink: /en/background/engineering/
           <span>Prysmian Group</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
+      <td style="background-color: #c9d7e1; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
@@ -65,7 +65,7 @@ permalink: /en/background/engineering/
           <span>Turkish Aerospace Industries</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
+      <td style="background-color: #c9d7e1; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
@@ -88,7 +88,7 @@ permalink: /en/background/engineering/
           <span>Design/Build/Fly Competition</span>
         </div>
       </td>
-      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
+      <td style="background-color: #c9d7e1; padding: 8px; color: #162736;">
       </td>
     </tr>
     <tr class="table-bgsub-details">
