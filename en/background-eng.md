@@ -210,7 +210,7 @@ permalink: /en/background/engineering/
         Design Engineer
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="{{ '/assets/images/ge.png' | relative_url }}" alt="GE Aviation" style="height: 40px; vertical-align: middle;">
+        <img src="{{ '/assets/images/ge.png' | relative_url }}" alt="GE Aviation" style="height: 32px; vertical-align: middle;">
         <strong>GE Aviation</strong>
       </div>
     </td>
@@ -229,6 +229,26 @@ permalink: /en/background/engineering/
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
       <td style="background-color: #9eb8cf; padding: 8px;">
+        Coursework
+      </td>
+      <td style="background-color: #bbcddc; padding: 8px;">
+        GE Aviation in-house trainings
+      </td>
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
+      </td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3" style="padding: 5px;">
+        <p style="margin: 0;">
+          [List of trainings]
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
+    <tr>
+      <td style="background-color: #9eb8cf; padding: 8px;">
         Hardware ownership
       </td>
       <td style="background-color: #bbcddc; padding: 8px;">
@@ -241,6 +261,26 @@ permalink: /en/background/engineering/
       <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
           [Details of the responsibilities]
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
+    <tr>
+      <td style="background-color: #9eb8cf; padding: 8px;">
+        Project lead
+      </td>
+      <td style="background-color: #bbcddc; padding: 8px;">
+        T700-TEI-701D licensed production
+      </td>
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
+      </td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3" style="padding: 5px;">
+        <p style="margin: 0;">
+          [Details of the project]
         </p>
       </td>
     </tr>
