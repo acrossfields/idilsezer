@@ -29,7 +29,7 @@ permalink: /en/background/engineering/
 </table>
 
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">My academic interests were mainly focused on <strong>structural analysis and finite element methods</strong>, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">My academic interests were mainly focused on structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
@@ -94,11 +94,11 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
-          As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the <em>UçArı</em> team's model aircraft. This was an invaluable experience for me, as it brought together all the theoretical knowledge on aircraft design that I had been collecting for four years and allowed me to experience building a model aircraft from scratch with my own hands. I also secured sponsorship and designed the team logo.
+          As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the UçArı team's model aircraft. This was an invaluable experience for me, as it brought together all the theoretical knowledge on aircraft design that I had been collecting for four years and allowed me to experience building a model aircraft from scratch with my own hands. I also secured sponsorship and designed the team logo.
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
           <img src="{{ '/assets/images/dbf_ucari.jpeg' | relative_url }}" alt="UçArı Team" style="max-width: 400px; width: 100%; height: auto;">
-          <figcaption style="font-size: 12px; color: #555;">The <em>UçArı</em> team at Hezarfen Airfield for flight testing</figcaption>
+          <figcaption style="font-size: 12px; color: #555;">The UçArı team at Hezarfen Airfield for flight testing</figcaption>
         </figure>
       </td>
     </tr>
