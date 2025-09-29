@@ -199,3 +199,51 @@ permalink: /en/background/engineering/
   </table>
 
 </div>
+
+<table class="table-bgheader" style="color: #162736; margin: 25px 8px 5px 8px;">
+  <tr>
+    <td style="background-color: #345c80; padding: 8px;">
+      <img src="{{ '/assets/images/exp-eng.png' | relative_url }}" alt="Experience">
+    </td>
+    <td style="background-color: #9eb8cf; padding: 8px;">
+      <div style="margin-bottom: 5px;">
+        Design Engineer
+      </div>
+      <div style="display: flex; align-items: center; gap: 5px;">
+        <img src="{{ '/assets/images/ge.png' | relative_url }}" alt="GE Aviation" style="height: 40px; vertical-align: middle;">
+        <strong>GE Aviation</strong>
+      </div>
+    </td>
+    <td style="background-color: #bbcddc; padding: 8px;">
+      Nov 2011<br>
+      <div style="margin-bottom: 8px;">Oct 2015</div>
+      Kocaeli<br>
+      Türkiye
+    </td>
+  </tr>
+</table>
+
+<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of GE Aviation</p>
+
+  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
+    <tr>
+      <td style="background-color: #9eb8cf; padding: 8px;">
+        Hardware ownership
+      </td>
+      <td style="background-color: #bbcddc; padding: 8px;">
+        Swirl frame & compressor parts
+      </td>
+      <td style="background-color: #9eb8cf; padding: 8px; color: #162736;">
+      </td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3" style="padding: 5px;">
+        <p style="margin: 0;">
+          [Details of the responsibilities]
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
