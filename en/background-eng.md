@@ -211,6 +211,10 @@ permalink: /en/background/engineering/
           Published and accessible via the 
           <a href="https://tez.yok.gov.tr/" target="_blank">YÖK Thesis Database</a>.
         </p>
+        <figure style="margin: 10px 0 0 0; text-align: left;">
+          <img src="{{ '/assets/images/mthesis.jpeg' | relative_url }}" alt="Experiment" style="max-width: 400px; width: 100%; height: auto;">
+          <figcaption style="font-size: 12px; color: #162736;">Carbon/epoxy test specimen under mode II delamination testing</figcaption>
+        </figure>
       </td>
     </tr>
   </table>
