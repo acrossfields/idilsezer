@@ -130,7 +130,7 @@ permalink: /en/background/engineering/
 </table>
 
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">During my graduate studies, I focused on the subjects of finite element analysis in structures and composite mechanics. I received a scholarship to assist in a research project, attended an AIAA professional development course on composite structure design, as well as the 52nd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference held in Denver, CO, USA. For my master's thesis, I conducted an experimental study on laminated composites.</p>
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">During my graduate studies, I focused on the subjects of finite element analysis in structures and composite mechanics. I received a scholarship to assist in a research project and attended an AIAA professional development course on composite structure design, as well as the 52nd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference held in Denver, CO, USA. For my master's thesis, I conducted an experimental study on laminated composites.</p>
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
@@ -178,7 +178,7 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
-          [Details of the training]
+          "The Fundamentals of Composite Structure Design," 12-hour professional development course by the American Institute of Aeronautics and Astronautics, Apr 2011, Denver, CO, USA.
         </p>
       </td>
     </tr>
