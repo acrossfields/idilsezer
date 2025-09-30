@@ -198,7 +198,17 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
-          [Details of the thesis]
+          For my master's thesis titled "Determination of mode II delamination resistance of carbon/epoxy laminated composites", I conducted experiments at ITU ROTAM laboratory. In this work, I:
+        </p>
+        <ul style="margin: 0; padding: 8px 0 8px 13px;">
+          <li>Investigated theoretical and experimental approaches to delamination resistance in laminated composites</li>
+          <li>Prepared carbon/epoxy test specimens using the hand lay-up method</li>
+          <li>Designed and built a test fixture for mode II delamination resistance based on a standardization proposal</li>
+          <li>Performed experiments, recorded data, and compiled results</li>
+          <li>Conducted finite element analyses and compared them with experimental findings</li>
+        </ul>
+        <p style="margin: 0;">
+          Published and accessible via the [YÖK Thesis Database](https://tez.yok.gov.tr/).
         </p>
       </td>
     </tr>
