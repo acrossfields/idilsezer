@@ -208,7 +208,8 @@ permalink: /en/background/engineering/
           <li>Conducted finite element analyses and compared them with experimental findings</li>
         </ul>
         <p style="margin: 0;">
-          Published and accessible via the [YÖK Thesis Database](https://tez.yok.gov.tr/).
+          Published and accessible via the 
+          <a href="https://tez.yok.gov.tr/" target="_blank">YÖK Thesis Database</a>.
         </p>
       </td>
     </tr>
