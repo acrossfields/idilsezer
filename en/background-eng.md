@@ -151,11 +151,11 @@ permalink: /en/background/engineering/
         <p style="margin: 0;">
           [Oct 2008 - Apr 2009] As a scholarship student, I contributed to the experiments conducted in ITU ROTAM laboratory for a research project funded by TÜBİTAK (The Scientific and Technological Research Council of Türkiye). For project 106M450 titled "Prediction of the nonlinear dynamic response of non-homogeneous plates subjected to a sudden pressure load using finite element method." In this capacity, I assisted in:
         </p>
-        <ul style="margin: 0; padding: 8px 0 0 13px; font-size: 14px; line-height: 1.2;">
-          <li>Preparing carbon/epoxy and kevlar/epoxy composite plates with the hand lay-up method</li>
-          <li>The measurement of the mechanical properties of the prepared test specimens</li>
-          <li>Setting up the test fixture</li>
-          <li>The documentation of the results</li>
+        <ul style="margin: 0; padding: 8px 0 0 13px; font-size: 14px;">
+          <li style="line-height: 1.2;">Preparing carbon/epoxy and kevlar/epoxy composite plates with the hand lay-up method</li>
+          <li style="line-height: 1.2;">The measurement of the mechanical properties of the prepared test specimens</li>
+          <li style="line-height: 1.2;">Setting up the test fixture</li>
+          <li style="line-height: 1.2;">The documentation of the results</li>
         </ul>
       </td>
     </tr>
