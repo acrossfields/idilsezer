@@ -264,7 +264,9 @@ body a:hover {
 }
 
 .table-bgsub-details td,
-.table-bgsub-details td p {
+.table-bgsub-details td p,
+.table-bgsub-details td ul,
+.table-bgsub-details td li {
   font-family: 'Barlow', sans-serif;
   font-size: 14px;
   line-height: 1.5;
