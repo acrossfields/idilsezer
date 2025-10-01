@@ -209,7 +209,7 @@ permalink: /en/background/engineering/
         </ul>
         <p style="margin: 0;">
           Published and accessible via the 
-          <a href="https://tez.yok.gov.tr/" target="_blank">YÖK Thesis Database</a>.
+          <a href="https://tez.yok.gov.tr/" target="_blank">Council of Higher Education Thesis Center</a>.
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
           <img src="{{ '/assets/images/mthesis.jpeg' | relative_url }}" alt="Experiment" style="max-width: 400px; width: 100%; height: auto;">
