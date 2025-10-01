@@ -316,10 +316,10 @@ permalink: /en/background/engineering/
     </td>
     <td style="background-color: #9eb8cf; padding: 8px;">
       <div style="margin-bottom: 5px;">
-        Self-directed learning on wind energy
+        Self-Directed Learning on Wind Energy
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="{{ '/assets/images/coursera.png' | relative_url }}" alt="Coursera" style="height: 32px; vertical-align: middle;">
+        <img src="{{ '/assets/images/coursera.png' | relative_url }}" alt="Coursera" style="height: 24px; vertical-align: middle;">
         <strong>Coursera</strong>
       </div>
     </td>
@@ -330,3 +330,7 @@ permalink: /en/background/engineering/
     </td>
   </tr>
 </table>
+
+<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of wind energy studies</p>
+</div>
