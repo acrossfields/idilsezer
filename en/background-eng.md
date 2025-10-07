@@ -316,7 +316,7 @@ permalink: /en/background/engineering/
     </td>
     <td style="background-color: #9eb8cf; padding: 8px;">
       <div style="margin-bottom: 5px;">
-        Self-Directed Learning on Wind Energy
+        Wind Energy Studies
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         <img src="{{ '/assets/images/coursera.png' | relative_url }}" alt="Coursera" style="height: 24px; vertical-align: middle;">
