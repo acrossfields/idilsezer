@@ -245,7 +245,7 @@ permalink: /en/background/engineering/
 </table>
 
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of GE Aviation</p>
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">My primary responsibility as a Design Engineer at GE Aviation (now GE Aerospace) was evaluating the comparative stress and life of compressor parts for turboshaft and turboprop engines used in military helicopters, including the Boeing Apache, Sikorsky Black Hawk, and Lockheed Cheyenne, to support production and operations. In this capacity, I reviewed design requirements, operating conditions, manufacturing and repair processes, and performed hand calculations, ran finite element analyses using NX, Ansys, and HyperWorks before compiling my findings into comprehensive technical reports. Throughout my time in this role, I worked on structural parts, rotating parts, and airfoils across engine lines T700/CT7, T64/CT64, T58/CT58, J85, F404, F414, F101, F110, and F118, held hardware ownership responsibilities, and completed 140 hours of in-house training.</p>
 
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
@@ -281,7 +281,14 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
-          [Details of the responsibilities]
+          As the hardware owner of:
+        </p>
+        <ul style="margin: 0; padding: 8px 0 0 13px;">
+          <li>T700 swirl frame [Mar 2012 - Sep 2013]</li>
+          <li>Compressor parts of T58/CT58 and T64/CT64 engine lines [Jun 2013 - Oct 2015],</li>
+        </ul>
+        <p style="margin: 0;">
+          I served as the point of contact for manufacturing and field issues, as well as design inquiries.
         </p>
       </td>
     </tr>
