@@ -204,7 +204,7 @@ permalink: /en/background/engineering/
           <li>Investigation of theoretical and experimental approaches to delamination resistance in laminated composites</li>
           <li>Procurement of raw materials and preparation of carbon/epoxy test specimens using the hand lay-up method</li>
           <li>Assembly of the test fixture for mode II delamination resistance based on a standardization proposal</li>
-          <li>Execution of experiments, data recording, and results compilation/li>
+          <li>Execution of experiments, data recording, and results compilation</li>
           <li>Finite element analyses and comparison of results with experimental findings</li>
         </ul>
         <p style="margin: 0;">
