@@ -338,5 +338,5 @@ permalink: /en/background/engineering/
 </table>
 
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">[Details of wind energy autonomous study</p>
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">[Details of wind energy autonomous study]</p>
 </div>
