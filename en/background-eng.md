@@ -201,9 +201,9 @@ permalink: /en/background/engineering/
           I completed my master's thesis, "Determination of mode II delamination resistance of carbon/epoxy laminated composites," based on experiments conducted at ITU ROTAM laboratory, proceeding through the following phases:
         </p>
         <ul style="margin: 0; padding: 8px 0 8px 13px;">
-          <li>Investigation of theoretical and experimental approaches to delamination resistance in laminated composites</li>
+          <li>Literature review of theoretical and experimental approaches to delamination resistance in laminated composites</li>
           <li>Procurement of raw materials and preparation of carbon/epoxy test specimens using the hand lay-up method</li>
-          <li>Assembly of the test fixture for mode II delamination resistance based on a standardization proposal</li>
+          <li>Assembly of a mode II delamination resistance test fixture based on a standardization proposal identified in the literature</li>
           <li>Execution of experiments, data recording, and results compilation</li>
           <li>Finite element analyses and comparison of results with experimental findings</li>
         </ul>
