@@ -336,3 +336,7 @@ permalink: /en/background/engineering/
     </td>
   </tr>
 </table>
+
+<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">The focus of my undergraduate studies was structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
+</div>
