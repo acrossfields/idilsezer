@@ -318,7 +318,7 @@ permalink: /en/background/engineering/
 <table class="table-bgheader" style="color: #162736; margin: 40px 8px 5px 8px;">
   <tr>
     <td style="background-color: #345c80; padding: 8px;">
-      <img src="{{ '/assets/images/exp-eng.png' | relative_url }}" alt="Experience">
+      <img src="{{ '/assets/images/learn-eng.png' | relative_url }}" alt="Learning">
     </td>
     <td style="background-color: #9eb8cf; padding: 8px;">
       <div style="margin-bottom: 5px;">
@@ -338,5 +338,5 @@ permalink: /en/background/engineering/
 </table>
 
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">The focus of my undergraduate studies was structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
+  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">[Details of wind energy autonomous study</p>
 </div>
