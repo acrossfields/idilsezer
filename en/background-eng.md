@@ -178,7 +178,7 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
-          "The Fundamentals of Composite Structure Design," 12-hour professional development course by the American Institute of Aeronautics and Astronautics, Apr 2011, Denver, CO, USA.
+          I attended "The Fundamentals of Composite Structure Design," a 12-hour professional development course by the American Institute of Aeronautics and Astronautics, Apr 2011, Denver, CO, USA.
         </p>
       </td>
     </tr>
@@ -198,14 +198,14 @@ permalink: /en/background/engineering/
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
         <p style="margin: 0;">
-          For my master's thesis titled "Determination of mode II delamination resistance of carbon/epoxy laminated composites", I conducted experiments at ITU ROTAM laboratory. In this work, I:
+          I completed my master's thesis, "Determination of mode II delamination resistance of carbon/epoxy laminated composites," based on experiments conducted at ITU ROTAM laboratory, proceeding through the following phases:
         </p>
         <ul style="margin: 0; padding: 8px 0 8px 13px;">
-          <li>Investigated theoretical and experimental approaches to delamination resistance in laminated composites</li>
-          <li>Prepared carbon/epoxy test specimens using the hand lay-up method</li>
-          <li>Designed and built a test fixture for mode II delamination resistance based on a standardization proposal</li>
-          <li>Performed experiments, recorded data, and compiled results</li>
-          <li>Conducted finite element analyses and compared them with experimental findings</li>
+          <li>Investigation of theoretical and experimental approaches to delamination resistance in laminated composites</li>
+          <li>Procurement of raw materials and preparation of carbon/epoxy test specimens using the hand lay-up method</li>
+          <li>Assembly of the test fixture for mode II delamination resistance based on a standardization proposal</li>
+          <li>Execution of experiments, data recording, and results compilation/li>
+          <li>Finite element analyses and comparison of results with experimental findings</li>
         </ul>
         <p style="margin: 0;">
           Published and accessible via the 
