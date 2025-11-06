@@ -308,29 +308,3 @@ permalink: /en/background/engineering/
   </table>
 
 </div>
-
-<table class="table-bgheader" style="color: #162736; margin: 40px 8px 5px 8px;">
-  <tr>
-    <td style="background-color: #345c80; padding: 8px;">
-      <img src="{{ '/assets/images/learn-eng.png' | relative_url }}" alt="Independent-study">
-    </td>
-    <td style="background-color: #9eb8cf; padding: 8px;">
-      <div style="margin-bottom: 5px;">
-        Wind Energy Studies
-      </div>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="{{ '/assets/images/coursera.png' | relative_url }}" alt="Coursera" style="height: 24px; vertical-align: middle;">
-        <strong>Coursera</strong>
-      </div>
-    </td>
-    <td style="background-color: #bbcddc; padding: 8px;">
-      May 2019<br>
-      <div style="margin-bottom: 8px;">Jan 2020</div>
-      Online
-    </td>
-  </tr>
-</table>
-
-<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">Summary of wind energy studies</p>
-</div>
