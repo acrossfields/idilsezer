@@ -288,7 +288,7 @@ permalink: /en/background/engineering/
           <li>Compressor parts of T58/CT58 and T64/CT64 engine lines [Jun 2013 - Oct 2015],</li>
         </ul>
         <p style="margin: 0;">
-          I served as the point of contact for manufacturing and field issues, as well as design inquiries.
+          I served as the point of contact for manufacturing and field issues, led design efforts, and responded to design inquiries concerning the parts listed above.
         </p>
       </td>
     </tr>
