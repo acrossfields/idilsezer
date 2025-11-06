@@ -297,7 +297,7 @@ permalink: /en/background/engineering/
   <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
     <tr>
       <td style="background-color: #9eb8cf; padding: 8px;">
-        Project lead
+        Project leadership
       </td>
       <td style="background-color: #bbcddc; padding: 8px;">
         T700-TEI-701D licensed production
