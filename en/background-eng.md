@@ -283,7 +283,7 @@ permalink: /en/background/engineering/
         <p style="margin: 0;">
           As the hardware owner of:
         </p>
-        <ul style="margin: 0; padding: 8px 0 0 13px;">
+        <ul style="margin: 0; padding: 8px 0 8px 13px;">
           <li>T700 swirl frame [Mar 2012 - Sep 2013]</li>
           <li>Compressor parts of T58/CT58 and T64/CT64 engine lines [Jun 2013 - Oct 2015],</li>
         </ul>
