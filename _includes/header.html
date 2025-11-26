@@ -3,11 +3,17 @@
     <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Site Logo" height="50">
   </div>
 
-  <div class="flag-box">
-    <img src="{{ '/assets/images/flag_us.png' | relative_url }}" alt="English" height="20">
-    <span>&#x25BC;</span> <!-- downward arrow -->
-    <!-- Dropdown will go here later -->
+  <div class="flag-box lang-toggle" onclick="toggleLangMenu()">
+    <span class="current-lang">EN</span>
+    <span class="arrow">&#x25BC;</span>
+    
+    <div class="lang-menu" id="langMenu">
+      <div class="lang-item">English</div>
+      <div class="lang-item">Turkish</div>
+      <div class="lang-item">Portuguese (Brazil)</div>
+    </div>
   </div>
+
 </header>
 
 <nav class="nav-wrapper">
