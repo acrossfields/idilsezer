@@ -1,9 +1,7 @@
 ---
 layout: backgr
-title: BG1
 category: backgr_entry
 lang: en
-permalink: /en/background/explore/
 ---
 
 <table class="table-bgheader" style="color: #162736; margin: 10px 8px 5px 8px;">
