@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Averia+Libre:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
+    {% seo %}
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    {% include header.html %}
+
+    <nav class="sub-nav">
+      <ul>
+        <li><a href="{{ '/en/background/overview/' | relative_url }}" class="{% if page.url == '/en/background/overview/' %}active{% endif %}">Overview</a></li>
+        <li><a href="{{ '/en/background/explore/' | relative_url }}" class="{% if page.url == '/en/background/explore/' %}active{% endif %}">Explore</a></li>
+      </ul>
+    </nav>
+    
+    <div id="content-wrapper">
+      <div class="inner clearfix bg">
+        {{ content }}
+        {% for item in site.pages %}
+          {% if item.category == "backgr_entry" %}
+            <div class="backgr_entry">
+              {{ item.content }}
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll(".table-bgsub td:nth-child(3)").forEach(function (arrowCell) {
+        arrowCell.addEventListener("click", function () {
+          const table = arrowCell.closest(".table-bgsub");
+          table.classList.toggle("open");
+        });
+      });
+    });
+    </script>
+    
+  </body>
+  
+</html>
