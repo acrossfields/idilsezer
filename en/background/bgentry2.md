@@ -7,14 +7,14 @@ lang: en
 <table class="table-bgheader" style="color: #162736; margin: 40px 8px 5px 8px;">
   <tr>
     <td style="background-color: #345c80; padding: 8px;">
-      <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
+      <img src="/idilsezer/assets/images/edu-eng.png" alt="Education">
     </td>
     <td style="background-color: #9eb8cf; padding: 8px;">
       <div style="margin-bottom: 5px;">
         Master's Degree in Aeronautical and Astronautical Engineering
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 40px; vertical-align: middle;">
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
@@ -37,7 +37,7 @@ lang: en
       </td>
       <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/tubitak.png' | relative_url }}" alt="TUBITAK" style="height: 32px;">
+          <img src="/idilsezer/assets/images/tubitak.png" alt="TUBITAK" style="height: 32px;">
           <span>TÜBİTAK</span>
         </div>
       </td>
@@ -66,7 +66,7 @@ lang: en
       </td>
       <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/aiaa.png' | relative_url }}" alt="AIAA" style="height: 32px;">
+          <img src="/idilsezer/assets/images/aiaa.png" alt="AIAA" style="height: 32px;">
           <span>AIAA</span>
         </div>
       </td>
@@ -110,7 +110,7 @@ lang: en
           <a href="https://tez.yok.gov.tr/" target="_blank">Council of Higher Education Thesis Center</a>.
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
-          <img src="{{ '/assets/images/mthesis.jpeg' | relative_url }}" alt="Experiment" style="max-width: 400px; width: 100%; height: auto;">
+          <img src="/idilsezer/assets/images/mthesis.jpeg" alt="Experiment" style="max-width: 400px; width: 100%; height: auto;">
           <figcaption style="font-size: 12px; color: #162736;">Carbon/epoxy test specimen under mode II delamination testing</figcaption>
         </figure>
       </td>
