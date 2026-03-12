@@ -14,7 +14,7 @@ lang: en
         Bachelor's Degree in Aeronautical Engineering
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="{{ '/assets/images/itu.png' | relative_url }}" alt="ITU" style="height: 40px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 40px; vertical-align: middle;">
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
@@ -37,7 +37,7 @@ lang: en
       </td>
       <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/prysmian.png' | relative_url }}" alt="Prysmian" style="height: 24px;">
+          <img src="/idilsezer/assets/images/prysmian.png" alt="Prysmian" style="height: 24px;">
           <span>Prysmian Group</span>
         </div>
       </td>
@@ -60,7 +60,7 @@ lang: en
       </td>
       <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/tai.png' | relative_url }}" alt="TAI" style="width: 40px;">
+          <img src="/idilsezer/assets/images/tai.png" alt="TAI" style="width: 40px;">
           <span>Turkish Aerospace Industries</span>
         </div>
       </td>
@@ -83,7 +83,7 @@ lang: en
       </td>
       <td style="background-color: #bbcddc; padding: 8px;">
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="{{ '/assets/images/dbf.png' | relative_url }}" alt="DBF" style="height: 32px;">
+          <img src="/idilsezer/assets/images/dbf.png" alt="DBF" style="height: 32px;">
           <span>Design/Build/Fly Competition</span>
         </div>
       </td>
@@ -96,7 +96,7 @@ lang: en
           As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the UçArı team's model aircraft. I also secured sponsorship and designed the team logo. This project was an invaluable experience, offering insight into aircraft manufacturing through hands-on model aircraft construction and the consolidation of the theoretical knowledge from my undergraduate studies in aircraft design.
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
-          <img src="{{ '/assets/images/dbf_ucari.jpeg' | relative_url }}" alt="UçArı Team" style="max-width: 400px; width: 100%; height: auto;">
+          <img src="/idilsezer/assets/images/dbf_ucari.jpeg" alt="UçArı Team" style="max-width: 400px; width: 100%; height: auto;">
           <figcaption style="font-size: 12px; color: #162736;">The UçArı team at Hezarfen Airfield for flight testing</figcaption>
         </figure>
       </td>
