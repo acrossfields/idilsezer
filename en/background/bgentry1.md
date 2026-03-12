@@ -7,7 +7,7 @@ lang: en
 <table class="table-bgheader" style="color: #162736; margin: 10px 8px 5px 8px;">
   <tr>
     <td style="background-color: #345c80; padding: 8px;">
-      <img src="{{ '/assets/images/edu-eng.png' | relative_url }}" alt="Education">
+      <img src="/idilsezer/assets/images/edu-eng.png" alt="Education">
     </td>
     <td style="background-color: #9eb8cf; padding: 8px;">
       <div style="margin-bottom: 5px;">
