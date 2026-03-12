@@ -1,8 +1,8 @@
 ---
 layout: backgr
-title: Engineering Background
+title: Explore Background
 lang: en
-permalink: /en/background/engineering/
+permalink: /en/background/explore/
 ---
 
 <table class="table-bgheader" style="color: #162736; margin: 10px 8px 5px 8px;">
