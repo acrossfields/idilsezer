@@ -1,8 +1,7 @@
 ---
-layout: backgr
-title: Explore Background
-lang: en
-permalink: /en/background/explore/
+layout:
+category:
+lang:
 ---
 
 <table class="table-bgheader" style="color: #162736; margin: 10px 8px 5px 8px;">
