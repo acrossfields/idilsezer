@@ -27,6 +27,13 @@
     <div id="content-wrapper">
       <div class="inner clearfix bg">
         {{ content }}
+        {% for item in site.pages %}
+          {% if item.category == "background-items" %}
+            <div class="backgr_entry">
+              {{ item.content }}
+            </div>
+          {% endif %}
+        {% endfor %}
       </div>
     </div>
 
