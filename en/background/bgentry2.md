@@ -90,7 +90,7 @@ lang: en
       <td>
         Experimental study on laminated composites
       </td>
-      <td">
+      <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
