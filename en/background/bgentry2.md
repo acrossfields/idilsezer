@@ -27,8 +27,8 @@ lang: en
   </tr>
 </table>
 
-<div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
-  <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">During my graduate studies, I focused on the subjects of finite element analysis in structures and composite mechanics. I received a scholarship to assist in a research project and attended an AIAA professional development course on composite structure design, as well as the 52nd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference held in Denver, CO, USA. For my master's thesis, I conducted an experimental study on laminated composites.</p>
+<div class="bg-indented">
+  <p>During my graduate studies, I focused on the subjects of finite element analysis in structures and composite mechanics. I received a scholarship to assist in a research project and attended an AIAA professional development course on composite structure design, as well as the 52nd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference held in Denver, CO, USA. For my master's thesis, I conducted an experimental study on laminated composites.</p>
 
   <table class="table-bgsub">
     <tr>
