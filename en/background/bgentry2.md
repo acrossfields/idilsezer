@@ -6,7 +6,7 @@ lang: en
 
 <table class="table-bgheader">
   <tr>
-    <td style="background-color: #345c80; padding: 8px;">
+    <td>
       <img src="/idilsezer/assets/images/edu-eng.png" alt="Education">
     </td>
     <td style="background-color: #9eb8cf; padding: 8px;">
