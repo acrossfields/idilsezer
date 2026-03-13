@@ -45,8 +45,8 @@ lang: en
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">
+      <td colspan="3">
+        <p>
           [Aug 2006 - Sep 2006] In the Prysmian cable factory located in Bursa, Türkiye, I observed the design process in the product planning department and gained exposure to factory organization structures.
         </p>
       </td>
@@ -68,8 +68,8 @@ lang: en
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">
+      <td colspan="3">
+        <p>
           [Jun 2007 - Jul 2007] In the TAI facility located in Ankara, Türkiye, I observed modernization of F-16s, manufacturing and assembly of both metal and composite components, and other processes performed by a major Turkish manufacturer of aerospace products and services for Airbus, Sikorsky, Eurocopter, and MD Helicopters.
         </p>
       </td>
@@ -91,8 +91,8 @@ lang: en
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">
+      <td colspan="3">
+        <p>
           As a member of one of the two teams from ITU competing in the 12th AIAA-Cessna-Raytheon Design/Build/Fly Competition held in 2008 in Wichita, KS, USA, I took part in the structural design, optimization, building, and flight testing of the UçArı team's model aircraft. I also secured sponsorship and designed the team logo. This project was an invaluable experience, offering insight into aircraft manufacturing through hands-on model aircraft construction and the consolidation of the theoretical knowledge from my undergraduate studies in aircraft design.
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
