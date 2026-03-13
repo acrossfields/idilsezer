@@ -245,13 +245,19 @@ body a:hover {
 }
 
 .bg-indented {
-  border-left: 3px solid;
+  border-left: 3px solid #345c80;
+  margin-left: 11px;
+  margin-right: 8px;
+  padding: 0 0 0 8px;
 }
 
 .bg-indented p {
   font-family: 'Barlow', sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #162736;
 }
 
 .table-bgsub {
