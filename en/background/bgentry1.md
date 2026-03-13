@@ -32,16 +32,16 @@ lang: en
 
   <table class="table-bgsub">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td>
         Internship
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td>
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="/idilsezer/assets/images/prysmian.png" alt="Prysmian" style="height: 24px;">
           <span>Prysmian Group</span>
         </div>
       </td>
-      <td style="background-color: #c9d7e1; padding: 8px; color: #345c80;">
+      <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
@@ -55,16 +55,16 @@ lang: en
 
   <table class="table-bgsub">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td>
         Internship
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td>
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="/idilsezer/assets/images/tai.png" alt="TAI" style="width: 40px;">
           <span>Turkish Aerospace Industries</span>
         </div>
       </td>
-      <td style="background-color: #c9d7e1; padding: 8px; color: #345c80;">
+      <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
@@ -78,16 +78,16 @@ lang: en
 
   <table class="table-bgsub">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td>
         Team project
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td>
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="/idilsezer/assets/images/dbf.png" alt="DBF" style="height: 32px;">
           <span>Design/Build/Fly Competition</span>
         </div>
       </td>
-      <td style="background-color: #c9d7e1; padding: 8px; color: #345c80;">
+      <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
