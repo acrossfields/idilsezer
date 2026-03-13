@@ -313,6 +313,11 @@ body a:hover {
   display: none;
 }
 
+.table-bgsub-details td {
+  padding: 5px;
+  background-color: #d8e2e8;
+}
+
 .table-bgsub-details td,
 .table-bgsub-details td p,
 .table-bgsub-details td ul,
@@ -320,6 +325,10 @@ body a:hover {
   font-family: 'Barlow', sans-serif;
   font-size: 14px;
   line-height: 1.5;
+}
+
+.table-bgsub-details td p {
+  margin: 0;
 }
 
 .table-bgsub.open .table-bgsub-details {
