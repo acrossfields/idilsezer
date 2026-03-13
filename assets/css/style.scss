@@ -273,6 +273,8 @@ body a:hover {
   width: 100px;
   font-size: 16px;
   line-height: 1.2;
+  background-color: #9eb8cf;
+  padding: 8px;
 }
 
 .table-bgsub td:nth-child(2) {
@@ -280,6 +282,8 @@ body a:hover {
   vertical-align: middle;
   font-size: 16px;
   line-height: 1.2;
+  background-color: #bbcddc;
+  padding: 8px;
 }
 
 .table-bgsub td:nth-child(3) {
@@ -290,6 +294,9 @@ body a:hover {
   position: relative;
   user-select: none;
   font-size: 14px;
+  background-color: #c9d7e1;
+  color: #345c80;
+  padding: 8px;
 }
 
 .table-bgsub td:nth-child(3)::after {
