@@ -18,7 +18,7 @@ lang: en
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
-    <td style="background-color: #bbcddc; padding: 8px;">
+    <td>
       Sep 2008<br>
       <div style="margin-bottom: 8px;">Jul 2011</div>
       Istanbul<br>
