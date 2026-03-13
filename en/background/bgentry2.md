@@ -32,16 +32,16 @@ lang: en
 
   <table class="table-bgsub">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td>
         Research assistance
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td>
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="/idilsezer/assets/images/tubitak.png" alt="TUBITAK" style="height: 32px;">
           <span>TÜBİTAK</span>
         </div>
       </td>
-      <td style="background-color: #c9d7e1; padding: 8px; color: #345c80;">
+      <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
@@ -61,16 +61,16 @@ lang: en
 
   <table class="table-bgsub">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td>
         Extracurricular training
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td>
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="/idilsezer/assets/images/aiaa.png" alt="AIAA" style="height: 32px;">
           <span>AIAA</span>
         </div>
       </td>
-      <td style="background-color: #c9d7e1; padding: 8px; color: #345c80;">
+      <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
@@ -84,13 +84,13 @@ lang: en
 
   <table class="table-bgsub">
     <tr>
-      <td style="background-color: #9eb8cf; padding: 8px;">
+      <td>
         Master's thesis
       </td>
-      <td style="background-color: #bbcddc; padding: 8px;">
+      <td>
         Experimental study on laminated composites
       </td>
-      <td style="background-color: #c9d7e1; padding: 8px; color: #345c80;">
+      <td">
       </td>
     </tr>
     <tr class="table-bgsub-details">
