@@ -30,7 +30,7 @@ lang: en
 <div class="bg-indented" style="margin-left: 11px; margin-right: 8px; padding: 0 0 0 8px; border-left-color: #345c80;">
   <p style="margin-top: 0; margin-bottom: 10px; color: #162736;">The focus of my undergraduate studies was structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
 
-  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
+  <table class="table-bgsub">
     <tr>
       <td style="background-color: #9eb8cf; padding: 8px;">
         Internship
@@ -53,7 +53,7 @@ lang: en
     </tr>
   </table>
 
-  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
+  <table class="table-bgsub">
     <tr>
       <td style="background-color: #9eb8cf; padding: 8px;">
         Internship
@@ -76,7 +76,7 @@ lang: en
     </tr>
   </table>
 
-  <table class="table-bgsub" style="color: #162736; margin: 10px 0; padding: 0;">
+  <table class="table-bgsub">
     <tr>
       <td style="background-color: #9eb8cf; padding: 8px;">
         Team project
