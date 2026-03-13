@@ -14,7 +14,7 @@ lang: en
         Design Engineer
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/images/ge.png" alt="GE Aviation" style="height: 32px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/ge.png" alt="GE Aviation" style="height: 32px; vertical-align: middle;">
         <strong>GE Aviation</strong>
       </div>
     </td>
