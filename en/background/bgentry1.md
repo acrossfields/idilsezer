@@ -9,7 +9,7 @@ lang: en
     <td>
       <img src="/idilsezer/assets/images/edu-eng.png" alt="Education">
     </td>
-    <td style="background-color: #9eb8cf; padding: 8px;">
+    <td>
       <div style="margin-bottom: 5px;">
         Bachelor's Degree in Aeronautical Engineering
       </div>
