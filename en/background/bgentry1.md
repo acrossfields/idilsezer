@@ -97,7 +97,7 @@ lang: en
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
           <img src="/idilsezer/assets/images/dbf_ucari.jpeg" alt="UçArı Team" style="max-width: 400px; width: 100%; height: auto;">
-          <figcaption style="font-size: 12px; color: #162736;">The UçArı team at Hezarfen Airfield for flight testing</figcaption>
+          <figcaption style="font-size: 12px;">The UçArı team at Hezarfen Airfield for flight testing</figcaption>
         </figure>
       </td>
     </tr>
