@@ -204,7 +204,7 @@ body a:hover {
   width: calc(100% - 16px);
   border: none;
   font-family: 'Ubuntu Condensed', sans-serif;
-  color: #162736;
+  color: #d0e1e5;
   margin: 10px 8px 5px 8px;
 }
 
@@ -216,7 +216,7 @@ body a:hover {
   text-align: center;
   vertical-align: middle;
   width: 40px;
-  background-color: #345c80;
+  background-color: #324d51;
   padding: 8px;
 }
 
@@ -230,7 +230,7 @@ body a:hover {
   vertical-align: middle;
   font-size: 18px;
   line-height: 1.2;
-  background-color: #9eb8cf;
+  background-color: #465d60;
   padding: 8px;
 }
 
@@ -240,12 +240,12 @@ body a:hover {
   width: 50px;
   font-size: 14px;
   line-height: 1.2;
-  background-color: #bbcddc;
+  background-color: #5f7376;
   padding: 8px;
 }
 
 .bg-indented {
-  border-left: 3px solid #345c80;
+  border-left: 3px solid #5f7376;
   margin-left: 11px;
   margin-right: 8px;
   padding: 0 0 0 8px;
@@ -257,7 +257,6 @@ body a:hover {
   line-height: 1.5;
   margin-top: 0;
   margin-bottom: 10px;
-  color: #162736;
 }
 
 .table-bgsub {
