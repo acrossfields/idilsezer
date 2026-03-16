@@ -2,18 +2,6 @@
   <div class="logo-box">
     <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Site Logo" height="50">
   </div>
-
-  <div class="flag-box lang-toggle" onclick="toggleLangMenu()">
-    <span class="current-lang">EN</span>
-    <span class="arrow">&#x25BC;</span>
-    
-    <div class="lang-menu" id="langMenu">
-      <div class="lang-item">English</div>
-      <div class="lang-item">Turkish</div>
-      <div class="lang-item">Portuguese (Brazil)</div>
-    </div>
-  </div>
-
 </header>
 
 <nav class="nav-wrapper">
@@ -22,17 +10,3 @@
   <a href="{{ '/en/capabilities/' | relative_url }}" class="menu-item{% if page.url == '/en/capabilities/' %} active{% endif %}">Capabilities</a>
   <a href="{{ '/en/contact/' | relative_url }}" class="menu-item{% if page.url == '/en/contact/' %} active{% endif %}">Contact</a>
 </nav>
-
-<script>
-  function toggleLangMenu() {
-    const menu = document.getElementById("langMenu");
-    menu.style.display = menu.style.display === "block" ? "none" : "block";
-  }
-
-  document.addEventListener("click", function(e) {
-    if (!e.target.closest(".lang-toggle")) {
-      const menu = document.getElementById("langMenu");
-      if (menu) menu.style.display = "none";
-    }
-  });
-</script>
