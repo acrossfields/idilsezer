@@ -111,7 +111,7 @@ lang: en
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
           <img src="/idilsezer/assets/images/mthesis.jpeg" alt="Experiment" style="max-width: 400px; width: 100%; height: auto;">
-          <figcaption style="font-size: 12px; color: #162736;">Carbon/epoxy test specimen under mode II delamination testing</figcaption>
+          <figcaption style="font-size: 12px;">Carbon/epoxy test specimen under mode II delamination testing</figcaption>
         </figure>
       </td>
     </tr>
