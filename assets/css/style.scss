@@ -338,3 +338,7 @@ body a:hover {
 .table-bgsub.open .table-bgsub-details {
   display: table-row;
 }
+
+.backgr_entry:not(:last-child) {
+  margin-bottom: 30px;
+}
