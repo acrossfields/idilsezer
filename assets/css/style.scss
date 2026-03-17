@@ -20,45 +20,6 @@
   height: 50px;
 }
 
-.flag-box {
-  padding-top: 2px;                   /* between flag and flag box's top edge*/
-  padding-right: 2px;                 /* between flag and flag box's right edge*/
-  padding-bottom: 2px;                /* between flag and flag box's bottom edge*/
-  height: 20px;
-}
-
-.lang-toggle {
-  cursor: pointer;
-  position: relative;
-  user-select: none;
-  display: inline-block;
-}
-
-.current-lang {
-  font-weight: bold;
-  margin-right: 4px;
-}
-
-.lang-menu {
-  display: none;
-  position: absolute;
-  right: 0;
-  top: 24px;
-  background: white;
-  border: 1px solid #ccc;
-  min-width: 180px;
-  z-index: 1000;
-}
-
-.lang-item {
-  padding: 6px 10px;
-  white-space: nowrap;
-}
-
-.lang-item:hover {
-  background: #f0f0f0;
-}
-
 .nav-wrapper {                           /* NAVIGATION BAR */
   margin-left: 0;                        /* between navbar's left edge and body border*/
   margin-right: 0;                       /* between navbar's right edge and body border */
