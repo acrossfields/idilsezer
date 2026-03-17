@@ -1,6 +1,8 @@
 ---
 layout: backgr
 category: backgr_entry
+start_date: 2004-09
+end_date: 2008-08
 lang: en
 ---
 
