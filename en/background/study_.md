@@ -1,6 +1,8 @@
 ---
 layout: backgr
 category: backgr_entry
+start_date: 2019-05
+end_date: 2020-01
 lang: en
 ---
 
