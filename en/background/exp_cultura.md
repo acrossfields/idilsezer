@@ -34,7 +34,7 @@ lang: en
   <table class="table-bgsub">
     <tr>
       <td>
-        Selective Training
+        Selective training
       </td>
       <td>
         Pre-service Teacher Training Course (PTTC)
