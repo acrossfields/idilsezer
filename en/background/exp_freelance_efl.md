@@ -15,7 +15,7 @@ lang: en
         English Teacher
       </div>
       <div style="margin-bottom: 5px;">
-        <strong>Freelance</strong>
+        <strong>Independent</strong>
       </div>
     </td>
     <td>
@@ -33,7 +33,7 @@ lang: en
   <table class="table-bgsub">
     <tr>
       <td>
-        Selective Training
+        Part-time teaching
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
