@@ -112,7 +112,7 @@ lang: en
           <a href="https://tez.yok.gov.tr/" target="_blank">Council of Higher Education Thesis Center</a>.
         </p>
         <figure style="margin: 10px 0 0 0; text-align: left;">
-          <img src="/idilsezer/assets/images/mthesis.jpeg" alt="Experiment" style="max-width: 400px; width: 100%; height: auto;">
+          <img src="/idilsezer/assets/images/msc_thesis.jpeg" alt="Experiment" style="max-width: 400px; width: 100%; height: auto;">
           <figcaption style="font-size: 12px;">Carbon/epoxy test specimen under mode II delamination testing</figcaption>
         </figure>
       </td>
