@@ -30,7 +30,8 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>My primary responsibility as a Design Engineer at GE Aviation (now GE Aerospace) was evaluating the comparative stress and life of compressor parts for turboshaft and turboprop engines used in military helicopters, including the Boeing Apache, Sikorsky Black Hawk, and Lockheed Cheyenne, to support production and operations. In this capacity, I reviewed design requirements, operating conditions, manufacturing and repair processes, and performed hand calculations, ran finite element analyses using NX, Ansys, and HyperWorks before compiling my findings into comprehensive technical reports. Throughout my time in this role, I worked on structural parts, rotating parts, and airfoils across engine lines T700/CT7, T64/CT64, T58/CT58, J85, F404, F414, F101, F110, and F118, held hardware ownership responsibilities, and completed 140 hours of in-house training.</p>
+  <p>My primary responsibility as a Design Engineer at GE Aviation (now GE Aerospace) was evaluating the comparative stress and life of compressor parts for turboshaft and turboprop engines used in military helicopters, including the Boeing Apache, Sikorsky Black Hawk, and Lockheed Cheyenne, to support production and operations.</p>
+  <p>In this capacity, I reviewed design requirements and operating conditions as well as manufacturing and repair processes. I also performed hand calculations and ran finite element analyses using NX, Ansys, and HyperWorks. I concluded my tasks by compiling my findings and recommendations regarding how to proceed into comprehensive technical reports. Throughout my time in this role, I worked on structural parts, rotating parts, and airfoils across engine lines T700/CT7, T64/CT64, T58/CT58, J85, F404, F414, F101, F110, and F118. I also carried the responsibility of hardware ownership, and completed 140 hours of in-house training.</p>
 
   <table class="table-bgsub">
     <tr>
