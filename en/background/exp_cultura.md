@@ -22,7 +22,7 @@ lang: en
     <td>
       Jul 2016<br>
       <div style="margin-bottom: 8px;">Jul 2017</div>
-      <span style="font-size: 12px;">São Paulo</span><br>
+      <span style="font-size: 13px;">São Paulo</span><br>
       Brazil
     </td>
   </tr>
