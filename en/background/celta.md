@@ -8,7 +8,7 @@ lang: en
 <table class="table-bgheader">
   <tr>
     <td>
-      <img src="/idilsezer/assets/images/learn-eng.png" alt="Learning">
+      <img src="/idilsezer/assets/images/certf.png" alt="Certification">
     </td>
     <td>
       <div style="margin-bottom: 5px;">
