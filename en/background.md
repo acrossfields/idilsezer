@@ -4,5 +4,4 @@ title: Background
 lang: en
 permalink: /en/background/
 ---
-
-[Background summary]
+<meta http-equiv="refresh" content="0; url={{ '/en/background/overview/' | relative_url }}" />
