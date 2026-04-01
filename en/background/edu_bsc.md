@@ -85,7 +85,7 @@ lang: en
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/dbf.png" alt="DBF" style="height: 32px;">
+          <img src="/idilsezer/assets/images/dbf-new.png" alt="DBF" style="height: 32px;">
           <span>Design/Build/Fly Competition</span>
         </div>
       </td>
