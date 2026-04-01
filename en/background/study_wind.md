@@ -9,7 +9,7 @@ lang: en
 <table class="table-bgheader">
   <tr>
     <td>
-      <img src="/idilsezer/assets/images/study.png" alt="Independent study">
+      <img src="/idilsezer/assets/images/study.png" alt="Study">
     </td>
     <td>
       <div style="margin-bottom: 5px;">
