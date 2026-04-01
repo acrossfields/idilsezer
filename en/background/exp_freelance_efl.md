@@ -37,7 +37,7 @@ lang: en
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/aiaa.png" alt="AIAA" style="height: 32px;">
+          <img src="/idilsezer/assets/images/tke.png" alt="TKE Idiomas" style="height: 28px;">
           <span>TKE Idiomas</span>
         </div>
       </td>
