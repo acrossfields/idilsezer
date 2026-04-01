@@ -15,7 +15,7 @@ lang: en
         CELTA Certificate Course
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/cambridge3.png" alt="Cambridge" style="height: 32px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/cambridge.png" alt="Cambridge" style="height: 32px; vertical-align: middle;">
         <strong>Cambridge English</strong>
       </div>
     </td>
