@@ -15,7 +15,7 @@ lang: en
         English Teacher
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/cultura.png" alt="Cultura Inglesa" style="height: 24px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/cultura.png" alt="Cultura Inglesa" style="height: 28px; vertical-align: middle;">
         <strong>Cultura Inglesa</strong>
       </div>
     </td>
