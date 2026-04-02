@@ -23,7 +23,8 @@ lang: en
     <td>
       May 2019<br>
       <div style="margin-bottom: 8px;">Jan 2020</div>
-      Online
+      <span style="font-size: 13px;">São Paulo</span><br>
+      Brazil
     </td>
   </tr>
 </table>
