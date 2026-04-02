@@ -35,7 +35,7 @@ lang: en
   <table class="table-bgsub">
     <tr>
       <td>
-        Internship
+        Curricular internship
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
@@ -58,7 +58,7 @@ lang: en
   <table class="table-bgsub">
     <tr>
       <td>
-        Internship
+        Curricular internship
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
