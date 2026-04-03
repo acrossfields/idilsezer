@@ -1,7 +1,7 @@
 ---
 layout: backgr
 category: backgr_entry
-start_date: 2019-05
+start_date: 2019-02
 end_date: 2020-01
 lang: en
 ---
@@ -21,7 +21,7 @@ lang: en
       </div>
     </td>
     <td>
-      May 2019<br>
+      Feb 2019<br>
       <div style="margin-bottom: 8px;">Jan 2020</div>
       <span style="font-size: 13px;">São Paulo</span><br>
       Brazil
@@ -47,7 +47,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Details of Wind Energy course, Feb-May 2019]
+          [Details of Wind Energy course, Feb 2019 - May 2019]
         </p>
       </td>
     </tr>
