@@ -13,7 +13,7 @@ lang: en
     </td>
     <td>
       <div style="margin-bottom: 5px;">
-        Wind Energy Studies
+        Independent Study in Wind Energy
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 24px; vertical-align: middle;">
@@ -28,7 +28,50 @@ lang: en
     </td>
   </tr>
 </table>
-
 <div class="bg-indented">
   <p>[Details of wind energy autonomous study]</p>
+  <table class="table-bgsub">
+    <tr>
+      <td>
+        Online course
+      </td>
+      <td>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="/idilsezer/assets/images/AIAA.png" alt="DTU" style="height: 28px;">
+          <span>Technical University of Denmark (DTU)</span>
+        </div>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3">
+        <p>
+          [Details of Wind Energy course, Feb-May 2019]
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table class="table-bgsub">
+    <tr>
+      <td>
+        Online course
+      </td>
+      <td>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="/idilsezer/assets/images/AIAA.png" alt="Polytechnique" style="height: 28px;">
+          <span>École Polytechnique</span>
+        </div>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr class="table-bgsub-details">
+      <td colspan="3">
+        <p>
+          [Details of Wind resources for renewable energies, Nov 2019 - Jan 2020]
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
