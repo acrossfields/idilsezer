@@ -34,12 +34,9 @@ lang: en
         Online course
       </td>
       <td>
-      <div style="margin-bottom: 5px;">
-        R
-      </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         R - 
-        <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 28px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 24px; vertical-align: middle;">
         DataCamp
       </div>
       </td>
