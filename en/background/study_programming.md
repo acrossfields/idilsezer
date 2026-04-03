@@ -38,9 +38,10 @@ lang: en
         R
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 40px; vertical-align: middle;">
+        R - 
+        <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 28px; vertical-align: middle;">
         DataCamp
-      </div>       
+      </div>
       </td>
       <td>
       </td>
