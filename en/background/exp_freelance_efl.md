@@ -15,7 +15,7 @@ lang: en
         English Teacher
       </div>
       <div style="margin-bottom: 5px;">
-        <strong>Independent</strong>
+        <strong>Freelance</strong>
       </div>
     </td>
     <td>
