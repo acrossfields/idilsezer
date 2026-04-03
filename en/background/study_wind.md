@@ -37,7 +37,7 @@ lang: en
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/AIAA.png" alt="DTU" style="height: 28px;">
+          <img src="/idilsezer/assets/images/coursera.png" alt="DTU" style="height: 28px;">
           <span>Technical University of Denmark (DTU)</span>
         </div>
       </td>
@@ -59,7 +59,7 @@ lang: en
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/AIAA.png" alt="Polytechnique" style="height: 28px;">
+          <img src="/idilsezer/assets/images/coursera.png" alt="Polytechnique" style="height: 28px;">
           <span>École Polytechnique</span>
         </div>
       </td>
