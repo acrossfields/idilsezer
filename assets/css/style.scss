@@ -300,9 +300,9 @@ body a:hover {
   display: table-row;
 }
 
-.table-bgsub-getrain {
+.table-ge-train {
   width: 100%;
-   /* border-collapse: collapse; */
+  border-collapse: collapse;
   table-layout: auto;
   border: 1px solid #5f7376;
   font-family: 'Barlow', sans-serif;
@@ -310,8 +310,8 @@ body a:hover {
   line-height: 1.2;
 }
 
-.table-bgsub-getrain th,
-.table-bgsub-getrain td {
+.table-ge-train th,
+.table-ge-train td {
   padding: 5px;
   text-align: left;
   vertical-align: middle;
@@ -319,8 +319,8 @@ body a:hover {
   color: #e2f1f4;
 }
 
-.table-bgsub-getrain th:first-child,
-.table-bgsub-getrain td:first-child {
+.table-ge-train th:first-child,
+.table-ge-train td:first-child {
   background-color: #465d60;
   /* color: #000000; */
 }
