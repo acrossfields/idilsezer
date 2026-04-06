@@ -46,9 +46,29 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [List of trainings]
-        </p>
+        <table class="table-bgsub-getrain">
+          <tr>
+            <th>Training</th>
+            <th>Format</th>
+            <th>Hours</th>
+            <th>Date</th>
+            <th>Location</th>
+          </tr>
+          <tr>
+            <td>Training Name 1</td>
+            <td>On-site</td>
+            <td>16</td>
+            <td>Jan 2023</td>
+            <td>Istanbul, Türkiye</td>
+          </tr>
+          <tr>
+            <td>Training Name 2</td>
+            <td>Online</td>
+            <td>8</td>
+            <td>Mar 2023</td>
+            <td>Remote</td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
