@@ -59,7 +59,10 @@ lang: en
         Online course
       </td>
       <td>
-        MATLAB - Vanderbilt University - Coursera
+        MATLAB
+        <img src="/idilsezer/assets/images/itu.png" alt="VU" style="height: 24px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 24px; vertical-align: middle;">
+        Vanderbilt University - Coursera
       </td>
       <td>
       </td>
