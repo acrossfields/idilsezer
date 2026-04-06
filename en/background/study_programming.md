@@ -34,9 +34,11 @@ lang: en
         Online course
       </td>
       <td>
-        R<br>
+        <div style="margin-bottom: 5px;">
+        R
+        </div>
         <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 40px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 24px; vertical-align: middle;">
         DataCamp
         </div>
       </td>
