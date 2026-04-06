@@ -39,7 +39,7 @@ lang: en
         </div>
         <div style="display: flex; align-items: center; gap: 5px;">
           <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 20px; vertical-align: middle;">
-          <span style="font-size: 14px; color: #b8c6c9;">DataCamp</span>
+          <span style="font-size: 14px;">DataCamp</span>
         </div>
       </td>
       <td>
