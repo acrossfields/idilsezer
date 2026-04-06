@@ -34,11 +34,7 @@ lang: en
         Online course
       </td>
       <td>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        R - 
-        <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 24px; vertical-align: middle;">
-        DataCamp
-      </div>
+        R - DataCamp
       </td>
       <td>
       </td>
@@ -57,13 +53,7 @@ lang: en
         Online course
       </td>
       <td>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        MATLAB - 
-        <img src="/idilsezer/assets/images/itu.png" alt="Vanderbilt University" style="height: 24px; vertical-align: middle;">
-        Vanderbilt University - 
-        <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 24px; vertical-align: middle;">
-        Coursera
-      </div>
+        MATLAB - Vanderbilt University - Coursera
       </td>
       <td>
       </td>
@@ -82,13 +72,7 @@ lang: en
         Online course
       </td>
       <td>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        Python - 
-        <img src="/idilsezer/assets/images/itu.png" alt="University of Michigan" style="height: 24px; vertical-align: middle;">
-        University of Michigan - 
-        <img src="/idilsezer/assets/images/coursera.png" alt="edX" style="height: 24px; vertical-align: middle;">
-        edX
-      </div>
+        Python - University of Michigan - edX
       </td>
       <td>
       </td>
