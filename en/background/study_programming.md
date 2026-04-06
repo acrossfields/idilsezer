@@ -35,11 +35,11 @@ lang: en
       </td>
       <td>
         <div style="margin-bottom: 5px;">
-        R
+          R
         </div>
         <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 20px; vertical-align: middle;">
-        <span style="font-size: 14px; color: #b8c6c9;">DataCamp</span>
+          <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 20px; vertical-align: middle;">
+          <span style="font-size: 14px; color: #b8c6c9;">DataCamp</span>
         </div>
       </td>
       <td>
@@ -60,12 +60,14 @@ lang: en
       </td>
       <td>
         <div style="margin-bottom: 5px;">
-        MATLAB
+          MATLAB
         </div>
-        <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/itu.png" alt="VU" style="height: 20px; vertical-align: middle;">
-        <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 20px; vertical-align: middle;">
-        <span style="font-size: 14px;">Vanderbilt University</span> <span style="font-size: 14px; color: #93b2ba;">via</span> <span style="font-size: 14px;">Coursera</span>
+          <div style="display: flex; align-items: center; gap: 5px;">
+          <img src="/idilsezer/assets/images/itu.png" alt="VU" style="height: 20px; vertical-align: middle;">
+          <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 20px; vertical-align: middle;">
+          <span style="font-size: 14px;">
+            Vanderbilt University <span style="color: #93b2ba;">via</span> Coursera
+          </span>
         </div>
       </td>
       <td>
