@@ -300,6 +300,31 @@ body a:hover {
   display: table-row;
 }
 
+.table-bgsub-getrain {
+  width: 100%;
+   /* border-collapse: collapse; */
+  table-layout: auto;
+  border: 1px solid #5f7376;
+  font-family: 'Barlow', sans-serif;
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.table-bgsub-getrain th,
+.table-bgsub-getrain td {
+  padding: 5px;
+  text-align: left;
+  vertical-align: middle;
+  background-color: #0b2428;
+  color: #e2f1f4;
+}
+
+.table-bgsub-getrain th:first-child,
+.table-bgsub-getrain td:first-child {
+  background-color: #465d60;
+  /* color: #000000; */
+}
+
 .backgr_entry:not(:last-child) {
   margin-bottom: 30px;
 }
