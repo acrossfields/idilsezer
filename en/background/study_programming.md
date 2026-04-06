@@ -34,7 +34,11 @@ lang: en
         Online course
       </td>
       <td>
-        R - DataCamp
+        R<br>
+        <div style="display: flex; align-items: center; gap: 5px;">
+        <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 40px; vertical-align: middle;">
+        DataCamp
+        </div>
       </td>
       <td>
       </td>
