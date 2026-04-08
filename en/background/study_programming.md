@@ -63,7 +63,7 @@ lang: en
           MATLAB
         </div>
           <div style="display: flex; align-items: center; gap: 5px;">
-          <img src="/idilsezer/assets/images/itu.png" alt="VU" style="height: 20px; vertical-align: middle;">
+          <img src="/idilsezer/assets/images/cambridge.png" alt="VU" style="height: 20px; vertical-align: middle;">
           <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 20px; vertical-align: middle;">
           <span style="font-size: 14px;">
             Vanderbilt University <span style="color: #73929a;">via</span> Coursera
@@ -91,7 +91,7 @@ lang: en
           Python
         </div>
           <div style="display: flex; align-items: center; gap: 5px;">
-          <img src="/idilsezer/assets/images/itu.png" alt="MU" style="height: 20px; vertical-align: middle;">
+          <img src="/idilsezer/assets/images/cambridge.png" alt="MU" style="height: 20px; vertical-align: middle;">
           <img src="/idilsezer/assets/images/coursera.png" alt="edX" style="height: 20px; vertical-align: middle;">
           <span style="font-size: 14px;">
             University of Michigan <span style="color: #73929a;">via</span> edX
