@@ -15,7 +15,7 @@ lang: en
         Translator & QA Tester
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/rc-v1.png" alt="Red Cerberus" style="height: 28px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/rc.png" alt="Red Cerberus" style="height: 28px; vertical-align: middle;">
         <strong>Red Cerberus</strong>
       </div>
     </td>
