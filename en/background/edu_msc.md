@@ -16,7 +16,7 @@ lang: en
         Master's Degree in Aeronautical and Astronautical Engineering
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/itu-new.png" alt="ITU" style="height: 40px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 40px; vertical-align: middle;">
         <strong>Istanbul Technical University</strong>
       </div>
     </td>
