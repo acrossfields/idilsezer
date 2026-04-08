@@ -37,7 +37,7 @@ lang: en
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/tke.png" alt="IH" style="height: 32px;">
+          <img src="/idilsezer/assets/images/ih.png" alt="IH" style="height: 32px;">
           <span>International House Bogotá</span>
         </div>
       </td>
