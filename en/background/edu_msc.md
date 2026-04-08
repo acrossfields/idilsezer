@@ -68,7 +68,7 @@ lang: en
       </td>
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/aiaa.png" alt="AIAA" style="height: 32px;">
+          <img src="/idilsezer/assets/images/aiaa-v4.png" alt="AIAA" style="height: 32px;">
           <span>AIAA</span>
         </div>
       </td>
