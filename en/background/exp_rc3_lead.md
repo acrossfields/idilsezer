@@ -15,7 +15,7 @@ lang: en
         QA Lead
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/cultura.png" alt="Cultura Inglesa" style="height: 28px; vertical-align: middle;">
+        <img src="/idilsezer/assets/images/rc.png" alt="Red Cerberus" style="height: 28px; vertical-align: middle;">
         <strong>Red Cerberus</strong>
       </div>
     </td>
