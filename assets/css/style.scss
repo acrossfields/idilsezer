@@ -315,14 +315,19 @@ body a:hover {
   padding: 5px;
   text-align: left;
   vertical-align: middle;
+  font-weight: normal;
   background-color: #0b2428;
   color: #e2f1f4;
 }
 
+.table-ge-train tr:first-child th,
+.table-ge-train tr:first-child td {
+  background-color: #465d60;
+}
+
 .table-ge-train th:first-child,
 .table-ge-train td:first-child {
-  background-color: #465d60;
-  /* color: #000000; */
+  background-color: inherit;
 }
 
 .backgr_entry:not(:last-child) {
