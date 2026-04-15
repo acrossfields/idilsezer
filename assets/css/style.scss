@@ -252,7 +252,7 @@ body a:hover {
   padding: 8px;
 }
 
-.table-bgsub td:nth-child(3) {
+.table-bgsub > tbody > tr:first-child > td:nth-child(3) {
   text-align: center;
   vertical-align: middle;
   width: 20px;
@@ -264,13 +264,13 @@ body a:hover {
   padding: 8px;
 }
 
-.table-bgsub td:nth-child(3)::after {
+.table-bgsub > tbody > tr:first-child > td:nth-child(3)::after {
   content: "▼";
   display: inline-block;
   transition: transform 0.2s ease;
 }
 
-.table-bgsub.open td:nth-child(3)::after {
+.table-bgsub.open > tbody > tr:first-child > td:nth-child(3)::after {
   transform: rotate(-90deg);
 }
 
