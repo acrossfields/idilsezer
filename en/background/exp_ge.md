@@ -124,7 +124,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Details of the project]
+          [May 2014 - Oct 2015] For the start-up of TEI's new engine, T700-TEI-701D, I led the design efforts in a joint team of engineers from GE-USA and TEI to set the certification and process development requirements of compressor parts.
         </p>
       </td>
     </tr>
