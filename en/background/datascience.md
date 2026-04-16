@@ -15,12 +15,9 @@ lang: en
       <div style="margin-bottom: 5px;">
         Data Science Certificate Program
       </div>
-        <div style="display: flex; align-items: center; gap: 5px;">
+      <div style="display: flex; align-items: center; gap: 5px;">
         <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 40px; vertical-align: middle;">
-        <img src="/idilsezer/assets/images/coursera.png" alt="Mindset" style="height: 40px; vertical-align: middle;">
-        <span>
-          <strong>Istanbul Technical University & Mindset Institute</strong>
-        </span>
+        <strong>Istanbul Technical University & Mindset Institute</strong>
       </div>
     </td>
     <td>
