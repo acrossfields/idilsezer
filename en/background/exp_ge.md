@@ -113,7 +113,7 @@ lang: en
   <table class="table-bgsub">
     <tr>
       <td>
-        Project leadership
+        Design leadership
       </td>
       <td>
         T700-TEI-701D licensed production
