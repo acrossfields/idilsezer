@@ -17,7 +17,7 @@ lang: en
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 40px; vertical-align: middle;">
-        <strong>Istanbul Technical University & Mindset Institute</strong>
+        <b>Istanbul Technical University & Mindset Institute</b>
       </div>
     </td>
     <td>
