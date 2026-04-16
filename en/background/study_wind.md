@@ -17,7 +17,7 @@ lang: en
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 24px; vertical-align: middle;">
-        <strong>Coursera</strong>
+        <b>Coursera</b>
       </div>
     </td>
     <td>
