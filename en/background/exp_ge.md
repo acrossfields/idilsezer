@@ -49,24 +49,23 @@ lang: en
         <table class="table-ge-train">
           <tr>
             <th>Training</th>
-            <th>Format</th>
-            <th>Hours</th>
-            <th>Date</th>
-            <th>Location</th>
+            <th>Format-Date-Location</th>
+            <th>Duration</th>
           </tr>
           <tr>
-            <td>Training Name 1</td>
-            <td>On-site</td>
-            <td>16</td>
-            <td>Jan 2023</td>
-            <td>Istanbul, Türkiye</td>
+            <td>Project Management Fundamentals at GE</td>
+            <td>On-site<br>Mar 2012<br>Istanbul, Türkiye</td>
+            <td>16 hours</td>
           </tr>
           <tr>
-            <td>Training Name 2</td>
-            <td>Online</td>
-            <td>8</td>
-            <td>Mar 2023</td>
-            <td>Remote</td>
+            <td>GE Jet Engine Tear Down School CF34-8</td>
+            <td>On-site<br>Apr 2012<br>Cincinnati, OH, USA</td>
+            <td>32 hours</td>
+          </tr>
+            <tr>
+            <td>Geometric Dimensioning and Tolerancing (GD&T)</td>
+            <td>Online<br>Nov 2012<br>Kocaeli, Türkiye</td>
+            <td>30 hours</td>
           </tr>
         </table>
       </td>
