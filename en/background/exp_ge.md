@@ -17,7 +17,7 @@ lang: en
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         <img src="/idilsezer/assets/images/ge.png" alt="GE Aviation" style="height: 32px; vertical-align: middle;">
-        <strong>GE Aviation</strong>
+        <b>GE Aviation</b>
       </div>
     </td>
     <td>
