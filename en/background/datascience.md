@@ -38,7 +38,10 @@ lang: en
         Remote course
       </td>
       <td>
-        Python
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="/idilsezer/assets/images/coursera.png" alt="Mindset" style="height: 28px;">
+          <span>Python</span>
+        </div>
       </td>
       <td>
       </td>
@@ -58,7 +61,10 @@ lang: en
         Remote course
       </td>
       <td>
-        Data Science
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 28px;">
+          <span>Data Science</span>
+        </div>
       </td>
       <td>
       </td>
