@@ -16,7 +16,7 @@ lang: en
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         <img src="/idilsezer/assets/images/cultura.png" alt="Cultura Inglesa" style="height: 28px; vertical-align: middle;">
-        <strong>Cultura Inglesa</strong>
+        <b>Cultura Inglesa</b>
       </div>
     </td>
     <td>
