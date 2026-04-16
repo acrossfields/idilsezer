@@ -38,7 +38,7 @@ lang: en
       <td>
         <div style="display: flex; align-items: center; gap: 8px;">
           <img src="/idilsezer/assets/images/dtu.png" alt="DTU" style="height: 28px;">
-          <span>Technical University of Denmark (DTU)</span>
+          <span>Technical University of Denmark</span>
         </div>
       </td>
       <td>
