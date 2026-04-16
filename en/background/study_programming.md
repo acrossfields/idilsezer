@@ -15,7 +15,7 @@ lang: en
         Independent Study in Programming
       </div>
       <div style="margin-bottom: 5px;">
-        <strong>Various platforms</strong>
+        <b>Various platforms</b>
       </div>
     </td>    
     <td>
