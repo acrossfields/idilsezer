@@ -279,7 +279,7 @@ body a:hover {
 }
 
 .table-bgsub tr.table-bgsub-details td {
-  padding: 5px;
+  padding: 5px 0;
   background-color: #0b2428;
 }
 
@@ -312,7 +312,7 @@ body a:hover {
 
 .table-bgsub-details td .table-ge-train th,
 .table-bgsub-details td .table-ge-train td {
-  /* padding: 5px; */
+  padding: 5px;
   text-align: left;
   vertical-align: middle;
   font-weight: normal;
