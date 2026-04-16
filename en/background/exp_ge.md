@@ -49,23 +49,33 @@ lang: en
         <table class="table-ge-train">
           <tr>
             <th>Training</th>
-            <th>Format-Date-Location</th>
+            <th>Delivery</th>
             <th>Duration</th>
           </tr>
           <tr>
             <td>Project Management Fundamentals at GE</td>
             <td>On-site<br>Mar 2012<br>Istanbul, Türkiye</td>
-            <td>16 hours</td>
+            <td>14 hours</td>
           </tr>
           <tr>
             <td>GE Jet Engine Tear Down School CF34-8</td>
             <td>On-site<br>Apr 2012<br>Cincinnati, OH, USA</td>
             <td>32 hours</td>
           </tr>
-            <tr>
+          <tr>
+            <td>Gas Turbine Fundamentals</td>
+            <td>On-site<br>Jul 2012<br>Kocaeli, Türkiye</td>
+            <td>36 hours</td>
+          </tr>
+          <tr>
             <td>Geometric Dimensioning and Tolerancing (GD&T)</td>
             <td>Online<br>Nov 2012<br>Kocaeli, Türkiye</td>
             <td>30 hours</td>
+          </tr>
+          <tr>
+            <td>Lean Six Sigma 2.0</td>
+            <td>Online<br>Feb 2013<br>Kocaeli, Türkiye</td>
+            <td>28 hours</td>
           </tr>
         </table>
       </td>
