@@ -29,7 +29,7 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>By successfully completing the on-site full-time course at International House Bogotá, I was awarded the <em>Cambridge English Level 5 Certificate in Teaching English to Speakers of Other Languages (CELTA)</em> with Grade B. In addition to extensive written assignments, this 4-week course involved 120 hours of classroom-based training comprising theoretical sessions, lesson observations, assisted lesson planning, teaching practice, and feedback sessions.</p>
+  <p>By successfully completing the on-site full-time course at International House Bogotá, I was awarded the <em>Cambridge English Level 5 Certificate in Teaching English to Speakers of Other Languages (CELTA) </em> with Grade B. In addition to extensive written assignments, this 4-week course involved 120 hours of classroom-based training comprising theoretical sessions, lesson observations, assisted lesson planning, teaching practice, and feedback sessions.</p>
   <table class="table-bgsub">
     <tr>
       <td>
@@ -47,7 +47,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Details of the practicum]
+          Throughout the certificate course, I completed four teaching practice sessions (6 hours total), delivering English lessons of varying levels to adult Spanish-speaking learners, with all instruction conducted exclusively in English. My performance was evaluated by the instructor and fellow CELTA candidates and discussed in detail during the feedback sessions following each teaching practice.
         </p>
       </td>
     </tr>
