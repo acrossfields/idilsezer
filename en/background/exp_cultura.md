@@ -29,7 +29,7 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>[Details of the experience in Cultura Inglesa]</p>
+  <p>I developed teaching materials to varying degrees, ranging from designing full lessons to supplementing existing resources, in order to cover the topics and learning objectives set in the curriculum. I taught small to mid-sized groups of learners from Brazil with English as the sole language of instruction and communication. While approximately one-third of my groups consisted of preteens and adolescents, the majority were adult learners with diverse ages, educational backgrounds, and motivations for learning English.</p>
 
   <table class="table-bgsub">
     <tr>
