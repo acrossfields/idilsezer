@@ -49,7 +49,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          Throughout the certificate course, I completed four teaching practice sessions (6 hours total), delivering English lessons of varying levels to adult Spanish-speaking learners, conducted fully in English. My performance was evaluated by the CELTA instructor and discussed in detail in a group with my fellow candidates during the feedback sessions that followed each teaching practice.
+          Throughout the certificate course, I completed four teaching practice sessions (6 hours total), delivering English lessons of varying levels to adult Spanish-speaking learners, conducted fully in English. My performance was evaluated by CELTA instructors and discussed in detail in a group with my fellow candidates during the feedback sessions that followed each teaching practice.
         </p>
       </td>
     </tr>
