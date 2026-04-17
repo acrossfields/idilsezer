@@ -28,7 +28,7 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>I assessed students' proficiency levels, interests, and motivations for learning English, and designed fully customized lessons accordingly. I delivered online and in-person lessons to individuals and small groups across a range of ages, proficiency levels, and educational backgrounds.</p>
+  <p>I assessed students' proficiency levels, interests, and learning goals, and designed fully customized English lessons. I delivered online and in-person lessons to individual and small groups of adult learners with varied needs.</p>
 
   <table class="table-bgsub">
     <tr>
@@ -47,7 +47,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Mar 2018 - Mar 2019] I delivered in-person English lessons to individuals and small groups, averaging 4–5 hours per week, through a language school partnership.
+          [Mar 2018 - Mar 2019] I delivered in-person English lessons averaging 4–5 hours per week through a language school partnership.
         </p>
       </td>
     </tr>
