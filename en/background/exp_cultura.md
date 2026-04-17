@@ -45,7 +45,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Details of PTTC]
+          [Jun 2016 - Jul 2016] I completed a 150-hour intensive programme comparable in structure to CELTA that involved sustained assessment and selective progression towards a full-time teaching role.
         </p>
       </td>
     </tr>
