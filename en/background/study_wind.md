@@ -29,7 +29,7 @@ lang: en
   </tr>
 </table>
 <div class="bg-indented">
-  <p>[Details of wind energy autonomous study]</p>
+  <p>At a transitional stage in my career, I began studying wind energy with the aim of broadening my technical focus towards renewable energy applications. Building upon my academic background in aeronautical engineering and drawing on the strong overlap between aeronautics and wind energy technologies, I pursued a series of online courses focused on wind energy systems and resource assessment.</p>
   <table class="table-bgsub">
     <tr>
       <td>
