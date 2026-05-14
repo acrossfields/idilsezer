@@ -48,7 +48,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Details of DataCamp]
+          I completed "Introduction to R," a 4-hour DataCamp course covering the basics of the R programming language.
         </p>
       </td>
     </tr>
