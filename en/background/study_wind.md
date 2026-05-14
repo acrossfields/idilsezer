@@ -29,7 +29,7 @@ lang: en
   </tr>
 </table>
 <div class="bg-indented">
-  <p>At a transitional stage in my career, I began studying wind energy with the aim of broadening my technical skill set towards the field of renewable energy. Building upon my background in engineering and drawing on the overlap between aeronautics and wind energy technologies, I pursued a series of online courses focused on wind energy systems and resource assessment.</p>
+  <p>At a transitional stage in my career, I began studying wind energy with the aim of broadening my technical skill set towards the field of renewable energy. Building upon my background in engineering and drawing on the overlap between aeronautics and wind energy technologies, I pursued a series of online courses focused on wind resource assessment and wind energy systems design.</p>
   <table class="table-bgsub">
     <tr>
       <td>
@@ -47,7 +47,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Details of Wind Energy course, Feb 2019 - May 2019]
+          I completed "Wind Energy," a 34-hour course offered by DTU via Coursera, which explored wind resource measurement and forecasting, wind farm optimization, turbine blade design, power systems, and wind energy economics.
         </p>
       </td>
     </tr>
@@ -69,7 +69,7 @@ lang: en
     <tr class="table-bgsub-details">
       <td colspan="3">
         <p>
-          [Details of Wind resources for renewable energies, Nov 2019 - Jan 2020]
+          I completed "Wind Resources for Renewable Energies," a 17-hour course offered by École Polytechnique via Coursera, which explored meteorology, turbulent boundary layers, wind resource assessment, and turbine-based energy production estimation, culminating in the submission of a data analysis project on wind resource assessment.
         </p>
       </td>
     </tr>
