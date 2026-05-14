@@ -29,7 +29,7 @@ lang: en
   </tr>
 </table>
 <div class="bg-indented">
-  <p>At a transitional stage in my career, I began studying wind energy with the aim of broadening my technical skill set towards the field of renewable energy. Building upon my background in engineering and drawing on the overlap between aeronautics and wind energy technologies, I pursued a series of online courses focused on wind resource assessment and wind energy systems design.</p>
+  <p>At a transitional stage in my career, I began studying wind energy with the aim of broadening my technical skill set towards the field of renewable energy. Building upon my background in engineering and drawing on the overlap between aeronautics and wind energy technologies, I undertook online training focused on wind resource assessment and wind energy systems design.</p>
   <table class="table-bgsub">
     <tr>
       <td>
