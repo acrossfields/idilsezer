@@ -100,8 +100,8 @@ lang: en
           As the hardware owner of:
         </p>
         <ul style="margin: 0; padding: 8px 0 8px 13px;">
-          <li>T700 swirl frame [Mar 2012 - Sep 2013]</li>
-          <li>Compressor parts of T58/CT58 and T64/CT64 engine lines [Jun 2013 - Oct 2015],</li>
+          <li>T700 swirl frame (Mar 2012 - Sep 2013)</li>
+          <li>Compressor parts of T58/CT58 and T64/CT64 engine lines (Jun 2013 - Oct 2015),</li>
         </ul>
         <p style="margin: 0;">
           I served as the point of contact for manufacturing and field issues, led design efforts, and responded to design inquiries concerning the parts listed above.
@@ -123,9 +123,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [May 2014 - Oct 2015] For the start-up of TEI's new engine, T700-TEI-701D, I led the design efforts in a joint team of engineers from GE-USA and TEI to set the certification and process development requirements of compressor parts.
-        </p>
+        <p>For the start-up of TEI's new engine, T700-TEI-701D, I led the design efforts in a joint team of engineers from GE-USA and TEI to set the certification and process development requirements of compressor parts, beginning in May 2014 and continuing until my departure from the company.</p>
       </td>
     </tr>
   </table>
