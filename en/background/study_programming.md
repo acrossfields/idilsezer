@@ -27,7 +27,7 @@ lang: en
   </tr>
 </table>
 <div class="bg-indented">
-  <p>[Details of programming study]</p>
+  <p>Driven by the growing complexity of the spreadsheets I designed and the increasingly lengthy formulas I wrote to manage daily tasks in my job, I began exploring programming as a more efficient approach to data handling and process automation. I pursued a series of introductory courses to build familiarity with programming concepts and their application in data processing.</p>
   <table class="table-bgsub">
     <tr>
       <td>
