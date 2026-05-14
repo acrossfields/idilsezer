@@ -44,9 +44,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [Jun 2016 - Jul 2016] I completed a 150-hour intensive programme comparable in structure to CELTA that involved sustained assessment and selective progression towards a full-time teaching role.
-        </p>
+        <p>I entered a 150-hour intensive programme spanning one month and comparable in structure to CELTA, involving sustained assessment and selective progression that resulted in my full-time employment.</p>
       </td>
     </tr>
   </table>
