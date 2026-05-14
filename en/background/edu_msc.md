@@ -75,9 +75,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">
-          I attended "The Fundamentals of Composite Structure Design," a 12-hour professional development course by the American Institute of Aeronautics and Astronautics (AIAA), April 2011, Denver, CO, USA.
-        </p>
+        <p style="margin: 0;">I attended "The Fundamentals of Composite Structure Design," a 12-hour professional development course by the American Institute of Aeronautics and Astronautics (AIAA), April 2011, Denver, CO, USA.</p>
       </td>
     </tr>
   </table>
@@ -95,9 +93,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">
-          I completed my master's thesis, "Determination of mode II delamination resistance of carbon/epoxy laminated composites," based on experiments conducted at ITU ROTAM laboratory, proceeding through the following phases:
-        </p>
+        <p style="margin: 0;">My master’s thesis, "Determination of mode II delamination resistance of carbon/epoxy laminated composites," was based on experiments conducted at the ITU ROTAM laboratory, proceeding through the following phases:</p>
         <ul style="margin: 0; padding: 8px 0 8px 13px;">
           <li>Literature review of theoretical and experimental approaches to delamination resistance in laminated composites</li>
           <li>Procurement of raw materials and preparation of carbon/epoxy test specimens using the hand lay-up method</li>
