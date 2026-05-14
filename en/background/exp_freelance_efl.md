@@ -46,9 +46,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [Mar 2018 - Mar 2019] I delivered in-person English lessons averaging 4–5 hours per week through a language school partnership.
-        </p>
+        <p>During the final year of my freelance teaching, I delivered in-person English lessons averaging 4–5 hours per week through a language school partnership.</p>
       </td>
     </tr>
   </table>
