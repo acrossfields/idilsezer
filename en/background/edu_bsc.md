@@ -69,7 +69,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>Throughout the month-long internship in June 2007 at the TAI facility in Ankara, Türkiye, I observed the modernization of F-16 aircraft, as well as the manufacturing and assembly of metal and composite components, and other processes carried out by a major Turkish aerospace manufacturer supplying Airbus, Sikorsky, Eurocopter, and MD Helicopters.</p>
+        <p>Throughout the month-long internship in June 2007 at the TAI facility in Ankara, Türkiye, I observed the modernization of F-16 aircraft, manufacturing and assembly of metal and composite components, and various other processes carried out by a major Turkish aerospace manufacturer that supplies Airbus, Sikorsky, Eurocopter, and MD Helicopters.</p>
       </td>
     </tr>
   </table>
