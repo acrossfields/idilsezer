@@ -38,19 +38,14 @@ lang: en
         Remote course
       </td>
       <td>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/coursera.png" alt="Mindset" style="height: 28px;">
-          <span>Python</span>
-        </div>
+        Python
       </td>
       <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [Details of Python program - Mindset - May 2024 / Jul 2024 - 48h]
-        </p>
+        <p>[Details of Python program - Mindset - May 2024 / Jul 2024 - 48h]</p>
       </td>
     </tr>
   </table>
@@ -61,19 +56,14 @@ lang: en
         Remote course
       </td>
       <td>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <img src="/idilsezer/assets/images/itu.png" alt="ITU" style="height: 28px;">
-          <span>Data Science</span>
-        </div>
+        Data Science
       </td>
       <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [Details of Data Science program - ITU via Mindset - Aug 2024 / Dec 2025 - 90h]
-        </p>
+        <p>[Details of Data Science program - ITU via Mindset - Aug 2024 / Dec 2025 - 90h]</p>
       </td>
     </tr>
   </table>
