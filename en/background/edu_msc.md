@@ -75,7 +75,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">I attended "The Fundamentals of Composite Structure Design," a 12-hour professional development course by the American Institute of Aeronautics and Astronautics (AIAA), in April 2011 in Denver, Colorado, USA.</p>
+        <p style="margin: 0;">"The Fundamentals of Composite Structure Design," a 12-hour professional development course by the American Institute of Aeronautics and Astronautics (AIAA). Attended in April 2011 in Denver, Colorado, USA.</p>
       </td>
     </tr>
   </table>
