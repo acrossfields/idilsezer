@@ -96,16 +96,12 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          As the hardware owner of:
-        </p>
+        <p>As the hardware owner of:</p>
         <ul style="margin: 0; padding: 8px 0 8px 13px;">
           <li>T700 swirl frame (Mar 2012 - Sep 2013)</li>
           <li>Compressor parts of T58/CT58 and T64/CT64 engine lines (Jun 2013 - Oct 2015),</li>
         </ul>
-        <p style="margin: 0;">
-          I served as the point of contact for manufacturing and field issues, led design efforts, and responded to design inquiries concerning the parts listed above.
-        </p>
+        <p>I served as the point of contact for manufacturing and field issues, led design efforts, and responded to design inquiries concerning the parts listed above.</p>
       </td>
     </tr>
   </table>
