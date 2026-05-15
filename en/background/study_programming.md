@@ -11,9 +11,7 @@ lang: en
       <img src="/idilsezer/assets/images/study.png" alt="Independent study">
     </td>
     <td>
-      <div style="margin-bottom: 5px;">
-        Independent Study in Programming
-      </div>
+      Independent Study in Programming
     </td>    
     <td>
       Mar 2020<br>
