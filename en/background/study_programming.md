@@ -47,9 +47,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          I completed "Introduction to R," a 4-hour DataCamp course covering the basics of the R programming language.
-        </p>
+        <p>I completed "Introduction to R," a 4-hour DataCamp course covering the basics of the R programming language.</p>
       </td>
     </tr>
   </table>
@@ -75,9 +73,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [Details of MATLAB course]
-        </p>
+        <p>[Details of MATLAB course]</p>
       </td>
     </tr>
   </table>
@@ -103,9 +99,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          [Details of Python courses]
-        </p>
+        <p>[Details of Python courses]</p>
       </td>
     </tr>
   </table>
