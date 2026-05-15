@@ -46,7 +46,7 @@ lang: en
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3">
+      <td colspan="3" style="padding: 5px 0;">
         <table class="table-ge-train">
           <tr>
             <th>Training</th>
