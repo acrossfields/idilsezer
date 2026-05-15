@@ -14,9 +14,6 @@ lang: en
       <div style="margin-bottom: 5px;">
         Independent Study in Programming
       </div>
-      <div style="margin-bottom: 5px;">
-        <b>Various platforms</b>
-      </div>
     </td>    
     <td>
       Mar 2020<br>
@@ -34,13 +31,7 @@ lang: en
         Online course
       </td>
       <td>
-        <div style="margin-bottom: 5px;">
-          R
-        </div>
-        <div style="display: flex; align-items: center; gap: 5px;">
-          <img src="/idilsezer/assets/images/coursera.png" alt="DataCamp" style="height: 20px; vertical-align: middle;">
-          <span style="font-size: 14px;">DataCamp</span>
-        </div>
+        R
       </td>
       <td>
       </td>
@@ -57,16 +48,7 @@ lang: en
         Online course
       </td>
       <td>
-        <div style="margin-bottom: 5px;">
-          MATLAB
-        </div>
-          <div style="display: flex; align-items: center; gap: 5px;">
-          <img src="/idilsezer/assets/images/cambridge.png" alt="VU" style="height: 20px; vertical-align: middle;">
-          <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 20px; vertical-align: middle;">
-          <span style="font-size: 14px;">
-            Vanderbilt University <span style="color: #73929a;">via</span> Coursera
-          </span>
-        </div>
+        MATLAB
       </td>
       <td>
       </td>
@@ -83,16 +65,7 @@ lang: en
         Online course
       </td>
       <td>
-        <div style="margin-bottom: 5px;">
-          Python
-        </div>
-          <div style="display: flex; align-items: center; gap: 5px;">
-          <img src="/idilsezer/assets/images/cambridge.png" alt="MU" style="height: 20px; vertical-align: middle;">
-          <img src="/idilsezer/assets/images/coursera.png" alt="edX" style="height: 20px; vertical-align: middle;">
-          <span style="font-size: 14px;">
-            University of Michigan <span style="color: #73929a;">via</span> edX
-          </span>
-        </div>
+        Python
       </td>
       <td>
       </td>
