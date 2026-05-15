@@ -47,8 +47,8 @@ lang: en
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">As a scholarship student, I contributed to experiments conducted at the ITU ROTAM laboratory for a research project funded by the Scientific and Technological Research Council of Türkiye (TÜBİTAK). From October 2008 to April 2009, for project 106M450 titled "Prediction of the nonlinear dynamic response of non-homogeneous plates subjected to a sudden pressure load using the finite element method," I assisted in:</p>
+      <td colspan="3">
+        <p>As a scholarship student, I contributed to experiments conducted at the ITU ROTAM laboratory for a research project funded by the Scientific and Technological Research Council of Türkiye (TÜBİTAK). From October 2008 to April 2009, for project 106M450 titled "Prediction of the nonlinear dynamic response of non-homogeneous plates subjected to a sudden pressure load using the finite element method," I assisted in:</p>
         <ul style="margin: 0; padding: 8px 0 0 13px;">
           <li>Preparing carbon/epoxy and kevlar/epoxy composite plates with the hand lay-up method</li>
           <li>The measurement of the mechanical properties of the prepared test specimens</li>
@@ -74,8 +74,8 @@ lang: en
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">"The Fundamentals of Composite Structure Design," a 12-hour professional development course by the American Institute of Aeronautics and Astronautics (AIAA). Attended in April 2011 in Denver, Colorado, USA.</p>
+      <td colspan="3">
+        <p>"The Fundamentals of Composite Structure Design," a 12-hour professional development course by the American Institute of Aeronautics and Astronautics (AIAA). Attended in April 2011 in Denver, Colorado, USA.</p>
       </td>
     </tr>
   </table>
@@ -92,8 +92,8 @@ lang: en
       </td>
     </tr>
     <tr class="table-bgsub-details">
-      <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">My master’s thesis, "Determination of mode II delamination resistance of carbon/epoxy laminated composites," was based on experiments conducted at the ITU ROTAM laboratory, proceeding through the following phases:</p>
+      <td colspan="3">
+        <p>My master’s thesis, "Determination of mode II delamination resistance of carbon/epoxy laminated composites," was based on experiments conducted at the ITU ROTAM laboratory, proceeding through the following phases:</p>
         <ul style="margin: 0; padding: 8px 0 8px 13px;">
           <li>Literature review of theoretical and experimental approaches to delamination resistance in laminated composites</li>
           <li>Procurement of raw materials and preparation of carbon/epoxy test specimens using the hand lay-up method</li>
@@ -101,7 +101,7 @@ lang: en
           <li>Execution of experiments, data recording, and results compilation</li>
           <li>Finite element analyses and comparison of results with experimental findings</li>
         </ul>
-        <p style="margin: 0;">
+        <p>
           Published and accessible via the 
           <a href="https://tez.yok.gov.tr/" target="_blank">Council of Higher Education Thesis Center</a>.
         </p>
