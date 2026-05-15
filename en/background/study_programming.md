@@ -22,7 +22,7 @@ lang: en
   </tr>
 </table>
 <div class="bg-indented">
-  <p>Driven by the growing complexity of the spreadsheets I designed and the increasingly lengthy formulas I wrote to manage daily tasks in my job, I began exploring programming as a more efficient approach to data handling and process automation. I pursued a series of introductory courses to build familiarity with programming concepts and their application in data processing.</p>
+  <p>Driven by the growing complexity of the spreadsheets I designed and the increasingly lengthy formulas I constructed to support and manage QA workflows across various roles, I began exploring programming as a more efficient approach to data handling and process automation. I pursued a series of introductory courses to build familiarity with programming concepts and their application in data processing.</p>
   <table class="table-bgsub">
     <tr>
       <td>
@@ -36,7 +36,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>I completed "Introduction to R," a 4-hour DataCamp course covering the basics of the R programming language.</p>
+        <p>"Introduction to R," a 4-hour DataCamp course teaching the basics of the R programming language through interactive exercises. Completed in March 2020.</p>
       </td>
     </tr>
   </table>
@@ -53,7 +53,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[Details of MATLAB course]</p>
+        <p>"Introduction to Programming with MATLAB," a 35-hour course offered by Vanderbilt University covering MATLAB programming fundamentals, including variables, control structures, functions, data types, and file input/output. Completed via Coursera in July 2020.</p>
       </td>
     </tr>
   </table>
@@ -70,7 +70,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[Details of Python courses]</p>
+        <p>"Programming for Everybody (Getting Started with Python)" and "Python Data Structures," 20-hour courses (each) offered by the University of Michigan, covering foundational Python programming and core data structures in Python 3, including control flow, functions, data handling, and basic file operations. Completed via edX in May 2021 and January 2022, respectively.</p>
       </td>
     </tr>
   </table>
