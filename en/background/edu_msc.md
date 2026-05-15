@@ -48,7 +48,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3" style="padding: 5px;">
-        <p style="margin: 0;">As a scholarship student, I contributed to experiments conducted at the ITU ROTAM laboratory for a research project funded by the Scientific and Technological Research Council of Türkiye (TÜBİTAK). From October 2008 to April 2009, I worked on project 106M450 titled "Prediction of the nonlinear dynamic response of non-homogeneous plates subjected to a sudden pressure load using the finite element method," assisting in:</p>
+        <p style="margin: 0;">As a scholarship student, I contributed to experiments conducted at the ITU ROTAM laboratory for a research project funded by the Scientific and Technological Research Council of Türkiye (TÜBİTAK). From October 2008 to April 2009, for project 106M450 titled "Prediction of the nonlinear dynamic response of non-homogeneous plates subjected to a sudden pressure load using the finite element method," I assisted in:</p>
         <ul style="margin: 0; padding: 8px 0 0 13px;">
           <li>Preparing carbon/epoxy and kevlar/epoxy composite plates with the hand lay-up method</li>
           <li>The measurement of the mechanical properties of the prepared test specimens</li>
