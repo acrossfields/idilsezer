@@ -46,9 +46,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          I completed "Wind Energy," a 34-hour course offered by DTU via Coursera, which explored wind resource measurement and forecasting, wind farm optimization, turbine blade design, power systems, and wind energy economics.
-        </p>
+        <p>"Wind Energy," a 34-hour course exploring wind resource measurement and forecasting, wind farm optimization, turbine blade design, power systems, and wind energy economics. Completed via Coursera in May 2019.</p>
       </td>
     </tr>
   </table>
@@ -68,9 +66,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>
-          I completed "Wind Resources for Renewable Energies," a 17-hour course offered by École Polytechnique via Coursera, which explored meteorology, turbulent boundary layers, wind resource assessment, and turbine-based energy production estimation, culminating in the submission of a data analysis project on wind resource assessment.
-        </p>
+        <p>"Wind Resources for Renewable Energies," a 17-hour course exploring meteorology, turbulent boundary layers, wind resource assessment, and turbine-based energy production estimation, which included the submission of a data analysis project on wind resource assessment. Completed via Coursera in January 2020.</p>
       </td>
     </tr>
   </table>
