@@ -12,13 +12,7 @@ lang: en
       <img src="/idilsezer/assets/images/study.png" alt="Independent study">
     </td>
     <td>
-      <div style="margin-bottom: 5px;">
-        Independent Study in Wind Energy
-      </div>
-      <div style="display: flex; align-items: center; gap: 5px;">
-        <img src="/idilsezer/assets/images/coursera.png" alt="Coursera" style="height: 24px; vertical-align: middle;">
-        <b>Coursera</b>
-      </div>
+      Independent Study in Wind Energy
     </td>
     <td>
       Feb 2019<br>
