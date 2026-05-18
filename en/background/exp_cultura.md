@@ -44,7 +44,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>I entered a 150-hour intensive programme spanning one month and comparable in structure to CELTA, involving sustained assessment and selective progression that resulted in my full-time employment.</p>
+        <p>PTTC is a 150-hour programme that spans one month and is comparable in structure to CELTA. It involves sustained assessment and selective progression, through which I advanced to a full-time teaching role.</p>
       </td>
     </tr>
   </table>
