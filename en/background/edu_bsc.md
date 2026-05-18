@@ -30,7 +30,7 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>The focus of my undergraduate studies was structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
+  <p>The focus of my undergraduate studies was structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. I completed industrial internships covering factory organization, operational processes, and component manufacturing, and participated in the AIAA Design/Build/Fly Competition. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
 
   <table class="table-bgsub">
     <tr>
