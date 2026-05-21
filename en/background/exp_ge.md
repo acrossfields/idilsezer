@@ -32,7 +32,7 @@ lang: en
 <div class="bg-indented">
   <p>My primary responsibility as a Design Engineer at GE Aviation (now GE Aerospace) was supporting production and operations by evaluating the comparative stress and life of compressor parts for turboshaft and turboprop engines used in military helicopters, including the Boeing Apache, Sikorsky Black Hawk, and Lockheed Cheyenne.</p>
   <p>In this capacity, I reviewed design requirements and operating conditions as well as manufacturing and repair processes. I also performed hand calculations and ran finite element analyses using NX, Ansys, and HyperWorks. I concluded my tasks by compiling my findings and recommendations into comprehensive technical reports.</p>
-  <p>Throughout my time in this role, I worked on structural parts, rotating parts, and airfoils across engine lines T700/CT7, T64/CT64, T58/CT58, J85, F404, F414, F101, F110, and F118. I also led design efforts, carried hardware ownership responsibilities, and completed 140 hours of in-house training.</p>
+  <p>Throughout my time in this role, I worked on structural parts, rotating parts, and airfoils across engine lines T700/CT7, T64/CT64, T58/CT58, J85, F404, F414, F101, F110, and F118. I also carried hardware ownership responsibilities, led compressor-part design efforts during the start-up of TEI's new engine, and completed 140 hours of in-house training.</p>
 
   <table class="table-bgsub">
     <tr>
@@ -119,7 +119,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>For the start-up of TEI's new engine, T700-TEI-701D, I led the design efforts in a joint team of engineers from GE-USA and TEI to set the certification and process development requirements of compressor parts, beginning in May 2014 and continuing until my departure from the company.</p>
+        <p>For the licensed production of the T700-TEI-701D engine by Tusaş Engine Industries (TEI), I led the design efforts within a joint team of engineers from GE-USA and TEI to set the certification and process development requirements of compressor parts, beginning in May 2014 and continuing until my departure from the company.</p>
       </td>
     </tr>
   </table>
