@@ -29,5 +29,5 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>[Details of the Translator & QA Tester experience Red Cerberus]</p>
+  <p>In this role at Red Cerberus (now TestFly), my main responsibility was to translate video games from English to Turkish and test game localization in Turkish (Localization Quality Assurance - LQA). In addition, I performed implementation-only LQA testing across other languages and supported FQA (Functionality Quality Assurance) activities as needed.</p>
 </div>
