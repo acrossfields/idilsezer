@@ -44,7 +44,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[Mar 2019 - May 2021] I served as the only Turkish language analyst on the team, translating video games from English and testing localized content. In addition, I performed implementation-only LQA testing across other languages and supported other QA activities as needed.</p>
+        <p>As the only Turkish language analyst on the team, I translated video games from English and tested localized content during the first two years of my time in the company. I also performed implementation-only LQA testing across other languages and supported other QA activities as needed.</p>
       </td>
     </tr>
   </table>
@@ -62,7 +62,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[May 2021 - Oct 2021] During my transition toward QA management, I continued operating as a Turkish language analyst while supporting team leadership. Across localization, LQA, and other QA projects, I assisted with task coordination and deployment, maintained team operational records and performance metrics, and prepared recurring client reports. In addition to these responsibilities, I developed internal tools to support project execution and streamline existing workflows.</p>
+        <p>Throughout the six-month transition toward QA leadership roles, I continued operating as the Turkish language analyst while supporting team leadership. Across localization, LQA, and other QA projects, I assisted with task coordination and deployment, maintained team operational records and performance metrics, and prepared recurring client reports. Besides carrying these responsibilities of my role, I developed internal tools to support project execution and streamline existing workflows.</p>
       </td>
     </tr>
   </table>
