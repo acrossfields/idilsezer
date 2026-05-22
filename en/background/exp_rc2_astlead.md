@@ -29,5 +29,5 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>[Details of the QA Assistant Lead experience Red Cerberus]</p>
+  <p>Across localization, LQA, and other QA projects, I assisted with task coordination and deployment, scheduled client reporting, and maintained team operational records and performance metrics. In addition to these responsibilities, I developed internal tools to support project execution and streamline existing workflows.</p>
 </div>
