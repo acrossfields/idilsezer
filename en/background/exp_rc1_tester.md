@@ -29,5 +29,5 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>In this role at Red Cerberus (now TestFly), I served as the Turkish language analyst, translating video games from English and testing localized content. In addition, I performed implementation-only LQA testing across other languages and supported other QA activities as needed.</p>
+  <p>In this role at Red Cerberus (now TestFly), I served as the only Turkish language analyst on the team, translating video games from English and testing localized content. In addition, I performed implementation-only LQA testing across other languages and supported other QA activities as needed.</p>
 </div>
