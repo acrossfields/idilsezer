@@ -29,5 +29,5 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>[Details of the QA Lead experience Red Cerberus]</p>
+  <p>In addition to task deployment, report compilation, project delivery, and maintenance of team records across ongoing projects, I created customized workflows aligned with project deliverables and metric-keeping requirements. I also managed inter- and intra-team communication, evaluated team performance, documented established LQA processes, trained new hires, and continued translating game-related content from English into Turkish in smaller volumes.</p>
 </div>
