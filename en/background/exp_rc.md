@@ -34,7 +34,7 @@ lang: en
   <table class="table-bgsub">
     <tr>
       <td>
-        Entry role
+        Specialist role
       </td>
       <td>
         Translator & QA Tester
@@ -88,7 +88,7 @@ lang: en
   <table class="table-bgsub">
     <tr>
       <td>
-        Leadership role
+        Operations role
       </td>
       <td>
         Localization & LQA Coordinator
