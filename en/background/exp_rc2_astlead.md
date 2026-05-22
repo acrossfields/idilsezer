@@ -29,5 +29,5 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>Across localization, LQA, and other QA projects, I assisted with task coordination and deployment, scheduled client reporting, and maintained team operational records and performance metrics. In addition to these responsibilities, I developed internal tools to support project execution and streamline existing workflows.</p>
+  <p>In this transitional role toward QA management, I continued operating as a Turkish language analyst while supporting team leadership. Across localization, LQA, and other QA projects, I assisted with task coordination and deployment, maintained team operational records and performance metrics, and prepared recurring client reports. In addition to these responsibilities, I developed internal tools to support project execution and streamline existing workflows.</p>
 </div>
