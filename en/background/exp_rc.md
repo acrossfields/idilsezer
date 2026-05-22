@@ -21,7 +21,7 @@ lang: en
     </td>
     <td>
       Mar 2019<br>
-      <div style="margin-bottom: 8px;">May 2024</div>
+      <div style="margin-bottom: 8px;">Mar 2024</div>
       <span style="font-size: 13px;">São Paulo</span><br>
       Brazil
     </td>
@@ -29,7 +29,7 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>Summary of Red Cerberus (now TestFly)</p>
+  <p>[Summary of Red Cerberus (now TestFly)]</p>
 
   <table class="table-bgsub">
     <tr>
