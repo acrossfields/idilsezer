@@ -29,7 +29,8 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>[Summary of Red Cerberus (now TestFly)]</p>
+  <p>At Red Cerberus (now TestFly), I began as a translator and localization tester of video games and progressed to the role of coordinator. Throughout this time, I remained actively involved in both localization and manual QA (quality assurance) activities, translating over a million words from English into Turkish for narrative-driven games and marketing copies, performing and leading LQA (localization quality assurance) and FQA (functionality quality assurance) tasks, and working with over 30 titles ranging from indie to AAA games.</p>
+  <p>While I used MemoQ in both translator and PM capacities for high-volume localization projects, I executed many localization and LQA projects using Google Drive as a collaborative workspace to enable multiple team members to work simultaneously while automating data flow, tracking metrics, running sanity checks, and controlling user permissions. Other platforms frequently used for QA processes and documentation were Jira, Confluence, and TestRail.</p>
 
   <table class="table-bgsub">
     <tr>
@@ -44,7 +45,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>As the only Turkish language analyst on the team, I translated video games from English and tested localized content during the first two years of my time in the company. I also performed implementation-only LQA testing across other languages and supported other QA activities as needed.</p>
+        <p>As the only Turkish language analyst on the team, I mainly translated video games from English and tested localized content during the first two years of my time in the company. I also performed implementation-only LQA testing across other languages and supported other QA activities as needed.</p>
       </td>
     </tr>
   </table>
@@ -62,7 +63,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>Throughout the six-month transition toward QA leadership roles, I continued operating as the Turkish language analyst while supporting team leadership. Across localization, LQA, and other QA projects, I assisted with task coordination and deployment, maintained team operational records and performance metrics, and prepared recurring client reports. Besides carrying these responsibilities of my role, I developed internal tools to support project execution and streamline existing workflows.</p>
+        <p>Throughout this 6-month transition, I continued operating as a language analyst while supporting team leadership. Across localization and QA projects, I assisted with task coordination and deployment, maintained team operational records and performance metrics, and compiled recurring client reports. Besides carrying the assumed responsibilities of this role, I developed internal tools to support project execution and streamline existing workflows.</p>
       </td>
     </tr>
   </table>
@@ -80,7 +81,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[Oct 2021 - Mar 2023] In addition to task deployment, report compilation, project delivery, and maintenance of team records across ongoing projects, I created customized workflows aligned with project deliverables and metric-keeping requirements. I also managed inter- and intra-team communication, evaluated team performance, documented established LQA processes, trained new hires, and continued translating game-related content from English into Turkish in smaller volumes.</p>
+        <p>For the next 18 months, I executed localization, LQA, and other QA projects, creating customized workflows aligned with project deliverables and metric-keeping requirements, while remaining responsible for task deployment, workflow monitoring, project reporting and delivery, and maintenance of team records. I also managed inter- and intra-team communication, evaluated team performance, documented established LQA processes, and trained new translators and LQA testers.</p>
       </td>
     </tr>
   </table>
