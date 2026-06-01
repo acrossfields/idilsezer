@@ -48,7 +48,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>During the month-long internship in August 2006 at the Prysmian cable factory in Bursa, Türkiye, I observed the design process within the product planning department and became familiar with factory organizational structures.</p>
+        <p>During the month-long internship in August 2006 at the Prysmian cable factory in Bursa, Türkiye, I gained exposure to the design process within the product planning department and developed an understanding of factory organizational structures.</p>
       </td>
     </tr>
   </table>
