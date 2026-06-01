@@ -29,7 +29,7 @@ lang: en
 </table>
 
 <div class="bg-indented">
-  <p>At Red Cerberus (now TestFly), I began as a translator and localization tester of video games and progressed to the role of coordinator. Throughout this time, I remained actively involved in both localization and manual QA (quality assurance) activities, translating over a million words from English into Turkish for narrative-driven games and marketing copies, performing and leading LQA (localization quality assurance) and FQA (functionality quality assurance) tasks, and working with over 30 titles ranging from indie to AAA games.</p>
+  <p>At Red Cerberus (now TestFly), I worked on video game localization and quality assurance, progressing from translator and localization tester to coordinator over five years. Throughout this time, I remained actively involved in both localization and QA activities, translating over a million words from English into Turkish for narrative-driven games and marketing copies, performing and leading localization QA (LQA) and functionality QA (FQA) tasks, and working with over 30 titles ranging from indie to AAA games.</p>
   <p>While I used MemoQ in both translator and PM capacities for high-volume localization projects, I executed many localization and LQA projects using Google Drive as a collaborative workspace to enable multiple team members to work simultaneously while automating data flow, tracking metrics, running sanity checks, and controlling user permissions. Other platforms frequently used for QA processes and documentation were Jira, Confluence, and TestRail.</p>
 
   <table class="table-bgsub">
