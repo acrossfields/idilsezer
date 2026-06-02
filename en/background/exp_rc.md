@@ -81,7 +81,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>For the next 18 months, I executed localization, LQA, and FQA projects, creating customized workflows aligned with project deliverables and metric-keeping requirements, while remaining responsible for task deployment, workflow monitoring, project reporting and delivery, and maintenance of team records. I also managed inter- and intra-team communication, evaluated team performance, documented established LQA processes, and trained new translators and LQA testers.</p>
+        <p>For the next 18 months, I led a multilingual team in executing localization and LQA projects, as well as testers from other teams in FQA projects as required. I created customized workflows aligned with project deliverables and metric-keeping requirements, while remaining responsible for task deployment, workflow monitoring, project reporting and delivery, and maintenance of team records. I also managed inter- and intra-team communication, evaluated team performance, documented established LQA processes, and trained new translators and LQA testers.</p>
       </td>
     </tr>
   </table>
