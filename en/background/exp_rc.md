@@ -99,7 +99,7 @@ lang: en
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>During my last year with the company, I continued executing localization and LQA projects while taking a more active role in operational planning. I participated in client communications to establish operational frameworks and deliverables for new projects, trained leads and assistant leads to support project execution, developed new internal tools to further automate processes, and documented established localization practices. I also adapted workflows and resource allocation to sustain team operations and project delivery through periods of organizational change.</p>
+        <p>During my last year with the company, I continued executing localization and LQA projects while taking a more active role in operational planning. I participated in client communications to establish operational frameworks and deliverables for new projects, trained leads and assistant leads to support project execution, developed new internal tools to further automate processes, and documented established localization management practices. I also adapted workflows and resource allocation to sustain team operations and project delivery through periods of organizational change.</p>
       </td>
     </tr>
   </table>
