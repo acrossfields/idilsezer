@@ -26,12 +26,42 @@
     
     <div id="content-wrapper">
       <div class="inner clearfix bg">
+        
+        {% assign tag_search = "all" %}
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
+        
         {% for item in items %}
-          <div class="backgr_entry">
-            {{ item.content }}
-          </div>
+          {% assign show_entry = false %}
+          {% assign show_all_sub = false %}
+          {% if tag_search == "all" %}
+            {% assign show_entry = true %}
+            {% assign show_all_sub = true %}
+          {% elsif item.tags_full contains tag_search %}
+            {% assign show_entry = true %}
+          {% endif %}
+          {% if show_entry %}
+            <div class="backgr_entry">
+              {{ item.block_main }}
+              {% if tag_search == "all" or item.tags_main contains tag_search %}
+                {{ item.block_main_desc }}
+                {% assign show_all_sub = true %}
+              {% endif %}
+              {% if show_all_sub or item.tags_sub_1 contains tag_search %}
+                {{ item.block_sub_1 }}
+              {% endif %}
+              {% if show_all_sub or item.tags_sub_2 contains tag_search %}
+                {{ item.block_sub_2 }}
+              {% endif %}
+              {% if show_all_sub or item.tags_sub_3 contains tag_search %}
+                {{ item.block_sub_3 }}
+              {% endif %}
+              {% if show_all_sub or item.tags_sub_4 contains tag_search %}
+                {{ item.block_sub_4 }}
+              {% endif %}
+            </div>
+          {% endif %}
         {% endfor %}
+
       </div>
     </div>
     
