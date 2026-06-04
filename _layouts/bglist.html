@@ -47,7 +47,14 @@
           {% if show_entry %}
             <div class="backgr_entry">
               {{ main.content }}
-              {% if desc %}
+              {% assign show_desc = false %}
+              {% if search_tag == "all" %}
+                {% assign show_desc = true %}
+              {% endif %}
+              {% if main.tags contains search_tag %}
+                {% assign show_desc = true %}
+              {% endif %}
+              {% if show_desc and desc %}
                 {{ desc.content }}
               {% endif %}
               {% for sub in subs %}
