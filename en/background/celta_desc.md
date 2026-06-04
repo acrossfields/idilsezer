@@ -2,7 +2,7 @@
 category: backgr_entry
 entry_id: celta
 block_type: desc
-tags: education,lang
+tags: langcomm,education
 start_date: 2015-11
 end_date: 2015-12
 lang: en
