@@ -26,23 +26,69 @@
     
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        {% assign mains = site.pages | where: "category", "backgr_entry" | where: "block_type", "main" | sort: "start_date" %}
-        {% for main in mains %}
-          {% assign entry_blocks = site.pages | where: "entry_id", main.entry_id %}
-          <div class="backgr_entry">
-            {{ main.content }}
-            {% assign desc = entry_blocks | where: "block_type", "desc" | first %}
+
+<div id="content-wrapper">
+  <div class="inner clearfix bg">
+    {% assign mains = site.pages | where: "category", "backgr_entry" | where: "block_type", "main" | sort: "start_date" %}
+    {% for main in mains %}
+      {% assign entry_blocks = site.pages | where: "entry_id", main.entry_id %}
+      {% assign desc = entry_blocks | where: "block_type", "desc" | first %}
+      {% assign subs = entry_blocks | where: "block_type", "sub" %}
+      {%- comment -%} Build tag pools {%- endcomment -%}
+      {% assign main_tags = main.tags | split: "," %}
+      {% assign all_tags = main.tags | split: "," %}
+      {% if desc %}
+        {% assign all_tags = all_tags | concat: desc.tags | split: "," %}
+      {% endif %}
+      {% for sub in subs %}
+        {% assign all_tags = all_tags | concat: sub.tags | split: "," %}
+      {% endfor %}
+      {% assign match_any = false %}
+      {% assign match_main = false %}
+      {% assign match_sub = false %}
+      {% if search_tag == "all" %}
+        {% assign match_any = true %}
+        {% assign match_main = true %}
+      {% else %}
+        {% if main.tags contains search_tag %}
+          {% assign match_main = true %}
+          {% assign match_any = true %}
+        {% endif %}
+        {% for sub in subs %}
+          {% if sub.tags contains search_tag %}
+            {% assign match_sub = true %}
+            {% assign match_any = true %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {%- comment -%} RULE 1: skip entry if no match {%- endcomment -%}
+      {% if match_any %}
+        <div class="backgr_entry">
+          {%- comment -%} MAIN BLOCK {%- endcomment -%}
+          {{ main.content }}
+          {%- comment -%} RULE 2: show description only if main matches OR full view {%- endcomment -%}
+          {% if search_tag == "all" or match_main %}
             {% if desc %}
               {{ desc.content }}
             {% endif %}
-            {% assign subs = entry_blocks | where: "block_type", "sub" %}
-            {% for sub in subs %}
+          {% endif %}
+          {%- comment -%} RULE 3: sub logic {%- endcomment -%}
+          {% for sub in subs %}
+            {% if search_tag == "all" %}
               {{ sub.content }}
-            {% endfor %}
-          </div>
-        {% endfor %}
-      </div>
-    </div>
+            {% elsif match_main %}
+              {{ sub.content }}
+            {% else %}
+              {% if sub.tags contains search_tag %}
+                {{ sub.content }}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
     
     <script>
     document.addEventListener("DOMContentLoaded", function () {
