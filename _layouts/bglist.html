@@ -31,7 +31,6 @@
           {% assign entry_blocks = site.pages | where: "entry_id", main.entry_id %}
           {% assign desc = entry_blocks | where: "block_type", "desc" | first %}
           {% assign subs = entry_blocks | where: "block_type", "sub" %}
-          {%- comment -%} Build tag pools {%- endcomment -%}
           {% assign main_tags = main.tags | split: "," %}
           {% assign all_tags = main.tags | split: "," %}
           {% if desc %}
@@ -58,18 +57,14 @@
               {% endif %}
             {% endfor %}
           {% endif %}
-          {%- comment -%} RULE 1: skip entry if no match {%- endcomment -%}
           {% if match_any %}
             <div class="backgr_entry">
-              {%- comment -%} MAIN BLOCK {%- endcomment -%}
               {{ main.content }}
-              {%- comment -%} RULE 2: show description only if main matches OR full view {%- endcomment -%}
               {% if search_tag == "all" or match_main %}
                 {% if desc %}
                   {{ desc.content }}
                 {% endif %}
               {% endif %}
-              {%- comment -%} RULE 3: sub logic {%- endcomment -%}
               {% for sub in subs %}
                 {% if search_tag == "all" %}
                   {{ sub.content }}
