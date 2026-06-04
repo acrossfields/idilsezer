@@ -2,7 +2,7 @@
 category: backgr_entry
 entry_id: celta
 block_type: sub
-tags: langcomm,experience
+tags: experience
 start_date: 2015-11
 end_date: 2015-12
 lang: en
