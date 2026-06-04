@@ -26,20 +26,35 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
+        {% assign search_tag = "all" %}
         {% assign mains = site.pages | where: "category", "backgr_entry" | where: "block_type", "main" | sort: "start_date" %}
         {% for main in mains %}
           {% assign entry_blocks = site.pages | where: "entry_id", main.entry_id %}
-          <div class="backgr_entry">
-            {{ main.content }}
-            {% assign desc = entry_blocks | where: "block_type", "desc" | first %}
-            {% if desc %}
-              {{ desc.content }}
+          {% assign desc = entry_blocks | where: "block_type", "desc" | first %}
+          {% assign subs = entry_blocks | where: "block_type", "sub" %}
+          {% assign show_entry = false %}
+          {% if search_tag == "all" %}
+            {% assign show_entry = true %}
+          {% endif %}
+          {% if main.tags contains search_tag %}
+            {% assign show_entry = true %}
+          {% endif %}
+          {% for sub in subs %}
+            {% if sub.tags contains search_tag %}
+              {% assign show_entry = true %}
             {% endif %}
-            {% assign subs = entry_blocks | where: "block_type", "sub" %}
-            {% for sub in subs %}
-              {{ sub.content }}
-            {% endfor %}
-          </div>
+          {% endfor %}
+          {% if show_entry %}
+            <div class="backgr_entry">
+              {{ main.content }}
+              {% if desc %}
+                {{ desc.content }}
+              {% endif %}
+              {% for sub in subs %}
+                {{ sub.content }}
+              {% endfor %}
+            </div>
+          {% endif %}
         {% endfor %}
       </div>
     </div>
