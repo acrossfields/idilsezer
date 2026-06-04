@@ -26,7 +26,7 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        {% assign search_tag = "none" %}
+        {% assign search_tag = "all" %}
         {% assign mains = site.pages | where: "category", "backgr_entry" | where: "block_type", "main" | sort: "start_date" %}
         {% for main in mains %}
           {% assign entry_blocks = site.pages | where: "entry_id", main.entry_id %}
