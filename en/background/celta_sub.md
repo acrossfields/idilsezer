@@ -1,5 +1,4 @@
 ---
-layout: backgr
 category: backgr_entry
 entry_id: celta
 block_type: sub
