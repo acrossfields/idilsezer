@@ -26,10 +26,19 @@
     
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
-        {% for item in items %}
+        {% assign mains = site.pages | where: "category", "backgr_entry" | where: "block_type", "main" | sort: "start_date" %}
+        {% for main in mains %}
+          {% assign entry_blocks = site.pages | where: "entry_id", main.entry_id %}
           <div class="backgr_entry">
-            {{ item.content }}
+            {{ main.content }}
+            {% assign desc = entry_blocks | where: "block_type", "desc" | first %}
+            {% if desc %}
+              {{ desc.content }}
+            {% endif %}
+            {% assign subs = entry_blocks | where: "block_type", "sub" %}
+            {% for sub in subs %}
+              {{ sub.content }}
+            {% endfor %}
           </div>
         {% endfor %}
       </div>
