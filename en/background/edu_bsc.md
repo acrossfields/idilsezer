@@ -4,7 +4,7 @@ start_date: 2004-09
 end_date: 2008-08
 lang: en
 ---
-
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -28,9 +28,13 @@ lang: en
   </tr>
 </table>
 
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>The focus of my undergraduate studies was structural analysis and finite element methods, which I complemented by gaining practical experience with CAD/CAE tools such as CATIA and Ansys. I completed industrial internships covering factory organization, operational processes, and component manufacturing, and participated in the AIAA Design/Build/Fly Competition. For my graduation project, I created a finite element model of a composite wing and ran structural analyses to estimate the stresses that occur during three different stages of flight.</p>
+</div>
 
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -51,7 +55,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
 
+[[BLOCK_SUB2]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -72,7 +79,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
 
+[[BLOCK_SUB3]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -97,5 +107,7 @@ lang: en
       </td>
     </tr>
   </table>
-
 </div>
+
+[[BLOCK_SUB4]]
+<!-- empty -->
