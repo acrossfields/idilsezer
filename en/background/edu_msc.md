@@ -5,7 +5,6 @@ end_date: 2011-07
 lang: en
 ---
 [[BLOCK_MAIN]]
-
 <table class="table-bgheader">
   <tr>
     <td>
@@ -30,10 +29,12 @@ lang: en
 </table>
 
 [[BLOCK_DESC]]
-
 <div class="bg-indented">
   <p>During my graduate studies, I focused on the subjects of finite element analysis in structures and composite mechanics. I received a scholarship to assist in a research project and attended an AIAA professional development course on composite structure design, as well as the 52nd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference held in Denver, CO, USA. For my master's thesis, I conducted an experimental study on laminated composites.</p>
+</div>
 
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -60,7 +61,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
 
+[[BLOCK_SUB2]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -81,7 +85,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
 
+[[BLOCK_SUB3]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -114,5 +121,4 @@ lang: en
       </td>
     </tr>
   </table>
-
 </div>
