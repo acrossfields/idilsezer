@@ -4,6 +4,7 @@ start_date: 2017-09
 end_date: 2019-03
 lang: en
 ---
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -26,9 +27,13 @@ lang: en
   </tr>
 </table>
 
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>I assessed students' proficiency levels, interests, and learning goals, and designed fully customized English lessons. I delivered online and in-person lessons to individual and small groups of adult learners with varied needs.</p>
+</div>
 
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -49,5 +54,13 @@ lang: en
       </td>
     </tr>
   </table>
-
 </div>
+
+[[BLOCK_SUB2]]
+<!-- empty -->
+
+[[BLOCK_SUB3]]
+<!-- empty -->
+
+[[BLOCK_SUB4]]
+<!-- empty -->
