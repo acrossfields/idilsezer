@@ -41,7 +41,7 @@
           {% assign after_sub2 = parts_sub2[1] %}
           {% assign parts_sub3 = after_sub2 | split: '[[BLOCK_SUB3]]' %}
           {% assign block_sub2 = parts_sub3[0] %}
-          {% assign block_sub3 = parts_sub3[1] %}
+          {% assign after_sub3 = parts_sub3[1] %}
           {% assign parts_sub4 = after_sub3 | split: '[[BLOCK_SUB4]]' %}
           {% assign block_sub3 = parts_sub4[0] %}
           {% assign block_sub4 = parts_sub4[1] %}
@@ -56,7 +56,7 @@
         {% endfor %}
       </div>
     </div>
-    
+
     <script>
     document.addEventListener("DOMContentLoaded", function () {
       document.querySelectorAll(".table-bgsub td:nth-child(3)").forEach(function (arrowCell) {
