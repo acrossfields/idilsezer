@@ -4,7 +4,7 @@ start_date: 2024-05
 end_date: 2024-12
 lang: en
 ---
-
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -28,9 +28,13 @@ lang: en
   </tr>
 </table>
 
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>[Details of ITU & Mindset Data science certificate program]</p>
+</div>
 
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -48,7 +52,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
 
+[[BLOCK_SUB2]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -68,3 +75,8 @@ lang: en
   </table>
 </div>
       
+[[BLOCK_SUB3]]
+<!-- empty -->
+
+[[BLOCK_SUB4]]
+<!-- empty -->
