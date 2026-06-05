@@ -1,5 +1,4 @@
 ---
-layout: backgr
 category: backgr_entry
 start_date: 2016-07
 end_date: 2017-07
