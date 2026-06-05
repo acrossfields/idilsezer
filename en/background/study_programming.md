@@ -4,6 +4,7 @@ start_date: 2020-03
 end_date: 2022-01
 lang: en
 ---
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -20,8 +21,14 @@ lang: en
     </td>
   </tr>
 </table>
+
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>Driven by the growing complexity of the spreadsheets I designed and the increasingly lengthy formulas I constructed to support and manage QA workflows across various roles, I began exploring programming as a more efficient approach to data handling and process automation. I pursued a series of introductory courses to build familiarity with programming concepts and their application in data processing.</p>
+</div>
+
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -39,6 +46,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
+
+[[BLOCK_SUB2]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -56,6 +67,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
+
+[[BLOCK_SUB3]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -74,3 +89,6 @@ lang: en
     </tr>
   </table>
 </div>
+
+[[BLOCK_SUB4]]
+<!-- empty -->
