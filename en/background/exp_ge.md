@@ -4,7 +4,7 @@ start_date: 2011-11
 end_date: 2015-10
 lang: en
 ---
-
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -28,11 +28,15 @@ lang: en
   </tr>
 </table>
 
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>During my employment at GE Aviation (now GE Aerospace), my primary responsibility was supporting production and operations by evaluating the comparative stress and life of compressor parts for turboshaft and turboprop engines used in military helicopters, including the Boeing Apache, Sikorsky Black Hawk, and Lockheed Cheyenne.</p>
   <p>In this capacity, I reviewed design requirements and operating conditions as well as manufacturing and repair processes. I also performed hand calculations and ran finite element analyses using NX, Ansys, and HyperWorks. I concluded my tasks by compiling my findings and recommendations into comprehensive technical reports.</p>
   <p>Throughout my time in this role, I worked on structural parts, rotating parts, and airfoils across engine lines T700/CT7, T64/CT64, T58/CT58, J85, F404, F414, F101, F110, and F118. I also carried hardware ownership responsibilities, led compressor-part design efforts during the start-up of TEI's new engine, and completed 140 hours of in-house training.</p>
+</div>
 
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -81,7 +85,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
 
+[[BLOCK_SUB2]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -104,7 +111,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
 
+[[BLOCK_SUB3]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -123,3 +133,6 @@ lang: en
     </tr>
   </table>
 </div>
+
+[[BLOCK_SUB4]]
+<!-- empty -->
