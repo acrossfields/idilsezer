@@ -4,6 +4,7 @@ start_date: 2025-12
 end_date: 2026-12
 lang: en
 ---
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -27,6 +28,19 @@ lang: en
   </tr>
 </table>
 
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>In my current role, I operate at the intersection of technical communication and innovation-driven e-commerce technologies. I analyze the scope and requirements of R&D projects to produce structured technical content aligned with funding application criteria for submission to national and international bodies, including TÜBİTAK, the Ministry of Industry and Technology, and Horizon Europe. My responsibilities include drafting project proposals and presentations, monitoring open calls and submission timelines, and supporting the coordination of application and closure processes, ensuring consistency between project objectives, technical documentation, and submission requirements.</p>
 </div>
+
+[[BLOCK_SUB1]]
+<!-- empty -->
+
+[[BLOCK_SUB2]]
+<!-- empty -->
+
+[[BLOCK_SUB3]]
+<!-- empty -->
+
+[[BLOCK_SUB4]]
+<!-- empty -->
