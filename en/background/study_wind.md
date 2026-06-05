@@ -4,7 +4,7 @@ start_date: 2019-02
 end_date: 2020-01
 lang: en
 ---
-
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -21,8 +21,14 @@ lang: en
     </td>
   </tr>
 </table>
+
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>At a transitional stage in my career, I began studying wind energy with the aim of broadening my technical skill set towards the field of renewable energy. Building upon my background in engineering and drawing on the overlap between aeronautics and wind energy technologies, I undertook online training focused on wind resource assessment and wind energy systems design.</p>
+</div>
+
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -43,6 +49,10 @@ lang: en
       </td>
     </tr>
   </table>
+</div>
+
+[[BLOCK_SUB2]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -64,3 +74,9 @@ lang: en
     </tr>
   </table>
 </div>
+
+[[BLOCK_SUB3]]
+<!-- empty -->
+
+[[BLOCK_SUB4]]
+<!-- empty -->
