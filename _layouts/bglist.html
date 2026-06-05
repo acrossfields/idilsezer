@@ -26,7 +26,7 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        {% assign search_tag = "all" %}
+        {% assign search_tag = "exp" %}
         {% assign mains = site.pages | where: "category", "backgr_entry" | where: "block_type", "main" | sort: "start_date" %}
         {% for main in mains %}
           {% assign entry_blocks = site.pages | where: "entry_id", main.entry_id %}
@@ -39,11 +39,25 @@
           {% if main.tags contains search_tag %}
             {% assign show_entry = true %}
           {% endif %}
+
+          {% assign show_all_subs = false %}
+          {% if search_tag == "all" %}
+            {% assign show_all_subs = true %}
+          {% endif %}
+          {% if main.tags contains search_tag %}
+            {% assign show_all_subs = true %}
+          {% endif %}
           {% for sub in subs %}
-            {% if sub.tags contains search_tag %}
-              {% assign show_entry = true %}
+            {% if show_all_subs %}
+              {{ sub.content }}
             {% endif %}
+            {% unless show_all_subs %}
+              {% if sub.tags contains search_tag %}
+                {{ sub.content }}
+              {% endif %}
+            {% endunless %}
           {% endfor %}
+        
           {% if show_entry %}
             <div class="backgr_entry">
               {{ main.content }}
