@@ -1,5 +1,4 @@
 ---
-layout: backgr
 category: backgr_entry
 start_date: 2020-03
 end_date: 2022-01
