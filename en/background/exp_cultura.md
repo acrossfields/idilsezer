@@ -4,6 +4,7 @@ start_date: 2016-07
 end_date: 2017-07
 lang: en
 ---
+[[BLOCK_MAIN]]
 <table class="table-bgheader">
   <tr>
     <td>
@@ -27,9 +28,13 @@ lang: en
   </tr>
 </table>
 
+[[BLOCK_DESC]]
 <div class="bg-indented">
   <p>I developed teaching materials ranging from full lesson design to supplementing existing resources to cover curriculum topics and learning objectives. I delivered on-site lessons in branches and schools, teaching small to mid-sized groups of learners from Brazil, with English as the sole language of instruction and communication. While approximately one-third of my groups consisted of preteens and adolescents, the majority were adult learners with diverse ages, educational backgrounds, and motivations for learning English.</p>
-  
+</div>
+
+[[BLOCK_SUB1]]
+<div class="bg-indented">
   <table class="table-bgsub">
     <tr>
       <td>
@@ -47,5 +52,13 @@ lang: en
       </td>
     </tr>
   </table>
-
 </div>
+
+[[BLOCK_SUB2]]
+<!-- empty -->
+
+[[BLOCK_SUB3]]
+<!-- empty -->
+
+[[BLOCK_SUB4]]
+<!-- empty -->
