@@ -3,6 +3,12 @@ category: backgr_entry
 start_date: 2019-02
 end_date: 2020-01
 lang: en
+
+taglist_main: [engn, edu]
+taglist_sub1: [engn, edu]
+taglist_sub2: [engn, edu]
+taglist_sub3: []
+taglist_sub4: []
 ---
 [[BLOCK_MAIN]]
 <table class="table-bgheader">
