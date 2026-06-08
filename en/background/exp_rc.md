@@ -3,6 +3,12 @@ category: backgr_entry
 start_date: 2019-03
 end_date: 2024-03
 lang: en
+
+taglist_main: [langcomm, digtech, exp]
+taglist_sub1: [langcomm, digtech, exp]
+taglist_sub2: [langcomm, digtech, exp]
+taglist_sub3: [langcomm, digtech, exp]
+taglist_sub4: [langcomm, digtech, exp]
 ---
 [[BLOCK_MAIN]]
 <table class="table-bgheader">
