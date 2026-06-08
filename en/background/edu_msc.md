@@ -4,10 +4,10 @@ start_date: 2008-09
 end_date: 2011-07
 lang: en
 
-taglist_main: [education]
-taglist_sub1: [education, experience]
-taglist_sub2: [education]
-taglist_sub3: [education, project]
+taglist_main: [engn, edu]
+taglist_sub1: [engn, edu, exp, prj]
+taglist_sub2: [engn, edu]
+taglist_sub3: [engn, edu, prj]
 taglist_sub4: []
 ---
 [[BLOCK_MAIN]]
