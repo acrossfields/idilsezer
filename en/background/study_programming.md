@@ -3,6 +3,12 @@ category: backgr_entry
 start_date: 2020-03
 end_date: 2022-01
 lang: en
+
+taglist_main: [digtech, edu]
+taglist_sub1: [digtech, edu]
+taglist_sub2: [digtech, edu]
+taglist_sub3: [digtech, edu]
+taglist_sub4: []
 ---
 [[BLOCK_MAIN]]
 <table class="table-bgheader">
