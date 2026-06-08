@@ -27,7 +27,7 @@
     <div id="content-wrapper">
       <div class="inner clearfix bg">
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
-        {% assign tag_search = "eng" %}
+        {% assign tag_search = "engn" %}
         
         {% for item in items %}
           {% assign after_main = item.content | split: '[[BLOCK_MAIN]]' %}
