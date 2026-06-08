@@ -3,6 +3,12 @@ category: backgr_entry
 start_date: 2011-11
 end_date: 2015-10
 lang: en
+
+taglist_main: [engn, exp]
+taglist_sub1: [engn, exp, edu]
+taglist_sub2: [engn, exp]
+taglist_sub3: [engn, exp, prj]
+taglist_sub4: []
 ---
 [[BLOCK_MAIN]]
 <table class="table-bgheader">
