@@ -5,7 +5,7 @@ end_date: 2017-07
 lang: en
 
 taglist_main: [langcomm, exp]
-taglist_sub1: [langcomm, exp, edu]
+taglist_sub1: [langcomm, edu]
 taglist_sub2: []
 taglist_sub3: []
 taglist_sub4: []
