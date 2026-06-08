@@ -27,32 +27,57 @@
     <div id="content-wrapper">
       <div class="inner clearfix bg">
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
+        {% assign tag_search = "all" %}
+        
         {% for item in items %}
           {% assign after_main = item.content | split: '[[BLOCK_MAIN]]' %}
           {% assign after_main = after_main[1] %}
+        
           {% assign parts_desc = after_main | split: '[[BLOCK_DESC]]' %}
           {% assign block_main = parts_desc[0] %}
           {% assign after_desc = parts_desc[1] %}
+        
           {% assign parts_sub1 = after_desc | split: '[[BLOCK_SUB1]]' %}
           {% assign block_desc = parts_sub1[0] %}
           {% assign after_sub1 = parts_sub1[1] %}
+        
           {% assign parts_sub2 = after_sub1 | split: '[[BLOCK_SUB2]]' %}
           {% assign block_sub1 = parts_sub2[0] %}
           {% assign after_sub2 = parts_sub2[1] %}
+        
           {% assign parts_sub3 = after_sub2 | split: '[[BLOCK_SUB3]]' %}
           {% assign block_sub2 = parts_sub3[0] %}
           {% assign after_sub3 = parts_sub3[1] %}
+        
           {% assign parts_sub4 = after_sub3 | split: '[[BLOCK_SUB4]]' %}
           {% assign block_sub3 = parts_sub4[0] %}
           {% assign block_sub4 = parts_sub4[1] %}
-          <div class="backgr_entry">
-            {{ block_main }}
-            {{ block_desc }}
-            {{ block_sub1 }}
-            {{ block_sub2 }}
-            {{ block_sub3 }}
-            {{ block_sub4 }}
-          </div>
+        
+          {% if tag_search == "all" or item.taglist_main contains tag_search %}
+        
+            <div class="backgr_entry">
+              {{ block_main }}
+              {{ block_desc }}
+
+              {% if tag_search == "all" or item.taglist_sub1 contains tag_search %}
+                {{ block_sub1 }}
+              {% endif %}
+
+              {% if tag_search == "all" or item.taglist_sub2 contains tag_search %}
+                {{ block_sub2 }}
+              {% endif %}
+
+              {% if tag_search == "all" or item.taglist_sub3 contains tag_search %}
+                {{ block_sub3 }}
+              {% endif %}
+
+              {% if tag_search == "all" or item.taglist_sub4 contains tag_search %}
+                {{ block_sub4 }}
+              {% endif %}
+            </div>
+        
+          {% endif %}
+
         {% endfor %}
       </div>
     </div>
