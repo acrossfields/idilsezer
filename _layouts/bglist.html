@@ -27,7 +27,7 @@
     <div id="content-wrapper">
       <div class="inner clearfix bg">
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
-        {% assign tsearch_field = "engn,digtech|langcomm" | split: "|" %}
+        {% assign tsearch_field = "engn|digtech|langcomm" | split: "|" %}
         {% assign tsearch_cat = "prj" | split: "|" %}
         
         {% for item in items %}
