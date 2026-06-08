@@ -5,7 +5,7 @@ end_date: 2015-10
 lang: en
 
 taglist_main: [engn, exp]
-taglist_sub1: [engn, exp, edu]
+taglist_sub1: [engn, edu]
 taglist_sub2: [engn, exp]
 taglist_sub3: [engn, exp, prj]
 taglist_sub4: []
