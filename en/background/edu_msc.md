@@ -3,6 +3,12 @@ category: backgr_entry
 start_date: 2008-09
 end_date: 2011-07
 lang: en
+
+taglist_main: [education]
+taglist_sub1: [education, experience]
+taglist_sub2: [education]
+taglist_sub3: [education, project]
+taglist_sub4: []
 ---
 [[BLOCK_MAIN]]
 <table class="table-bgheader">
