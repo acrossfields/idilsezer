@@ -27,8 +27,6 @@
     <div id="content-wrapper">
       <div class="inner clearfix bg">
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
-        {% assign tsearch_field = "engn|digtech|langcomm" | split: "|" %}
-        {% assign tsearch_cat = "edu|exp|prj" | split: "|" %}
         
         {% for item in items %}
           {% assign after_main = item.content | split: '[[BLOCK_MAIN]]' %}
@@ -49,114 +47,39 @@
           {% assign block_sub3 = parts_sub4[0] %}
           {% assign block_sub4 = parts_sub4[1] %}
 
-          {% assign all_tags = item.taglist_main
-            | concat: item.taglist_sub1
-            | concat: item.taglist_sub2
-            | concat: item.taglist_sub3
-            | concat: item.taglist_sub4
-          %}
-
-          {% assign match = false %}
-
-          {% for f in tsearch_field %}
-            {% for c in tsearch_cat %}
-              {% if all_tags contains f and all_tags contains c %}
-                {% assign match = true %}
-              {% endif %}
-            {% endfor %}
-          {% endfor %}
-
-          {% if match == false %}
-            {% continue %}
-          {% endif %}
-
           <div class="backgr_entry"
-            data-main="{{ item.taglist_main | join: ' ' }}"
-            data-sub1="{{ item.taglist_sub1 | join: ' ' }}"
-            data-sub2="{{ item.taglist_sub2 | join: ' ' }}"
-            data-sub3="{{ item.taglist_sub3 | join: ' ' }}"
-            data-sub4="{{ item.taglist_sub4 | join: ' ' }}">
+              data-main="{{ item.taglist_main | join: ' ' }}"
+              data-sub1="{{ item.taglist_sub1 | join: ' ' }}"
+              data-sub2="{{ item.taglist_sub2 | join: ' ' }}"
+              data-sub3="{{ item.taglist_sub3 | join: ' ' }}"
+              data-sub4="{{ item.taglist_sub4 | join: ' ' }}">
 
-            {% assign main_tags = item.taglist_main %}
-            {% assign main_has_match = false %}
+            <div class="bg-main">
+              {{ block_main }}
+            </div>
 
-            {% for f in tsearch_field %}
-              {% for c in tsearch_cat %}
-                {% if main_tags contains f and main_tags contains c %}
-                  {% assign main_has_match = true %}
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-
-            {{ block_main }}
-
-            {% if main_has_match %}
+            <div class="bg-desc">
               {{ block_desc }}
-            {% endif %}
+            </div>
 
-            {% assign sub1_tags = item.taglist_sub1 %}
-            {% assign show_sub1 = false %}
-
-            {% for f in tsearch_field %}
-              {% for c in tsearch_cat %}
-                {% if sub1_tags contains f and sub1_tags contains c %}
-                  {% assign show_sub1 = true %}
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-
-            {% if show_sub1 %}
+            <div class="bg-sub1">
               {{ block_sub1 }}
-            {% endif %}
+            </div>
 
-            {% assign sub2_tags = item.taglist_sub2 %}
-            {% assign show_sub2 = false %}
-
-            {% for f in tsearch_field %}
-              {% for c in tsearch_cat %}
-                {% if sub2_tags contains f and sub2_tags contains c %}
-                  {% assign show_sub2 = true %}
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-
-            {% if show_sub2 %}
+            <div class="bg-sub2">
               {{ block_sub2 }}
-            {% endif %}
+            </div>
 
-            {% assign sub3_tags = item.taglist_sub3 %}
-            {% assign show_sub3 = false %}
-
-            {% for f in tsearch_field %}
-              {% for c in tsearch_cat %}
-                {% if sub3_tags contains f and sub3_tags contains c %}
-                  {% assign show_sub3 = true %}
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-
-            {% if show_sub3 %}
+            <div class="bg-sub3">
               {{ block_sub3 }}
-            {% endif %}
+            </div>
 
-            {% assign sub4_tags = item.taglist_sub4 %}
-            {% assign show_sub4 = false %}
-
-            {% for f in tsearch_field %}
-              {% for c in tsearch_cat %}
-                {% if sub4_tags contains f and sub4_tags contains c %}
-                  {% assign show_sub4 = true %}
-                {% endif %}
-              {% endfor %}
-            {% endfor %}
-
-            {% if show_sub4 %}
+            <div class="bg-sub4">
               {{ block_sub4 }}
-            {% endif %}
-
+            </div>
+            
           </div>
         {% endfor %}
-        
       </div>
     </div>
 
