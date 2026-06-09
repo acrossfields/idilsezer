@@ -26,7 +26,7 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        
+
         <div class="search-panel">
           <details class="dropdown">
             <summary>Category</summary>
@@ -64,7 +64,6 @@
         </div>
         
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
-        
         {% for item in items %}
           {% assign after_main = item.content | split: '[[BLOCK_MAIN]]' %}
           {% assign after_main = after_main[1] %}
@@ -83,38 +82,30 @@
           {% assign parts_sub4 = after_sub3 | split: '[[BLOCK_SUB4]]' %}
           {% assign block_sub3 = parts_sub4[0] %}
           {% assign block_sub4 = parts_sub4[1] %}
-
           <div class="backgr_entry"
               data-main="{{ item.taglist_main | join: ' ' }}"
               data-sub1="{{ item.taglist_sub1 | join: ' ' }}"
               data-sub2="{{ item.taglist_sub2 | join: ' ' }}"
               data-sub3="{{ item.taglist_sub3 | join: ' ' }}"
               data-sub4="{{ item.taglist_sub4 | join: ' ' }}">
-
             <div class="bg-main">
               {{ block_main }}
             </div>
-
             <div class="bg-desc">
               {{ block_desc }}
             </div>
-
             <div class="bg-sub1">
               {{ block_sub1 }}
             </div>
-
             <div class="bg-sub2">
               {{ block_sub2 }}
             </div>
-
             <div class="bg-sub3">
               {{ block_sub3 }}
             </div>
-
             <div class="bg-sub4">
               {{ block_sub4 }}
             </div>
-            
           </div>
         {% endfor %}
       </div>
@@ -130,17 +121,45 @@
           document.querySelectorAll(".field-filter:checked")
         ).map(cb => cb.value);
         const entries = document.querySelectorAll(".backgr_entry");
+        function hasMatch(tagString, selectedC, selectedF) {
+          const tags = (tagString || "").split(" ").filter(Boolean);
+          const cMatch = selectedC.length === 0 || selectedC.some(c => tags.includes(c));
+          const fMatch = selectedF.length === 0 || selectedF.some(f => tags.includes(f));
+          return cMatch && fMatch;
+        }
         entries.forEach(entry => {
-          const mainTags = entry.dataset.main.split(" ");
-          const hasCategoryMatch = selectedCategories.length === 0
-            || selectedCategories.some(tag => mainTags.includes(tag));
-          const hasFieldMatch = selectedFields.length === 0
-            || selectedFields.some(tag => mainTags.includes(tag));
-          if (hasCategoryMatch && hasFieldMatch) {
-            entry.style.display = "";
-          } else {
+          const mainTags = entry.dataset.main || "";
+          const subTags = [
+            entry.dataset.sub1,
+            entry.dataset.sub2,
+            entry.dataset.sub3,
+            entry.dataset.sub4
+          ];
+          const mainMatch = hasMatch(mainTags, selectedCategories, selectedFields);
+          const subMatches = subTags.map(tagStr =>
+            hasMatch(tagStr, selectedCategories, selectedFields)
+          );
+          const anySubMatch = subMatches.some(Boolean);
+          const entryVisible = mainMatch || anySubMatch;
+          if (!entryVisible) {
             entry.style.display = "none";
+            return;
           }
+          entry.style.display = "";
+          const desc = entry.querySelector(".bg-desc");
+          if (desc) {
+            desc.style.display = mainMatch ? "" : "none";
+          }
+          const subBlocks = [
+            entry.querySelector(".bg-sub1"),
+            entry.querySelector(".bg-sub2"),
+            entry.querySelector(".bg-sub3"),
+            entry.querySelector(".bg-sub4")
+          ];
+          subBlocks.forEach((block, i) => {
+            if (!block) return;
+            block.style.display = subMatches[i] ? "" : "none";
+          });
         });
       });
     });
