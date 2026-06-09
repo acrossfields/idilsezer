@@ -116,6 +116,8 @@
       const fieldOptions = document.querySelectorAll(".field-filter:not(.all-field)");
       catAll.checked = true;
       fieldAll.checked = true;
+      catOptions.forEach(cb => cb.checked = false);
+      fieldOptions.forEach(cb => cb.checked = false);
       function handleAllBehavior(allBox, options) {
         allBox.addEventListener("change", function () {
           if (allBox.checked) {
@@ -124,24 +126,28 @@
         });
         options.forEach(cb => {
           cb.addEventListener("change", function () {
-            if (cb.checked) {
-              allBox.checked = false;
-            }
-            const allChecked = Array.from(options).every(x => x.checked);
-            if (allChecked) {
+            const total = options.length;
+            const checkedCount = Array.from(options).filter(x => x.checked).length;
+            if (checkedCount === total) {
               allBox.checked = true;
-            }
-            if (allBox.checked) {
               options.forEach(x => x.checked = false);
+              return;
             }
+            if (checkedCount > 0) {
+              allBox.checked = false;
+              return;
+            }
+            allBox.checked = false;
           });
         });
       }
       handleAllBehavior(catAll, catOptions);
-      handleAllBehavior(fieldAll, fieldOptions);     
+      handleAllBehavior(fieldAll, fieldOptions);
       function hasMatch(tagString, selectedC, selectedF) {
         const tags = (tagString || "").split(" ").filter(Boolean);
-        if (selectedC.length === 0 || selectedF.length === 0) {
+        const cEmpty = selectedC.length === 0;
+        const fEmpty = selectedF.length === 0;
+        if (cEmpty || fEmpty) {
           return false;
         }
         const cMatch = selectedC.some(c => tags.includes(c));
@@ -156,6 +162,7 @@
           .filter(cb => cb.checked)
           .map(cb => cb.value);
         const entries = document.querySelectorAll(".backgr_entry");
+        entries.forEach(entry => entry.style.display = "none");
         entries.forEach(entry => {
           const mainTags = entry.dataset.main || "";
           const subTags = [
@@ -169,11 +176,7 @@
             hasMatch(tagStr, selectedCategories, selectedFields)
           );
           const anySubMatch = subMatches.some(Boolean);
-          const visible = mainMatch || anySubMatch;
-          if (!visible) {
-            entry.style.display = "none";
-            return;
-          }
+          if (!mainMatch && !anySubMatch) return;
           entry.style.display = "";
           const desc = entry.querySelector(".bg-desc");
           if (desc) desc.style.display = mainMatch ? "" : "none";
