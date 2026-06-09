@@ -138,11 +138,14 @@
         });
       }
       handleAllBehavior(catAll, catOptions);
-      handleAllBehavior(fieldAll, fieldOptions);
+      handleAllBehavior(fieldAll, fieldOptions);     
       function hasMatch(tagString, selectedC, selectedF) {
         const tags = (tagString || "").split(" ").filter(Boolean);
-        const cMatch = selectedC.length === 0 || selectedC.some(c => tags.includes(c));
-        const fMatch = selectedF.length === 0 || selectedF.some(f => tags.includes(f));
+        if (selectedC.length === 0 || selectedF.length === 0) {
+          return false;
+        }
+        const cMatch = selectedC.some(c => tags.includes(c));
+        const fMatch = selectedF.some(f => tags.includes(f));
         return cMatch && fMatch;
       }
       searchBtn.addEventListener("click", function () {
