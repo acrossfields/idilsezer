@@ -141,8 +141,11 @@
       handleAllBehavior(fieldAll, fieldOptions);
       function hasMatch(tagString, selectedC, selectedF) {
         const tags = (tagString || "").split(" ").filter(Boolean);
-        const cMatch = selectedC.length === 0 || selectedC.some(c => tags.includes(c));
-        const fMatch = selectedF.length === 0 || selectedF.some(f => tags.includes(f));
+        if (selectedC.length === 0 || selectedF.length === 0) {
+          return false;
+        }
+        const cMatch = selectedC.some(c => tags.includes(c));
+        const fMatch = selectedF.some(f => tags.includes(f));
         return cMatch && fMatch;
       }
       searchBtn.addEventListener("click", function () {
@@ -153,6 +156,12 @@
           .filter(cb => cb.checked)
           .map(cb => cb.value);
         const entries = document.querySelectorAll(".backgr_entry");
+        if (selectedCategories.length === 0 || selectedFields.length === 0) {
+          entries.forEach(entry => {
+            entry.style.display = "none";
+          });
+          return;
+        }
         entries.forEach(entry => {
           const mainTags = entry.dataset.main || "";
           const subTags = [
@@ -201,5 +210,4 @@
     </script>
     
   </body>
-  
 </html>
