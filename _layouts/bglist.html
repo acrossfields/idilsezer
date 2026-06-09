@@ -143,11 +143,16 @@
       }
       handleAllBehavior(catAll, catOptions);
       handleAllBehavior(fieldAll, fieldOptions);
+      function getSelection(options, allBox) {
+        if (allBox.checked) return "ALL";
+        const selected = Array.from(options)
+          .filter(cb => cb.checked)
+          .map(cb => cb.value);
+        return selected;
+      }
       function hasMatch(tagString, selectedC, selectedF) {
         const tags = (tagString || "").split(" ").filter(Boolean);
-        const cEmpty = selectedC.length === 0;
-        const fEmpty = selectedF.length === 0;
-        if (cEmpty || fEmpty) {
+        if (selectedC.length === 0 || selectedF.length === 0) {
           return false;
         }
         const cMatch = selectedC.some(c => tags.includes(c));
@@ -155,12 +160,8 @@
         return cMatch && fMatch;
       }
       searchBtn.addEventListener("click", function () {
-        const selectedCategories = Array.from(catOptions)
-          .filter(cb => cb.checked)
-          .map(cb => cb.value);
-        const selectedFields = Array.from(fieldOptions)
-          .filter(cb => cb.checked)
-          .map(cb => cb.value);
+        const selectedCategories = getSelection(catOptions, catAll);
+        const selectedFields = getSelection(fieldOptions, fieldAll);
         const entries = document.querySelectorAll(".backgr_entry");
         entries.forEach(entry => entry.style.display = "none");
         entries.forEach(entry => {
