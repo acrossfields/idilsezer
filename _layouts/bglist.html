@@ -70,7 +70,12 @@
             {% continue %}
           {% endif %}
 
-          <div class="backgr_entry">
+          <div class="backgr_entry"
+            data-main="{{ item.taglist_main | join: ' ' }}"
+            data-sub1="{{ item.taglist_sub1 | join: ' ' }}"
+            data-sub2="{{ item.taglist_sub2 | join: ' ' }}"
+            data-sub3="{{ item.taglist_sub3 | join: ' ' }}"
+            data-sub4="{{ item.taglist_sub4 | join: ' ' }}">
 
             {% assign main_tags = item.taglist_main %}
             {% assign main_has_match = false %}
