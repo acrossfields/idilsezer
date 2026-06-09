@@ -112,52 +112,46 @@
       const searchBtn = document.getElementById("search-btn");
       const catAll = document.querySelector(".all-cat");
       const fieldAll = document.querySelector(".all-field");
+      const catOptions = document.querySelectorAll(".cat-filter:not(.all-cat)");
+      const fieldOptions = document.querySelectorAll(".field-filter:not(.all-field)");
       catAll.checked = true;
       fieldAll.checked = true;
-      function handleAllBehavior(groupAllSelector, itemSelector) {
-        const groupAll = document.querySelector(groupAllSelector);
-        const others = document.querySelectorAll(itemSelector);
-        groupAll.addEventListener("change", function () {
-          if (groupAll.checked) {
-            others.forEach(cb => cb.checked = false);
+      function handleAllBehavior(allBox, options) {
+        allBox.addEventListener("change", function () {
+          if (allBox.checked) {
+            options.forEach(cb => cb.checked = false);
           }
         });
-        others.forEach(cb => {
+        options.forEach(cb => {
           cb.addEventListener("change", function () {
             if (cb.checked) {
-              groupAll.checked = false;
+              allBox.checked = false;
             }
-            const anyChecked = Array.from(others).some(x => x.checked);
-            if (!anyChecked) {
-              groupAll.checked = true;
+            const allChecked = Array.from(options).every(x => x.checked);
+            if (allChecked) {
+              allBox.checked = true;
+            }
+            if (allBox.checked) {
+              options.forEach(x => x.checked = false);
             }
           });
         });
       }
-      handleAllBehavior(".all-cat", ".cat-filter:not(.all-cat)");
-      handleAllBehavior(".all-field", ".field-filter:not(.all-field)");
+      handleAllBehavior(catAll, catOptions);
+      handleAllBehavior(fieldAll, fieldOptions);
       function hasMatch(tagString, selectedC, selectedF) {
         const tags = (tagString || "").split(" ").filter(Boolean);
         const cMatch = selectedC.length === 0 || selectedC.some(c => tags.includes(c));
         const fMatch = selectedF.length === 0 || selectedF.some(f => tags.includes(f));
         return cMatch && fMatch;
       }
-      function enforceAllState() {
-        const catChecked = document.querySelectorAll(".cat-filter:checked:not(.all-cat)").length;
-        const fieldChecked = document.querySelectorAll(".field-filter:checked:not(.all-field)").length;
-        if (catChecked === 0) catAll.checked = true;
-        if (fieldChecked === 0) fieldAll.checked = true;
-      }
-      document.querySelectorAll(".cat-filter, .field-filter").forEach(cb => {
-        cb.addEventListener("change", enforceAllState);
-      });
       searchBtn.addEventListener("click", function () {
-        const selectedCategories = Array.from(
-          document.querySelectorAll(".cat-filter:checked:not(.all-cat)")
-        ).map(cb => cb.value);
-        const selectedFields = Array.from(
-          document.querySelectorAll(".field-filter:checked:not(.all-field)")
-        ).map(cb => cb.value);
+        const selectedCategories = Array.from(catOptions)
+          .filter(cb => cb.checked)
+          .map(cb => cb.value);
+        const selectedFields = Array.from(fieldOptions)
+          .filter(cb => cb.checked)
+          .map(cb => cb.value);
         const entries = document.querySelectorAll(".backgr_entry");
         entries.forEach(entry => {
           const mainTags = entry.dataset.main || "";
