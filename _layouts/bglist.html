@@ -26,6 +26,43 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
+        
+        <div class="search-panel">
+          <details class="dropdown">
+            <summary>Category</summary>
+            <label>
+              <input type="checkbox" class="cat-filter" value="edu">
+              Education
+            </label><br>
+            <label>
+              <input type="checkbox" class="cat-filter" value="exp">
+              Experience
+            </label><br>
+            <label>
+              <input type="checkbox" class="cat-filter" value="prj">
+               Project
+            </label>
+          </details>
+          <details class="dropdown">
+            <summary>Field</summary>
+            <label>
+              <input type="checkbox" class="field-filter" value="engn">
+              Engineering
+            </label><br>
+            <label>
+              <input type="checkbox" class="field-filter" value="langcomm">
+              Language &amp; Communication
+            </label><br>
+            <label>
+              <input type="checkbox" class="field-filter" value="digtech">
+              Digital Technologies
+            </label>
+          </details>
+          <button id="search-btn" type="button">
+            Search
+          </button>
+        </div>
+        
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
         
         {% for item in items %}
@@ -83,6 +120,21 @@
       </div>
     </div>
 
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      document.getElementById("search-btn").addEventListener("click", function () {
+        const selectedCategories = Array.from(
+          document.querySelectorAll(".cat-filter:checked")
+        ).map(cb => cb.value);
+        const selectedFields = Array.from(
+          document.querySelectorAll(".field-filter:checked")
+        ).map(cb => cb.value);
+        console.log("Categories:", selectedCategories);
+        console.log("Fields:", selectedFields);
+      });
+    });
+    </script>
+    
     <script>
     document.addEventListener("DOMContentLoaded", function () {
       document.querySelectorAll(".table-bgsub td:nth-child(3)").forEach(function (arrowCell) {
