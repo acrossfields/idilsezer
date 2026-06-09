@@ -28,8 +28,12 @@
       <div class="inner clearfix bg">
 
         <div class="search-panel">
-          <details class="dropdown">
+          <details class="dropdown" open>
             <summary>Field</summary>
+            <label>
+              <input type="checkbox" class="field-filter all-field" value="all" checked>
+              All
+            </label><br>
             <label>
               <input type="checkbox" class="field-filter" value="engn">
               Engineering
@@ -43,8 +47,12 @@
               Digital Technologies
             </label>
           </details>
-          <details class="dropdown">
+          <details class="dropdown" open>
             <summary>Category</summary>
+            <label>
+              <input type="checkbox" class="cat-filter all-cat" value="all" checked>
+              All
+            </label><br>
             <label>
               <input type="checkbox" class="cat-filter" value="edu">
               Education
@@ -55,7 +63,7 @@
             </label><br>
             <label>
               <input type="checkbox" class="cat-filter" value="prj">
-               Project
+              Project
             </label>
           </details>
           <button id="search-btn" type="button">
@@ -82,30 +90,18 @@
           {% assign parts_sub4 = after_sub3 | split: '[[BLOCK_SUB4]]' %}
           {% assign block_sub3 = parts_sub4[0] %}
           {% assign block_sub4 = parts_sub4[1] %}
-          <div class="backgr_entry"
+          <div class="backgr_entry" style="display:none;"
               data-main="{{ item.taglist_main | join: ' ' }}"
               data-sub1="{{ item.taglist_sub1 | join: ' ' }}"
               data-sub2="{{ item.taglist_sub2 | join: ' ' }}"
               data-sub3="{{ item.taglist_sub3 | join: ' ' }}"
               data-sub4="{{ item.taglist_sub4 | join: ' ' }}">
-            <div class="bg-main">
-              {{ block_main }}
-            </div>
-            <div class="bg-desc">
-              {{ block_desc }}
-            </div>
-            <div class="bg-sub1">
-              {{ block_sub1 }}
-            </div>
-            <div class="bg-sub2">
-              {{ block_sub2 }}
-            </div>
-            <div class="bg-sub3">
-              {{ block_sub3 }}
-            </div>
-            <div class="bg-sub4">
-              {{ block_sub4 }}
-            </div>
+            <div class="bg-main">{{ block_main }}</div>
+            <div class="bg-desc">{{ block_desc }}</div>
+            <div class="bg-sub1">{{ block_sub1 }}</div>
+            <div class="bg-sub2">{{ block_sub2 }}</div>
+            <div class="bg-sub3">{{ block_sub3 }}</div>
+            <div class="bg-sub4">{{ block_sub4 }}</div>
           </div>
         {% endfor %}
       </div>
@@ -113,20 +109,56 @@
 
     <script>
     document.addEventListener("DOMContentLoaded", function () {
-      document.getElementById("search-btn").addEventListener("click", function () {
+      const searchBtn = document.getElementById("search-btn");
+      const catAll = document.querySelector(".all-cat");
+      const fieldAll = document.querySelector(".all-field");
+      catAll.checked = true;
+      fieldAll.checked = true;
+      function handleAllBehavior(groupAllSelector, itemSelector) {
+        const groupAll = document.querySelector(groupAllSelector);
+        const others = document.querySelectorAll(itemSelector);
+        groupAll.addEventListener("change", function () {
+          if (groupAll.checked) {
+            others.forEach(cb => cb.checked = false);
+          }
+        });
+        others.forEach(cb => {
+          cb.addEventListener("change", function () {
+            if (cb.checked) {
+              groupAll.checked = false;
+            }
+            const anyChecked = Array.from(others).some(x => x.checked);
+            if (!anyChecked) {
+              groupAll.checked = true;
+            }
+          });
+        });
+      }
+      handleAllBehavior(".all-cat", ".cat-filter:not(.all-cat)");
+      handleAllBehavior(".all-field", ".field-filter:not(.all-field)");
+      function hasMatch(tagString, selectedC, selectedF) {
+        const tags = (tagString || "").split(" ").filter(Boolean);
+        const cMatch = selectedC.length === 0 || selectedC.some(c => tags.includes(c));
+        const fMatch = selectedF.length === 0 || selectedF.some(f => tags.includes(f));
+        return cMatch && fMatch;
+      }
+      function enforceAllState() {
+        const catChecked = document.querySelectorAll(".cat-filter:checked:not(.all-cat)").length;
+        const fieldChecked = document.querySelectorAll(".field-filter:checked:not(.all-field)").length;
+        if (catChecked === 0) catAll.checked = true;
+        if (fieldChecked === 0) fieldAll.checked = true;
+      }
+      document.querySelectorAll(".cat-filter, .field-filter").forEach(cb => {
+        cb.addEventListener("change", enforceAllState);
+      });
+      searchBtn.addEventListener("click", function () {
         const selectedCategories = Array.from(
-          document.querySelectorAll(".cat-filter:checked")
+          document.querySelectorAll(".cat-filter:checked:not(.all-cat)")
         ).map(cb => cb.value);
         const selectedFields = Array.from(
-          document.querySelectorAll(".field-filter:checked")
+          document.querySelectorAll(".field-filter:checked:not(.all-field)")
         ).map(cb => cb.value);
         const entries = document.querySelectorAll(".backgr_entry");
-        function hasMatch(tagString, selectedC, selectedF) {
-          const tags = (tagString || "").split(" ").filter(Boolean);
-          const cMatch = selectedC.length === 0 || selectedC.some(c => tags.includes(c));
-          const fMatch = selectedF.length === 0 || selectedF.some(f => tags.includes(f));
-          return cMatch && fMatch;
-        }
         entries.forEach(entry => {
           const mainTags = entry.dataset.main || "";
           const subTags = [
@@ -140,25 +172,23 @@
             hasMatch(tagStr, selectedCategories, selectedFields)
           );
           const anySubMatch = subMatches.some(Boolean);
-          const entryVisible = mainMatch || anySubMatch;
-          if (!entryVisible) {
+          const visible = mainMatch || anySubMatch;
+          if (!visible) {
             entry.style.display = "none";
             return;
           }
           entry.style.display = "";
           const desc = entry.querySelector(".bg-desc");
-          if (desc) {
-            desc.style.display = mainMatch ? "" : "none";
-          }
-          const subBlocks = [
+          if (desc) desc.style.display = mainMatch ? "" : "none";
+          const subs = [
             entry.querySelector(".bg-sub1"),
             entry.querySelector(".bg-sub2"),
             entry.querySelector(".bg-sub3"),
             entry.querySelector(".bg-sub4")
           ];
-          subBlocks.forEach((block, i) => {
-            if (!block) return;
-            block.style.display = subMatches[i] ? "" : "none";
+          subs.forEach((el, i) => {
+            if (!el) return;
+            el.style.display = subMatches[i] ? "" : "none";
           });
         });
       });
