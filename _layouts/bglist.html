@@ -129,8 +129,19 @@
         const selectedFields = Array.from(
           document.querySelectorAll(".field-filter:checked")
         ).map(cb => cb.value);
-        console.log("Categories:", selectedCategories);
-        console.log("Fields:", selectedFields);
+        const entries = document.querySelectorAll(".backgr_entry");
+        entries.forEach(entry => {
+          const mainTags = entry.dataset.main.split(" ");
+          const hasCategoryMatch = selectedCategories.length === 0
+            || selectedCategories.some(tag => mainTags.includes(tag));
+          const hasFieldMatch = selectedFields.length === 0
+            || selectedFields.some(tag => mainTags.includes(tag));
+          if (hasCategoryMatch && hasFieldMatch) {
+            entry.style.display = "";
+          } else {
+            entry.style.display = "none";
+          }
+        });
       });
     });
     </script>
