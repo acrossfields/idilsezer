@@ -26,69 +26,61 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        
-        <table class="search-panel">
-          <tr>
-            <td colspan="2" class="panel-title">
-              See relevant background
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <details class="dropdown">
-                <summary>Field</summary>
-                <label>
-                  <input type="checkbox" class="field-filter" value="engn">
-                  Engineering
-                </label><br>
-                <label>
-                  <input type="checkbox" class="field-filter" value="langcomm">
-                  Language &amp; Communication
-                </label><br>
-                <label>
-                  <input type="checkbox" class="field-filter" value="digtech">
-                  Digital Technologies
-                </label>
-              </details>
-            </td>
-            <td>
-              <details class="dropdown">
-                <summary>Entry type</summary>
-                <label>
-                  <input type="checkbox" class="cat-filter" value="edu">
-                  Education
-                </label><br>
-                <label>
-                  <input type="checkbox" class="cat-filter" value="exp">
-                  Experience
-                </label><br>
-                <label>
-                  <input type="checkbox" class="cat-filter" value="prj">
-                  Project
-                </label>
-              </details>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <button id="search-btn" type="button" class="panel-btn">
-                Filter
-              </button>
-            </td>
-            <td>
-              <button id="clear-btn" type="button" class="panel-btn">
-                Clear selection
-              </button>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="2">
-              <button id="view-all-btn" type="button" class="panel-btn full">
-                View full background
-              </button>
-            </td>
-          </tr>
-        </table>
+
+        <div class="search-panel">
+          <div class="panel-title">
+            See relevant background
+          </div>
+          <table class="filter-table">
+            <tr>
+              <td>
+                <details class="dropdown">
+                  <summary>Field</summary>
+                  <label>
+                    <input type="checkbox" class="field-filter" value="engn">
+                    Engineering
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="field-filter" value="langcomm">
+                    Language &amp; Communication
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="field-filter" value="digtech">
+                    Digital Technologies
+                  </label>
+                </details>
+              </td>
+              <td>
+                <details class="dropdown">
+                  <summary>Entry type</summary>
+                  <label>
+                    <input type="checkbox" class="cat-filter" value="edu">
+                    Education
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="cat-filter" value="exp">
+                    Experience
+                  </label><br>
+                  <label>
+                    <input type="checkbox" class="cat-filter" value="prj">
+                    Project
+                  </label>
+                </details>
+              </td>
+            </tr>
+          </table>
+          <div class="panel-actions">
+            <button id="search-btn" type="button" class="panel-btn">
+              Filter
+            </button>
+            <button id="clear-btn" type="button" class="panel-btn">
+              Clear selection
+            </button>
+            <button id="view-all-btn" type="button" class="panel-btn">
+              View full background
+            </button>
+          </div>
+        </div>
   
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
         {% for item in items %}
@@ -123,6 +115,7 @@
             <div class="bg-sub4">{{ block_sub4 }}</div>
           </div>
         {% endfor %}
+        
       </div>
     </div>
 
