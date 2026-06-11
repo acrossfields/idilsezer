@@ -353,36 +353,45 @@ body a:hover {
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px 8px 20px 8px;
-  border-collapse: collapse;
   font-family: 'Ubuntu Condensed', sans-serif;
   max-width: 500px;
 }
 
-.search-panel td {
+.search-panel .panel-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+}
+
+.search-panel .filter-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.search-panel .filter-table td {
   border: none;
   vertical-align: top;
   text-align: left;
   padding: 8px;
 }
 
-/* Row 1 title */
-.search-panel .panel-title {
-  font-size: 18px;
-  font-weight: bold;
-  text-align: left;
-}
-
-/* Row 2 column widths (stable structure) */
-.search-panel tr:nth-child(2) td:nth-child(1) {
+.search-panel .filter-table td:nth-child(1) {
   width: 65%;
 }
 
-.search-panel tr:nth-child(2) td:nth-child(2) {
+.search-panel .filter-table td:nth-child(2) {
   width: 35%;
 }
 
 .search-panel .dropdown {
   width: 100%;
+}
+
+.search-panel .panel-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
 }
 
 .search-panel .panel-btn {
@@ -391,12 +400,4 @@ body a:hover {
   padding: 6px 10px;
   font-family: 'Ubuntu Condensed', sans-serif;
   cursor: pointer;
-}
-
-.search-panel tr:nth-child(3) td {
-  vertical-align: middle;
-}
-
-.search-panel .panel-btn.full {
-  width: 100%;
 }
