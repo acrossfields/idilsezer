@@ -353,7 +353,6 @@ body a:hover {
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px 10px 30px 10px;
-  font-family: 'Ubuntu', sans-serif;
   max-width: 500px;
 }
 
@@ -366,6 +365,7 @@ body a:hover {
 
 .search-panel .filter-table {
   width: 100%;
+  font-family: 'Barlow', sans-serif;
   border-collapse: collapse;
 }
 
