@@ -365,13 +365,19 @@ body a:hover {
   padding: 8px;
 }
 
-.search-panel tr:first-child td:nth-child(1),
-.search-panel tr:last-child td:nth-child(1) {
+/* Row 1 title */
+.search-panel .panel-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+}
+
+/* Row 2 column widths (stable structure) */
+.search-panel tr:nth-child(2) td:nth-child(1) {
   width: 65%;
 }
 
-.search-panel tr:first-child td:nth-child(2),
-.search-panel tr:last-child td:nth-child(2) {
+.search-panel tr:nth-child(2) td:nth-child(2) {
   width: 35%;
 }
 
@@ -379,7 +385,18 @@ body a:hover {
   width: 100%;
 }
 
-.search-panel button {
+.search-panel .panel-btn {
   display: inline-block;
   margin: 0;
+  padding: 6px 10px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  cursor: pointer;
+}
+
+.search-panel tr:nth-child(3) td {
+  vertical-align: middle;
+}
+
+.search-panel .panel-btn.full {
+  width: 100%;
 }
