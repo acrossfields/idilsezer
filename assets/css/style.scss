@@ -360,7 +360,7 @@ body a:hover {
 .search-panel .panel-title {
   font-size: 18px;
   font-weight: bold;
-  margin: 0 0 8px 0;
+  margin: 0 0 5px 0;
 }
 
 .search-panel .filter-table {
@@ -373,6 +373,9 @@ body a:hover {
   vertical-align: top;
   text-align: left;
   padding: 8px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.7;
 }
 
 .search-panel .filter-table td:nth-child(1) {
@@ -385,11 +388,6 @@ body a:hover {
 
 .search-panel .dropdown {
   width: 100%;
-}
-
-.search-panel .dropdown label {
-  font-weight: normal;
-  line-height: 1.5;
 }
 
 .search-panel .panel-actions {
