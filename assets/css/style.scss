@@ -375,15 +375,15 @@ body a:hover {
   border: none;
   vertical-align: top;
   text-align: left;
-  padding: 8px;
+  padding: 0 0 0 8px;
 }
 
 .search-panel .filter-table td:nth-child(1) {
-  width: 65%;
+  width: 60%;
 }
 
 .search-panel .filter-table td:nth-child(2) {
-  width: 35%;
+  width: 40%;
 }
 
 .search-panel .dropdown {
