@@ -372,7 +372,6 @@ body a:hover {
   border: none;
   vertical-align: top;
   text-align: left;
-  line-height: 1.2;
   padding: 8px;
 }
 
@@ -386,6 +385,11 @@ body a:hover {
 
 .search-panel .dropdown {
   width: 100%;
+}
+
+.search-panel .dropdown label {
+  font-weight: normal;
+  line-height: 1.5;
 }
 
 .search-panel .panel-actions {
