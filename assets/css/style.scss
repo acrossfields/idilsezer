@@ -354,13 +354,13 @@ body a:hover {
   width: calc(100% - 16px);
   margin: 10px 10px 30px 10px;
   max-width: 500px;
+  color: #d0e1e5;
 }
 
 .search-panel .panel-title {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 18px;
   font-weight: bold;
-  color: #e2f1f4;
   margin: 0;
 }
 
@@ -370,7 +370,6 @@ body a:hover {
   font-family: 'Barlow', sans-serif;
   font-size: 14px;
   line-height: 1.7;
-  color: #d0e1e5;
 }
 
 .search-panel .filter-table td {
@@ -404,7 +403,6 @@ body a:hover {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 14px;
   background-color: #233b3e;
-  color: #d0e1e5;
   margin: 0;
   padding: 6px;
   cursor: pointer;
