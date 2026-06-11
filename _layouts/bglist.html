@@ -26,42 +26,50 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        <div class="search-panel">
-          <details class="dropdown">
-            <summary>Field</summary>
-            <label>
-              <input type="checkbox" class="field-filter" value="engn">
-              Engineering
-            </label><br>
-            <label>
-              <input type="checkbox" class="field-filter" value="langcomm">
-              Language &amp; Communication
-            </label><br>
-            <label>
-              <input type="checkbox" class="field-filter" value="digtech">
-              Digital Technologies
-            </label>
-          </details>
-          <details class="dropdown">
-            <summary>Category</summary>
-            <label>
-              <input type="checkbox" class="cat-filter" value="edu">
-              Education
-            </label><br>
-            <label>
-              <input type="checkbox" class="cat-filter" value="exp">
-              Experience
-            </label><br>
-            <label>
-              <input type="checkbox" class="cat-filter" value="prj">
-              Project
-            </label>
-          </details>          
-          <button id="search-btn" type="button">
-            Search
-          </button>
-        </div>
-        
+        <table class="search-panel">
+          <tr>
+            <td>
+              <details class="dropdown">
+                <summary>Field</summary>
+                <label>
+                  <input type="checkbox" class="field-filter" value="engn">
+                  Engineering
+                </label><br>
+                <label>
+                  <input type="checkbox" class="field-filter" value="langcomm">
+                  Language &amp; Communication
+                </label><br>
+                <label>
+                  <input type="checkbox" class="field-filter" value="digtech">
+                  Digital Technologies
+                </label>
+              </details>
+            </td>
+            <td>
+              <details class="dropdown">
+                <summary>Category</summary>
+                <label>
+                  <input type="checkbox" class="cat-filter" value="edu">
+                  Education
+                </label><br>
+                <label>
+                  <input type="checkbox" class="cat-filter" value="exp">
+                  Experience
+                </label><br>
+                <label>
+                  <input type="checkbox" class="cat-filter" value="prj">
+                  Project
+                </label>
+              </details>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <button id="search-btn" type="button">Search</button>
+            </td>
+            <td></td>
+          </tr>
+        </table>
         {% assign items = site.pages | where: "category", "backgr_entry" | sort: "start_date" %}
         {% for item in items %}
           {% assign after_main = item.content | split: '[[BLOCK_MAIN]]' %}
