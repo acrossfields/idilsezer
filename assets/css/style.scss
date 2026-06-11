@@ -353,11 +353,12 @@ body a:hover {
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px 10px 30px 10px;
-  font-family: 'Ubuntu Condensed', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   max-width: 500px;
 }
 
 .search-panel .panel-title {
+  font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 18px;
   font-weight: bold;
   margin: 0 0 5px 0;
@@ -373,8 +374,7 @@ body a:hover {
   vertical-align: top;
   text-align: left;
   padding: 8px;
-  font-size: 14px;
-  font-weight: normal;
+  font-size: 16px;
   line-height: 1.7;
 }
 
@@ -401,6 +401,5 @@ body a:hover {
   display: inline-block;
   margin: 0;
   padding: 6px;
-  font-family: 'Ubuntu Condensed', sans-serif;
   cursor: pointer;
 }
