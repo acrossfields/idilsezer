@@ -352,7 +352,7 @@ body a:hover {
 
 .search-panel {
   width: calc(100% - 16px);
-  margin: 10px 8px 20px 8px;
+  margin: 10px 10px 30px 10px;
   font-family: 'Ubuntu Condensed', sans-serif;
   max-width: 500px;
 }
@@ -372,6 +372,7 @@ body a:hover {
   border: none;
   vertical-align: top;
   text-align: left;
+  line-height: 1.2;
   padding: 8px;
 }
 
@@ -397,7 +398,7 @@ body a:hover {
 .search-panel .panel-btn {
   display: inline-block;
   margin: 0;
-  padding: 6px 10px;
+  padding: 6px;
   font-family: 'Ubuntu Condensed', sans-serif;
   cursor: pointer;
 }
