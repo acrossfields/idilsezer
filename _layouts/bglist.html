@@ -118,6 +118,8 @@
     <script>
     document.addEventListener("DOMContentLoaded", function () {
       const searchBtn = document.getElementById("search-btn");
+      const clearBtn = document.getElementById("clear-btn");
+      const viewAllBtn = document.getElementById("view-all-btn");
       const catOptions = document.querySelectorAll(".cat-filter");
       const fieldOptions = document.querySelectorAll(".field-filter");
       function hasMatch(tagString, selectedC, selectedF) {
@@ -130,14 +132,13 @@
           selectedF.some(f => tags.includes(f));
         return cMatch && fMatch;
       }
-      searchBtn.addEventListener("click", function () {
+      function applyFilter() {
         const selectedCategories = Array.from(catOptions)
           .filter(cb => cb.checked)
           .map(cb => cb.value);
         const selectedFields = Array.from(fieldOptions)
           .filter(cb => cb.checked)
           .map(cb => cb.value);
-
         if (selectedCategories.length === 0 || selectedFields.length === 0) {
           document.querySelectorAll(".backgr_entry").forEach(entry => {
             entry.style.display = "none";
@@ -183,6 +184,19 @@
             el.style.display = subMatches[i] ? "" : "none";
           });
         });
+      }
+      searchBtn.addEventListener("click", function () {
+        applyFilter();
+      });
+      clearBtn.addEventListener("click", function () {
+        fieldOptions.forEach(cb => cb.checked = false);
+        catOptions.forEach(cb => cb.checked = false);
+        applyFilter();
+      });
+      viewAllBtn.addEventListener("click", function () {
+        fieldOptions.forEach(cb => cb.checked = true);
+        catOptions.forEach(cb => cb.checked = true);
+        applyFilter();
       });
     });
     </script>
