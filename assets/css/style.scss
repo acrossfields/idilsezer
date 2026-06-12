@@ -357,7 +357,7 @@ body a:hover {
   color: #d0e1e5;
 }
 
-.search-panel .panel-title {
+.search-panel .panel-title {                    /* title at the top of search area, currently unused */
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 18px;
   font-weight: bold;
@@ -366,7 +366,8 @@ body a:hover {
 
 .search-panel .dropdown-summary {
   font-family: 'Ubuntu Condensed', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
+  font-weight: bold;
   margin-bottom: 3px;
 }
 
@@ -382,7 +383,7 @@ body a:hover {
   border: none;
   vertical-align: top;
   text-align: left;
-  padding: 0 0 2px 3px;
+  padding: 0 0 2px 0;
 }
 
 .search-panel .filter-table td:nth-child(1) {
