@@ -4,6 +4,6 @@ lang: en
 cap_id: 01
 title: Languages
 ---
-Turkish: Native speaker
-English: Native-level proficiency
+Turkish: Native speaker<br>
+English: Native-level proficiency<br>
 Portuguese: Intermediate proficiency
