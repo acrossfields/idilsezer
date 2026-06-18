@@ -420,3 +420,33 @@ body a:hover {
   appearance: none;
   -webkit-appearance: none;
 }
+
+.cap_title {
+  cursor: pointer;
+  position: relative;
+  user-select: none;
+}
+
+.cap_title::before {
+  content: "▼";
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  transition: transform 0.2s ease;
+}
+
+.cap_entry:not(.open) .cap_title::before {
+  transform: rotate(-90deg);
+}
+
+.cap_entry.open .cap_title::before {
+  transform: rotate(0deg);
+}
+
+.cap_content {
+  display: none;
+}
+
+.cap_entry.open .cap_content {
+  display: block;
+}
