@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Averia+Libre:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
+    {% seo %}
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    {% include header.html %}
+
+    <div id="content-wrapper">
+      <div class="inner clearfix bg">
+        {% assign items = site.pages | where: "category", "cap_entry" | sort: "cap_id" %}
+        {% for item in items %}
+          <div class="cap_entry">
+            {{ item.content }}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+  </body>
+</html>
