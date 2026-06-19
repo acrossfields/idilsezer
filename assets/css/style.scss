@@ -494,3 +494,19 @@ body a:hover {
   line-height: 1.5;
   margin: 0;
 }
+
+.table-capoutgen td {
+  padding: 8px;
+}
+
+.table-capinqua td:nth-child(1) {
+  width: 100px;
+  color: #292730;
+  background-color: #7d7b93;
+}
+
+.table-capoutgen td:nth-child(2) {
+  width: auto;
+  color: #18171e;
+  background-color: #9997ab;
+}
