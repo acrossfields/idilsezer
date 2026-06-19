@@ -421,16 +421,25 @@ body a:hover {
   -webkit-appearance: none;
 }
 
+.cap_entry {
+  margin: 20px;
+}
+
 .cap_title {
   cursor: pointer;
   position: relative;
   user-select: none;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 24px;
+  color: #22393c;
+  background-color: #73929a;
+  padding: 8px;
 }
 
 .cap_title::before {
   content: "▼";
   display: inline-block;
-  margin-right: 8px;
+  margin-right: 5px;
   transition: transform 0.2s ease;
 }
 
@@ -440,6 +449,11 @@ body a:hover {
 
 .cap_content {
   display: none;
+  font-family: 'Barlow', sans-serif;
+  font-size: 16px;
+  color: #d0e1e5;
+  background-color: #324d51;
+  padding: 8px;
 }
 
 .cap_entry.open .cap_content {
