@@ -27,7 +27,19 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 10px;">
-  <p>[about EN proficiency]</p>
+  <p style="margin-bottom: 10px;">
+    [about EN proficiency]
+  </p>
+  <table class="table-capinqua" style="margin-bottom: 5px;">
+    <tr>
+      <td>
+        <b>IELTS Academic</b>
+      </td>
+      <td>
+        [about ielts]
+      </td>
+    </tr>
+  </table>
 </div>
 
 <table class="table-capoutgen" style="margin-bottom: 5px;">
@@ -41,6 +53,19 @@ title: Languages
   </tr>
 </table>
 
-<div class="cap-indented">
-  <p>[about PTBR proficiency]</p>
+<div class="cap-indented" style="margin-bottom: 30px;">
+  <p style="margin-bottom: 10px;">
+    [about PTBR proficiency]
+  </p>
+  <table class="table-capinqua" style="margin-bottom: 5px;">
+    <tr>
+      <td>
+        <b>CELPE-Bras</b>
+      </td>
+      <td>
+        [about celpe-bras]
+      </td>
+    </tr>
+  </table>
 </div>
+
