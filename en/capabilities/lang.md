@@ -26,11 +26,11 @@ title: Languages
   </tr>
 </table>
 
-<div class="cap-indented">
+<div class="cap-indented" style="margin-bottom: 10px;">
   <p>[about EN proficiency]</p>
 </div>
 
-<table class="table-capoutgen">
+<table class="table-capoutgen" style="margin-bottom: 5px;">
   <tr>
     <td>
       <b>Portuguese (Brazil)</b>
@@ -40,3 +40,7 @@ title: Languages
     </td>
   </tr>
 </table>
+
+<div class="cap-indented">
+  <p>[about PTBR proficiency]</p>
+</div>
