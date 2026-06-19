@@ -9,25 +9,35 @@ English: Native-level proficiency<br>
 Portuguese: Intermediate proficiency
 
 
-<table class="table-capheader">
+<table class="table-caplang">
   <tr>
-    <td style="
-      color: #18171e;
-      background-color: #7d7b93;
-      text-align: left;
-      vertical-align: middle;
-      font-size: 18px;
-    ">
+    <td>
       Turkish
     </td>
-    <td style="
-      color: #18171e;
-      background-color: #9997ab;
-      text-align: left;
-      vertical-align: middle;
-      font-size: 18px;
-    ">
+    <td>
       Native speaker
+    </td>
+  </tr>
+</table>
+
+<table class="table-caplang">
+  <tr>
+    <td>
+      English
+    </td>
+    <td>
+      Native-level proficiency
+    </td>
+  </tr>
+</table>
+
+<table class="table-caplang">
+  <tr>
+    <td>
+      Portuguese (Brazil)
+    </td>
+    <td>
+      Intermediate proficiency
     </td>
   </tr>
 </table>
