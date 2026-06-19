@@ -495,18 +495,28 @@ body a:hover {
   margin: 0;
 }
 
-.table-capoutgen td {
+.table-capinqua {
+  width: 100%;
+  table-layout: fixed;
+  font-family: 'Barlow', sans-serif;
+  color: #c8c7cf;
+  text-align: left;
+  vertical-align: middle;
+  font-size: 14px;
+  margin: 0;
+}
+
+.table-capinqua td {
   padding: 8px;
 }
 
 .table-capinqua td:nth-child(1) {
   width: 100px;
-  color: #292730;
-  background-color: #7d7b93;
+  font-weight: bold;
+  background-color: #413e54;
 }
 
-.table-capoutgen td:nth-child(2) {
+.table-capinqua td:nth-child(2) {
   width: auto;
-  color: #18171e;
-  background-color: #9997ab;
+  background-color: #545169;
 }
