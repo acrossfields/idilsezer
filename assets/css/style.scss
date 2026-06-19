@@ -458,7 +458,6 @@ body a:hover {
   width: 100%;
   table-layout: fixed;
   font-family: 'Barlow', sans-serif;
-  color: #18171e;
   text-align: left;
   vertical-align: middle;
   font-size: 16px;
@@ -471,10 +470,13 @@ body a:hover {
 
 .table-capoutgen td:nth-child(1) {
   width: 100px;
+  font-weight: bold;
+  color: #292730;
   background-color: #7d7b93;
 }
 
 .table-capoutgen td:nth-child(2) {
   width: auto;
+  color: #18171e;
   background-color: #9997ab;
 }
