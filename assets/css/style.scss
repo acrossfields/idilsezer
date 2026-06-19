@@ -481,3 +481,19 @@ body a:hover {
   color: #18171e;
   background-color: #9997ab;
 }
+
+.cap-indented {
+  border-left: 3px solid #5f7376;
+  margin-left: 11px;
+  margin-right: 8px;
+  padding: 0 0 0 8px;
+}
+
+.cap-indented p {
+  font-family: 'Barlow', sans-serif;
+  font-size: 16px;
+  color: #c8c7cf;
+  line-height: 1.5;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
