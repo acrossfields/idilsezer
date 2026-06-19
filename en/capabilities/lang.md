@@ -4,7 +4,7 @@ lang: en
 cap_id: 1
 title: Languages
 ---
-<table class="table-capoutgen">
+<table class="table-capoutgen" style="margin-bottom: 10px;">
   <tr>
     <td>
       <b>Turkish</b>
@@ -15,7 +15,7 @@ title: Languages
   </tr>
 </table>
 
-<table class="table-capoutgen">
+<table class="table-capoutgen" style="margin-bottom: 5px;">
   <tr>
     <td>
       <b>English</b>
