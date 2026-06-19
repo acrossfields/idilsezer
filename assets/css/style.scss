@@ -422,7 +422,7 @@ body a:hover {
 }
 
 .cap_entry {
-  margin: 20px;
+  margin: 10px;
 }
 
 .cap_title {
@@ -432,7 +432,7 @@ body a:hover {
   font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 24px;
   color: #c8c7cf;
-  padding: 8px;
+  padding: 0;
 }
 
 .cap_title::before {
@@ -448,7 +448,7 @@ body a:hover {
 
 .cap_content {
   display: none;
-  padding: 8px;
+  padding: 0;
 }
 
 .cap_entry.open .cap_content {
@@ -472,7 +472,7 @@ body a:hover {
 }
 
 .table-caplang td:nth-child(1) {
-  width: 180px;
+  width: 150px;
   background-color: #7d7b93;
 }
 
