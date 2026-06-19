@@ -427,13 +427,14 @@ body a:hover {
   user-select: none;
 }
 
-.cap_title::after {
+.cap_title::before {
   content: "▼";
   display: inline-block;
+  margin-right: 8px;
   transition: transform 0.2s ease;
 }
 
-.cap_entry.open .cap_title::after {
+.cap_entry.open .cap_title::before {
   transform: rotate(-90deg);
 }
 
