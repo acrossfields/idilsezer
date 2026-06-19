@@ -18,7 +18,7 @@ taglist_sub4: []
     </td>
     <td>
       <div style="margin-bottom: 5px;">
-        CELTA Certificate Course
+        CELTA Course
       </div>
       <div style="display: flex; align-items: center; gap: 5px;">
         <img src="/idilsezer/assets/images/cambridge.png" alt="Cambridge" style="height: 32px; vertical-align: middle;">
@@ -36,7 +36,7 @@ taglist_sub4: []
 
 [[BLOCK_DESC]]
 <div class="bg-indented">
-  <p>By successfully completing the full-time course delivered at International House Bogotá, I was awarded the Cambridge English Level 5 Certificate in Teaching English to Speakers of Other Languages (CELTA) with Grade B. In addition to extensive written assignments, this 4-week course involved 120 hours of classroom-based training comprising theoretical sessions, lesson observations, assisted lesson planning, teaching practice, and feedback sessions.</p>
+  <p>By successfully completing the full-time course delivered at International House Bogotá, I was awarded the Certificate in Teaching English to Speakers of Other Languages (CELTA) with Grade B by Cambridge English. In addition to extensive written assignments, this 4-week course involved 120 hours of classroom-based training comprising theoretical sessions, lesson observations, assisted lesson planning, teaching practice, and feedback sessions.</p>
 </div>
 
 [[BLOCK_SUB1]]
