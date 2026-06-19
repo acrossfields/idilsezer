@@ -6,7 +6,7 @@ title: Languages
 ---
 <table class="table-capoutgen">
   <tr>
-    <td style="color: ##292730;">
+    <td>
       <b>Turkish</b>
     </td>
     <td>
@@ -17,7 +17,7 @@ title: Languages
 
 <table class="table-capoutgen">
   <tr>
-    <td style="color: ##292730;">
+    <td>
       <b>English</b>
     </td>
     <td>
@@ -28,7 +28,7 @@ title: Languages
 
 <table class="table-capoutgen">
   <tr>
-    <td style="color: ##292730;">
+    <td>
       <b>Portuguese (Brazil)</b>
     </td>
     <td>
