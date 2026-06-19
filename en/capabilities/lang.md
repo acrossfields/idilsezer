@@ -26,6 +26,10 @@ title: Languages
   </tr>
 </table>
 
+<div class="cap-indented">
+  <p>[about EN proficiency]</p>
+</div>
+
 <table class="table-capoutgen">
   <tr>
     <td>
