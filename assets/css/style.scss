@@ -455,22 +455,28 @@ body a:hover {
   display: block;
 }
 
-.table-capheader {
+.table-caplang {
   width: calc(100% - 16px);
   border: none;
   font-family: 'Barlow', sans-serif;
-  margin: 10px 8px 5px 8px;
+  color: #18171e;
+  text-align: left;
+  vertical-align: middle;
+  font-size: 18px;
+  margin: 0;
 }
 
-.table-capheader td {
+.table-caplang td {
   border: none;
   padding: 8px;
 }
 
-.table-capheader td:nth-child(1) {
-  width: 250px;
+.table-caplang td:nth-child(1) {
+  width: 180px;
+  background-color: #7d7b93;
 }
 
-.table-capheader td:nth-child(2) {
+.table-caplang td:nth-child(2) {
   width: auto;
+  background-color: #9997ab;
 }
