@@ -430,9 +430,8 @@ body a:hover {
   position: relative;
   user-select: none;
   font-family: 'Ubuntu Condensed', sans-serif;
-  font-size: 24px;
-  color: #22393c;
-  background-color: #73929a;
+  font-size: 20px;
+  color: #c8c7cf;
   padding: 8px;
 }
 
@@ -449,13 +448,29 @@ body a:hover {
 
 .cap_content {
   display: none;
-  font-family: 'Barlow', sans-serif;
-  font-size: 16px;
-  color: #d0e1e5;
-  background-color: #324d51;
   padding: 8px;
 }
 
 .cap_entry.open .cap_content {
   display: block;
+}
+
+.table-capheader {
+  width: calc(100% - 16px);
+  border: none;
+  font-family: 'Barlow', sans-serif;
+  margin: 10px 8px 5px 8px;
+}
+
+.table-capheader td {
+  border: none;
+  padding: 8px;
+}
+
+.table-capheader td:nth-child(1) {
+  width: 250px;
+}
+
+.table-capheader td:nth-child(2) {
+  width: auto;
 }
