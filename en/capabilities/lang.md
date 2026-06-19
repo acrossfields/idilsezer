@@ -1,13 +1,13 @@
 ---
 category: cap_entry
 lang: en
-cap_id: 01
+cap_id: 1
 title: Languages
 ---
 <table class="table-capoutgen">
   <tr>
     <td>
-      Turkish
+      <b>Turkish</b>
     </td>
     <td>
       Native speaker
@@ -18,7 +18,7 @@ title: Languages
 <table class="table-capoutgen">
   <tr>
     <td>
-      English
+      <b>English</b>
     </td>
     <td>
       Native-level proficiency
@@ -29,7 +29,7 @@ title: Languages
 <table class="table-capoutgen">
   <tr>
     <td>
-      Portuguese (Brazil)
+      <b>Portuguese (Brazil)</b>
     </td>
     <td>
       Intermediate proficiency
