@@ -4,7 +4,7 @@ lang: en
 cap_id: 01
 title: Languages
 ---
-<table class="table-caplang">
+<table class="table-capoutgen">
   <tr>
     <td>
       Turkish
@@ -15,7 +15,7 @@ title: Languages
   </tr>
 </table>
 
-<table class="table-caplang">
+<table class="table-capoutgen">
   <tr>
     <td>
       English
@@ -26,7 +26,7 @@ title: Languages
   </tr>
 </table>
 
-<table class="table-caplang">
+<table class="table-capoutgen">
   <tr>
     <td>
       Portuguese (Brazil)
