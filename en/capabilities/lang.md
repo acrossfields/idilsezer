@@ -18,7 +18,7 @@ title: Languages
 <table class="table-capoutgen" style="margin-bottom: 5px;">
   <tr>
     <td>
-      <b>English</b>
+      English
     </td>
     <td>
       Native-level proficiency
@@ -33,7 +33,7 @@ title: Languages
   <table class="table-capinqua" style="margin-bottom: 5px;">
     <tr>
       <td>
-        <b>IELTS Academic</b>
+        IELTS Academic
       </td>
       <td>
         [about ielts]
@@ -45,7 +45,7 @@ title: Languages
 <table class="table-capoutgen" style="margin-bottom: 5px;">
   <tr>
     <td>
-      <b>Portuguese (Brazil)</b>
+      Portuguese (Brazil)
     </td>
     <td>
       Intermediate proficiency
@@ -60,7 +60,7 @@ title: Languages
   <table class="table-capinqua" style="margin-bottom: 5px;">
     <tr>
       <td>
-        <b>CELPE-Bras</b>
+        CELPE-Bras
       </td>
       <td>
         [about celpe-bras]
