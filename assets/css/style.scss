@@ -483,8 +483,8 @@ body a:hover {
 
 .cap-indented {
   border-left: 3px solid #5f7376;
-  margin: 0 5px 10px 5px;
-  padding: 3px 2px 3px 8px;
+  margin: 0 5px;
+  padding: 3px 2px 0 8px;
 }
 
 .cap-indented p {
@@ -511,8 +511,7 @@ body a:hover {
 }
 
 .table-capinqua td:nth-child(1) {
-  width: 100px;
-  font-weight: bold;
+  width: 84px;
   background-color: #413e54;
 }
 
