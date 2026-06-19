@@ -456,6 +456,7 @@ body a:hover {
 
 .table-caplang {
   width: calc(100% - 16px);
+  table-layout: fixed;
   border: none;
   font-family: 'Barlow', sans-serif;
   color: #18171e;
