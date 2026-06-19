@@ -454,7 +454,7 @@ body a:hover {
   display: block;
 }
 
-.table-caplang {
+.table-capoutgen {
   width: 100%;
   table-layout: fixed;
   font-family: 'Barlow', sans-serif;
@@ -465,16 +465,16 @@ body a:hover {
   margin: 0;
 }
 
-.table-caplang td {
+.table-capoutgen td {
   padding: 8px;
 }
 
-.table-caplang td:nth-child(1) {
+.table-capoutgen td:nth-child(1) {
   width: 150px;
   background-color: #7d7b93;
 }
 
-.table-caplang td:nth-child(2) {
+.table-capoutgen td:nth-child(2) {
   width: auto;
   background-color: #9997ab;
 }
