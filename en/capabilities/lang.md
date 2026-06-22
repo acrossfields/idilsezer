@@ -4,7 +4,7 @@ lang: en
 cap_id: 1
 title: Languages
 ---
-<table class="table-capoutgen" style="margin-bottom: 10px;">
+<table class="table-capoutgen" style="margin-bottom: 15px;">
   <tr>
     <td>
       <b>Turkish</b>
@@ -26,7 +26,7 @@ title: Languages
   </tr>
 </table>
 
-<div class="cap-indented" style="margin-bottom: 10px;">
+<div class="cap-indented" style="margin-bottom: 15px;">
   <p style="margin-bottom: 10px;">
     [about EN proficiency]
   </p>
