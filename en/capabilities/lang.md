@@ -36,13 +36,11 @@ title: Languages
         IELTS Academic
       </td>
       <td>
-        <p style="margin-bottom: 5px;">
-          English proficiency test by British Council, IDP, and Cambridge English<br>
-          Overall score: 8.5 / 9.0<br>
-          Listening: 8.5 - Reading: 9.0 - Writing: 8.0 - Speaking: 8.5<br>
-          Istanbul, Türkiye
-          2014
-        </p>
+        <p style="margin-bottom: 5px;">English proficiency test by British Council, IDP, and Cambridge English</p>
+        <p style="margin-bottom: 5px;">Overall score: 8.5 / 9.0</p>
+        <p style="margin-bottom: 5px;">Listening: 8.5 - Reading: 9.0 - Writing: 8.0 - Speaking: 8.5</p>
+        <p style="margin-bottom: 5px;">Istanbul, Türkiye</p>
+        <p>2014</p>
       </td>
     </tr>
   </table>
