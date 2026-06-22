@@ -10,7 +10,7 @@ title: Translation
       MemoQ
     </td>
     <td>
-      [about the experience with memoQ]
+      [about memoQ]
     </td>
   </tr>
 </table>
