@@ -502,7 +502,6 @@ body a:hover {
   color: #c8c7cf;
   text-align: left;
   vertical-align: middle;
-  font-size: 14px;
   margin: 0;
 }
 
@@ -512,10 +511,12 @@ body a:hover {
 
 .table-capinqua td:nth-child(1) {
   width: 84px;
+  font-size: 16px;
   background-color: #35343b;
 }
 
 .table-capinqua td:nth-child(2) {
   width: auto;
+  font-size: 14px;
   background-color: #42414a;
 }
