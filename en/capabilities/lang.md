@@ -36,7 +36,7 @@ title: Languages
         IELTS Academic
       </td>
       <td>
-        <p style="<b>English proficiency test</b></p>
+        <p><b>English proficiency test</b></p>
         <p style="margin-bottom: 5px;"><i>by British Council, IDP, and Cambridge English</i></p>
         <hr style="border: none; border-top: 1px solid #5f7376; margin-bottom: 5px;">
         <p style="margin-bottom: 5px;"><b>Overall score:</b> 8.5 / 9.0</p>
