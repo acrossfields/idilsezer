@@ -18,7 +18,7 @@ title: Languages
 <table class="table-capmainskill" style="margin-bottom: 8px;">
   <tr>
     <td>
-      English
+      <b>English</b>
     </td>
     <td>
       Native-level proficiency
@@ -51,7 +51,7 @@ title: Languages
 <table class="table-capmainskill" style="margin-bottom: 8px;">
   <tr>
     <td>
-      Portuguese (Brazil)
+      <b>Portuguese (Brazil)</b>
     </td>
     <td>
       Intermediate proficiency
