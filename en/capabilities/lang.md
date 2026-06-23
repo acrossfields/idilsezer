@@ -4,7 +4,7 @@ lang: en
 cap_id: 1
 title: Languages
 ---
-<table class="table-capoutgen" style="margin-bottom: 15px;">
+<table class="table-capmainskill" style="margin-bottom: 15px;">
   <tr>
     <td>
       <b>Turkish</b>
@@ -15,7 +15,7 @@ title: Languages
   </tr>
 </table>
 
-<table class="table-capoutgen" style="margin-bottom: 5px;">
+<table class="table-capmainskill" style="margin-bottom: 5px;">
   <tr>
     <td>
       English
@@ -30,7 +30,7 @@ title: Languages
   <p style="margin-bottom: 10px;">
     [about EN proficiency]
   </p>
-  <table class="table-capinqua" style="margin-bottom: 5px;">
+  <table class="table-capsubqua" style="margin-bottom: 5px;">
     <tr>
       <td>
         IELTS Academic
@@ -48,7 +48,7 @@ title: Languages
   </table>
 </div>
 
-<table class="table-capoutgen" style="margin-bottom: 5px;">
+<table class="table-capmainskill" style="margin-bottom: 5px;">
   <tr>
     <td>
       Portuguese (Brazil)
@@ -63,7 +63,7 @@ title: Languages
   <p style="margin-bottom: 10px;">
     [about PTBR proficiency]
   </p>
-  <table class="table-capinqua" style="margin-bottom: 5px;">
+  <table class="table-capsubqua" style="margin-bottom: 5px;">
     <tr>
       <td>
         CELPE-Bras
