@@ -452,15 +452,14 @@ body a:hover {
 
 .cap_entry.open .cap_content {
   display: block;
+  font-family: 'Barlow', sans-serif;
 }
 
 .table-capmainskill {
   width: 100%;
   table-layout: fixed;
-  font-family: 'Barlow', sans-serif;
   text-align: left;
   vertical-align: middle;
-  font-size: 16px;
   margin: 0;
 }
 
@@ -470,7 +469,6 @@ body a:hover {
 
 .table-capmainskill td:nth-child(1) {
   width: 100px;
-  font-weight: bold;
   color: #292730;
   background-color: #898895;
 }
@@ -488,17 +486,13 @@ body a:hover {
 }
 
 .cap-indented p {
-  font-family: 'Barlow', sans-serif;
-  font-size: 16px;
   color: #c8c7cf;
-  line-height: 1.5;
   margin: 0;
 }
 
 .table-capsubqua {
   width: 100%;
   table-layout: fixed;
-  font-family: 'Barlow', sans-serif;
   color: #c8c7cf;
   text-align: left;
   vertical-align: middle;
@@ -511,16 +505,10 @@ body a:hover {
 
 .table-capsubqua td:nth-child(1) {
   width: 84px;
-  font-size: 16px;
   background-color: #35343b;
 }
 
 .table-capsubqua td:nth-child(2) {
   width: auto;
-  font-size: 14px;
   background-color: #42414a;
-}
-
-.table-capsubqua td:nth-child(2) p {
-  font-size: 14px;
 }
