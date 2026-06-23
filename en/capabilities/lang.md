@@ -15,7 +15,7 @@ title: Languages
   </tr>
 </table>
 
-<table class="table-capmainskill" style="margin-bottom: 5px;">
+<table class="table-capmainskill" style="margin-bottom: 8px;">
   <tr>
     <td>
       English
@@ -48,7 +48,7 @@ title: Languages
   </table>
 </div>
 
-<table class="table-capmainskill" style="margin-bottom: 5px;">
+<table class="table-capmainskill" style="margin-bottom: 8px;">
   <tr>
     <td>
       Portuguese (Brazil)
