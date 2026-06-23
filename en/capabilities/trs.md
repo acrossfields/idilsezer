@@ -4,7 +4,7 @@ lang: en
 cap_id: 7
 title: Translation
 ---
-<table class="table-capoutgen">
+<table class="table-capmainskill">
   <tr>
     <td>
       MemoQ
