@@ -33,13 +33,13 @@ title: Languages
   <table class="table-capsubqua" style="margin-bottom: 5px;">
     <tr>
       <td>
-        IELTS Academic
+        <b>IELTS Academic</b>
       </td>
       <td>
-        <p><b>English proficiency test</b></p>
-        <p style="margin-bottom: 5px;"><i>by British Council, IDP, and Cambridge English</i></p>
+        <p style="font-size: 14px;"><b>English proficiency test</b></p>
+        <p style="margin-bottom: 5px; font-size: 14px;"><i>by British Council, IDP, and Cambridge English</i></p>
         <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
-        <p style="margin-bottom: 5px;"><b>Overall score:</b> 8.5 / 9.0</p>
+        <p style="margin-bottom: 5px; font-size: 14px;"><b>Overall score:</b> 8.5 / 9.0</p>
         <p style="margin-bottom: 5px;">Listening: 8.5 • Reading: 9.0 • Writing: 8.0 • Speaking: 8.5</p>
         <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
         <p style="font-size: 12px;">2014 - Istanbul, Türkiye</p>
@@ -66,13 +66,13 @@ title: Languages
   <table class="table-capsubqua" style="margin-bottom: 5px;">
     <tr>
       <td>
-        CELPE-Bras
+        <b>CELPE-Bras</b>
       </td>
       <td>
-        <p><b>Brazilian Portuguese proficiency exam & certificate</b></p>
-        <p style="margin-bottom: 5px;"><i>by the Brazilian Ministry of Education</i></p>
+        <p style="font-size: 14px;"><b>Brazilian Portuguese proficiency exam & certificate</b></p>
+        <p style="margin-bottom: 5px; font-size: 14px;"><i>by the Brazilian Ministry of Education</i></p>
         <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
-        <p style="margin-bottom: 5px;">Level: Intermediate</p>
+        <p style="margin-bottom: 5px; font-size: 14px;">Level: Intermediate</p>
         <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
         <p style="font-size: 12px;">2018 - São Paulo, Brazil</p>
       </td>
