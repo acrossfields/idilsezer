@@ -454,7 +454,7 @@ body a:hover {
   display: block;
 }
 
-.table-capoutgen {
+.table-capmainskill {
   width: 100%;
   table-layout: fixed;
   font-family: 'Barlow', sans-serif;
@@ -464,18 +464,18 @@ body a:hover {
   margin: 0;
 }
 
-.table-capoutgen td {
+.table-capmainskill td {
   padding: 8px;
 }
 
-.table-capoutgen td:nth-child(1) {
+.table-capmainskill td:nth-child(1) {
   width: 100px;
   font-weight: bold;
   color: #292730;
   background-color: #898895;
 }
 
-.table-capoutgen td:nth-child(2) {
+.table-capmainskill td:nth-child(2) {
   width: auto;
   color: #18171e;
   background-color: #b6b4c1;
@@ -495,7 +495,7 @@ body a:hover {
   margin: 0;
 }
 
-.table-capinqua {
+.table-capsubqua {
   width: 100%;
   table-layout: fixed;
   font-family: 'Barlow', sans-serif;
@@ -505,22 +505,22 @@ body a:hover {
   margin: 0;
 }
 
-.table-capinqua td {
+.table-capsubqua td {
   padding: 8px;
 }
 
-.table-capinqua td:nth-child(1) {
+.table-capsubqua td:nth-child(1) {
   width: 84px;
   font-size: 16px;
   background-color: #35343b;
 }
 
-.table-capinqua td:nth-child(2) {
+.table-capsubqua td:nth-child(2) {
   width: auto;
   font-size: 14px;
   background-color: #42414a;
 }
 
-.table-capinqua td:nth-child(2) p {
+.table-capsubqua td:nth-child(2) p {
   font-size: 14px;
 }
