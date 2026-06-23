@@ -479,6 +479,10 @@ body a:hover {
   background-color: #b6b4c1;
 }
 
+.table-capmainskill p {
+  margin: 0;
+}
+
 .cap-indented {
   border-left: 3px solid #6e6e6e;
   color: #c8c7cf;
@@ -508,4 +512,8 @@ body a:hover {
 .table-capsubqua td:nth-child(2) {
   width: auto;
   background-color: #42414a;
+}
+
+.table-capsubqua p {
+  margin: 0;
 }
