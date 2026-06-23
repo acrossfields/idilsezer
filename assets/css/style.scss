@@ -481,13 +481,10 @@ body a:hover {
 
 .cap-indented {
   border-left: 3px solid #6e6e6e;
+  color: #c8c7cf;
   margin: 0 0 0 5px;
   padding: 0 0 0 12px;
-}
-
-.cap-indented p {
-  color: #c8c7cf;
-  margin: 0;
+  line-height: 1.5;
 }
 
 .table-capsubqua {
