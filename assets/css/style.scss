@@ -518,3 +518,39 @@ body a:hover {
 .table-capsubqua p {
   margin: 0;
 }
+
+.table-capcadcae {
+  width: 100%;
+  table-layout: fixed;
+  text-align: left;
+  vertical-align: middle;
+  margin: 0;
+}
+
+.table-capcadcae td {
+  padding: 8px;
+  color: #18171e;
+  background-color: #b6b4c1;
+}
+
+.table-capcadcae tr:first-child td:not(:first-child),
+.table-capcadcae tr:not(:first-child) td:first-child {
+  color: #292730;
+  background-color: #898895;
+}
+
+.table-capcadcae td:nth-child(1) {
+  width: 100px;
+  color: #292730;
+  background-color: #898895;
+}
+
+.table-capcadcae td:nth-child(2),
+.table-capcadcae td:nth-child(3),
+.table-capcadcae td:nth-child(4) {
+  width: calc((100% - 100px) / 3);
+}
+
+.table-capcadcae p {
+  margin: 0;
+}
