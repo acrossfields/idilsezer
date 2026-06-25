@@ -7,10 +7,10 @@ title: Engineering
 <table class="table-capmainskill" style="margin-bottom: 30px;">
   <tr>
     <td>
-      <p style="margin-bottom: 3px;">
+      <p style="margin-bottom: 2px;">
         <b>CATIA</b>
       </p>
-      <p style="font-size: 14px;">
+      <p style="font-size: 12px;">
         <i>Dassault Systèmes</i>
       </p>
     </td>
