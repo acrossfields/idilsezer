@@ -5,7 +5,7 @@ cap_id: 3
 title: Engineering
 ---
 <p style="margin-top: 10px; margin-bottom: 10px; color: #c8c7cf;">
-  The table below provides an overview of my experience with CAD (computer-aided design) and CAE software (computer-aided engineering) across different stages of my academic and professional career.
+  The table below provides an overview of my experience with CAD (computer-aided design) and CAE (computer-aided engineering) software across different stages of my academic and professional career.
 </p>
 
 <table class="table-capmainskill" style="margin-bottom: 30px;">
