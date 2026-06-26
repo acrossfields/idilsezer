@@ -10,10 +10,19 @@ title: Engineering
 
 <table class="table-capcadcae" style="margin-bottom: 30px;">
   <tr>
-    <td></td>
-    <td><p><b>BSc, ITU, 2004–2008</b></p></td>
-    <td><p><b>MSc, ITU, 2008–2011</b></p></td>
-    <td><p><b>Design Engineer, GE Aviation, 2011–2015</b></p></td>
+    <td style="background-color: #0b2428;"></td>
+    <td>
+      <p><b>BSc</b>, ITU</p>
+      <p style="font-size: 12px;">2004–2008</p>
+    </td>
+    <td>
+      <p><b>MSc</b>, ITU</p>
+      <p style="font-size: 12px;">2008–2011</p>
+    </td>
+    <td>
+      <p><b>Design Engineer</b>, GE Aviation</p>
+      <p style="font-size: 12px;">2011–2015</p>
+    </td>
   </tr>
   <tr>
     <td>
