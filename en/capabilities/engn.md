@@ -4,7 +4,7 @@ lang: en
 cap_id: 3
 title: Engineering
 ---
-<p style="margin: 0 0 10px 0; color: #c8c7cf;">
+<p style="margin: 0 0 15px 0; color: #c8c7cf;">
   The table below provides an overview of my experience with CAD (computer-aided design) and CAE (computer-aided engineering) software across different stages of my academic and professional development as an engineer in the field of aviation.
 </p>
 
@@ -52,8 +52,8 @@ title: Engineering
   </tr>
   <tr>
     <td style="background-color: #0b2428;"></td>
-    <p style="font-size: 12px;">2004–2008</p>
-    <p style="font-size: 12px;">2008–2011</p>
-    <p style="font-size: 12px;">2011–2015</p>
+    <td><p style="font-size: 12px;">2004–2008</p></td>
+    <td><p style="font-size: 12px;">2008–2011</p></td>
+    <td><p style="font-size: 12px;">2011–2015</p></td>
   </tr>
 </table>
