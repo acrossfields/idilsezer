@@ -38,10 +38,10 @@ title: Engineering
       <p><b>Ansys</b></p>
     </td>
     <td colspan="2">
-      <p>Training in 3D modeling, boundary condition application, mesh generation, finite element analysis (FEA) of structures to obtain stresses that occur under static loads</p>
+      <p>Training in 3D modeling, application of boundary conditions and static loads, mesh generation, finite element analysis (FEA) of structures</p>
     </td>
     <td rowspan="3">
-      <p>Professional practice in modifying 3D models and local mesh modification to represent non-conformities, performing comparative finite element analyses (FEA) of engine parts under centrifugal loading</p>
+      <p>Professional practice in modifying engine part models and local mesh, applying centrifugal loading, performing comparative finite element analyses</p>
     </td>
   </tr>
   <tr>
