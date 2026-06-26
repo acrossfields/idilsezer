@@ -5,7 +5,7 @@ cap_id: 3
 title: Engineering
 ---
 <p style="margin: 0 0 15px 0; color: #c8c7cf;">
-  The table below provides an overview of my experience with CAD (computer-aided design) and CAE (computer-aided engineering) software across different stages of my academic and professional development as an engineer in the field of aviation.
+  The table below provides an overview of the CAD (computer-aided design) and CAE (computer-aided engineering) software competencies I have developed across my academic studies and professional work as an engineer in the field of aviation.
 </p>
 
 <table class="table-capcadcae" style="margin-bottom: 30px;">
