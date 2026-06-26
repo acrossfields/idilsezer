@@ -11,9 +11,9 @@ title: Engineering
 <table class="table-capcadcae" style="margin-bottom: 30px;">
   <tr>
     <td></td>
-    <td><p><b>Time 1</b></p></td>
-    <td><p><b>Time 2</b></p></td>
-    <td><p><b>Time 3</b></p></td>
+    <td><p><b>BSc, ITU, 2004–2008</b></p></td>
+    <td><p><b>MSc, ITU, 2008–2011</b></p></td>
+    <td><p><b>Design Engineer, GE Aviation, 2011–2015</b></p></td>
   </tr>
   <tr>
     <td>
