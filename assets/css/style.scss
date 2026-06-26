@@ -533,16 +533,15 @@ body a:hover {
   background-color: #b6b4c1;
 }
 
-.table-capcadcae tr:first-child td:not(:first-child),
-.table-capcadcae tr:not(:first-child) td:first-child {
+.table-capcadcae tr:first-child td,
+.table-capcadcae tr td:first-child,
+.table-capcadcae tr:last-child td {
   color: #292730;
   background-color: #898895;
 }
 
 .table-capcadcae td:nth-child(1) {
   width: 80px;
-  color: #292730;
-  background-color: #898895;
 }
 
 .table-capcadcae td:nth-child(2),
