@@ -17,12 +17,8 @@ title: Engineering
   </tr>
   <tr>
     <td>
-      <p>
-        <b>CATIA</b>
-      </p>
-      <p style="font-size: 12px;">
-        <i>Dassault Systèmes</i>
-      </p>
+      <p><b>CATIA</b></p>
+      <p style="font-size: 12px;"><i>Dassault Systèmes</i></p>
     </td>
     <td><p>exp1</p></td>
     <td><p>exp2</p></td>
@@ -38,12 +34,8 @@ title: Engineering
   </tr>
   <tr>
     <td>
-      <p style="margin-bottom: 2px;">
-        <b>NX</b>
-      </p>
-      <p style="font-size: 12px;">
-        <i>Siemens</i>
-      </p>
+      <p><b>NX</b></p>
+      <p style="font-size: 12px;"><i>Siemens</i></p>
     </td>
     <td><p>exp1</p></td>
     <td><p>exp2</p></td>
@@ -51,12 +43,8 @@ title: Engineering
   </tr>
   <tr>
     <td>
-      <p style="margin-bottom: 2px;">
-        <b>HyperWorks</b>
-      </p>
-      <p style="font-size: 12px;">
-        <i>Altair</i>
-      </p>
+      <p><b>HyperWorks</b></p>
+      <p style="font-size: 12px;"><i>Altair</i></p>
     </td>
     <td><p>exp1</p></td>
     <td><p>exp2</p></td>
