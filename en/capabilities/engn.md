@@ -17,7 +17,7 @@ title: Engineering
   </tr>
   <tr>
     <td>
-      <p style="font-size: 14px; margin: 0 0 0 1px;">
+      <p>
         <b>CATIA</b>
       </p>
       <p style="font-size: 12px;">
