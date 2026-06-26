@@ -5,7 +5,7 @@ cap_id: 3
 title: Engineering
 ---
 <p style="margin: 0 0 15px 0; color: #c8c7cf;">
-  The table below provides an overview of the CAD (computer-aided design) and CAE (computer-aided engineering) software competencies I have developed across my academic studies and professional work as an engineer in the field of aviation.
+  The table below provides an overview of the CAD (computer-aided design) and CAE (computer-aided engineering) software competencies I have developed through my academic studies and professional work as an engineer in the field of aviation.
 </p>
 
 <table class="table-capcadcae" style="margin-bottom: 30px;">
@@ -39,7 +39,9 @@ title: Engineering
     </td>
     <td><p>exp1</p></td>
     <td><p>exp2</p></td>
-    <td><p>exp3</p></td>
+    <td rowspan="3">
+      <p>ge fea</p>
+    </td>
   </tr>
   <tr>
     <td>
@@ -48,7 +50,6 @@ title: Engineering
     </td>
     <td><p>exp1</p></td>
     <td><p>exp2</p></td>
-    <td><p>exp3</p></td>
   </tr>
   <tr>
     <td>
@@ -57,7 +58,6 @@ title: Engineering
     </td>
     <td><p>exp1</p></td>
     <td><p>exp2</p></td>
-    <td><p>exp3</p></td>
   </tr>
   <tr>
     <td style="background-color: #0b2428;"></td>
