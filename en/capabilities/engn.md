@@ -12,15 +12,18 @@ title: Engineering
   <tr>
     <td style="background-color: #0b2428;"></td>
     <td>
-      <p><b>BSc</b>, ITU</p>
+      <p><b>BSc</b></p>
+      <p><b><i>ITU</i></b></p>
       <p style="font-size: 12px;">2004–2008</p>
     </td>
     <td>
-      <p><b>MSc</b>, ITU</p>
+      <p><b>MSc</b></p>
+      <p><b><i>ITU</i></b></p>
       <p style="font-size: 12px;">2008–2011</p>
     </td>
     <td>
-      <p><b>Design Engineer</b>, GE Aviation</p>
+      <p><b>Design Engineer</b></p>
+      <p><b><i>GE Aviation</i></b></p>
       <p style="font-size: 12px;">2011–2015</p>
     </td>
   </tr>
