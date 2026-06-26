@@ -61,8 +61,8 @@ title: Engineering
   </tr>
   <tr>
     <td style="background-color: #0b2428;"></td>
-    <td><p>2004–2008</p></td>
-    <td><p>2008–2011</p></td>
-    <td><p>2011–2015</p></td>
+    <td><p><b>2004–2008</b></p></td>
+    <td><p><b>2008–2011</b></p></td>
+    <td><p><b>2011–2015</b></p></td>
   </tr>
 </table>
