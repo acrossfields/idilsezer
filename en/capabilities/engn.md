@@ -62,4 +62,10 @@ title: Engineering
     <td><p>exp2</p></td>
     <td><p>exp3</p></td>
   </tr>
+  <tr>
+    <td></td>
+    <td><p>years1</p></td>
+    <td><p>years2</p></td>
+    <td><p>years3</p></td>
+  </tr>
 </table>
