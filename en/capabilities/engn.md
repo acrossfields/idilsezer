@@ -29,18 +29,19 @@ title: Engineering
       <p><b>CATIA</b></p>
       <p style="font-size: 12px;"><i>Dassault Systèmes</i></p>
     </td>
-    <td><p>exp1</p></td>
-    <td><p>exp2</p></td>
-    <td><p>exp3</p></td>
+    <td><p>Training in 2D/3D modelling and technical drafting</p></td>
+    <td style="background-color: #0b2428;"></td>
+    <td style="background-color: #0b2428;"></td>
   </tr>
   <tr>
     <td>
       <p><b>Ansys</b></p>
     </td>
-    <td><p>exp1</p></td>
-    <td><p>exp2</p></td>
+    <td colspan="2">
+      <p>Training in 3D modeling, boundary condition application, mesh generation, finite element analysis (FEA) of structures to obtain stresses that occur under static loads</p>
+    </td>
     <td rowspan="3">
-      <p>ge fea</p>
+      <p>Professional practice in modifying 3D models and local mesh modification to represent non-conformities, performing comparative finite element analyses (FEA) of engine parts under centrifugal loading</p>
     </td>
   </tr>
   <tr>
@@ -48,16 +49,16 @@ title: Engineering
       <p><b>NX</b></p>
       <p style="font-size: 12px;"><i>Siemens</i></p>
     </td>
-    <td><p>exp1</p></td>
-    <td><p>exp2</p></td>
+    <td style="background-color: #0b2428;"></td>
+    <td style="background-color: #0b2428;"></td>
   </tr>
   <tr>
     <td>
       <p><b>HyperWorks</b></p>
       <p style="font-size: 12px;"><i>Altair</i></p>
     </td>
-    <td><p>exp1</p></td>
-    <td><p>exp2</p></td>
+    <td style="background-color: #0b2428;"></td>
+    <td style="background-color: #0b2428;"></td>
   </tr>
   <tr>
     <td style="background-color: #0b2428;"></td>
