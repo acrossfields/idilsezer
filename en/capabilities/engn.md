@@ -29,19 +29,19 @@ title: Engineering
       <p><b>CATIA</b></p>
       <p style="font-size: 12px;"><i>Dassault Systèmes</i></p>
     </td>
-    <td><p>Training in 2D/3D modelling and technical drafting</p></td>
-    <td style="background-color: #0b2428;"></td>
-    <td style="background-color: #0b2428;"></td>
+    <td><p>Training in 2D/3D modeling and technical drafting</p></td>
+    <td style="background-color: #42414a;"></td>
+    <td style="background-color: #42414a;"></td>
   </tr>
   <tr>
     <td>
       <p><b>Ansys</b></p>
     </td>
     <td colspan="2">
-      <p>Training in 3D modeling, application of boundary conditions and static loads, mesh generation, finite element analysis (FEA) of structures</p>
+      <p>Training in 3D modeling, boundary condition definition, static loading, mesh generation, and finite element analysis (FEA) of structures</p>
     </td>
     <td rowspan="3">
-      <p>Professional practice in modifying engine part models and local mesh, applying centrifugal loading, performing comparative finite element analyses</p>
+      <p>Professional practice in modifying models and local mesh for engine parts, applying centrifugal loading, and performing comparative finite element analyses</p>
     </td>
   </tr>
   <tr>
@@ -49,16 +49,16 @@ title: Engineering
       <p><b>NX</b></p>
       <p style="font-size: 12px;"><i>Siemens</i></p>
     </td>
-    <td style="background-color: #0b2428;"></td>
-    <td style="background-color: #0b2428;"></td>
+    <td style="background-color: #42414a;"></td>
+    <td style="background-color: #42414a;"></td>
   </tr>
   <tr>
     <td>
       <p><b>HyperWorks</b></p>
       <p style="font-size: 12px;"><i>Altair</i></p>
     </td>
-    <td style="background-color: #0b2428;"></td>
-    <td style="background-color: #0b2428;"></td>
+    <td style="background-color: #42414a;"></td>
+    <td style="background-color: #42414a;"></td>
   </tr>
   <tr>
     <td style="background-color: #0b2428;"></td>
