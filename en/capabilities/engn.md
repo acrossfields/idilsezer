@@ -41,7 +41,7 @@ title: Engineering
       <p>Training in 3D modeling, boundary condition definition, static loading, mesh generation, and finite element analysis (FEA) of structures</p>
     </td>
     <td rowspan="3">
-      <p>Professional practice in modifying models and local mesh for engine parts, applying centrifugal loading, and performing comparative finite element analyses</p>
+      <p style="font-size: 13px;">Professional practice in modifying models and local mesh for engine parts, applying centrifugal loading, and performing comparative finite element analyses</p>
     </td>
   </tr>
   <tr>
