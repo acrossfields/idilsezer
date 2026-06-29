@@ -4,7 +4,7 @@ lang: en
 cap_id: 1
 title: Languages
 ---
-<table class="table-capmainskill" style="margin-bottom: 15px;">
+<table class="table-capmain" style="margin-bottom: 15px;">
   <tr>
     <td>
       <b>Turkish</b>
@@ -15,7 +15,7 @@ title: Languages
   </tr>
 </table>
 
-<table class="table-capmainskill" style="margin-bottom: 8px;">
+<table class="table-capmain" style="margin-bottom: 8px;">
   <tr>
     <td>
       <b>English</b>
@@ -30,7 +30,7 @@ title: Languages
   <p style="margin-bottom: 10px;">
     [about EN proficiency]
   </p>
-  <table class="table-capsubqua" style="margin-bottom: 5px;">
+  <table class="table-capsub" style="margin-bottom: 5px;">
     <tr>
       <td>
         <b>IELTS Academic</b>
@@ -58,7 +58,7 @@ title: Languages
   </table>
 </div>
 
-<table class="table-capmainskill" style="margin-bottom: 8px;">
+<table class="table-capmain" style="margin-bottom: 8px;">
   <tr>
     <td>
       <b>Portuguese (Brazil)</b>
@@ -73,7 +73,7 @@ title: Languages
   <p style="margin-bottom: 10px;">
     [about PTBR proficiency]
   </p>
-  <table class="table-capsubqua" style="margin-bottom: 5px;">
+  <table class="table-capsub" style="margin-bottom: 5px;">
     <tr>
       <td>
         <b>CELPE-Bras</b>
