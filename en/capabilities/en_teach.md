@@ -4,7 +4,7 @@ lang: en
 cap_id: 4
 title: English Teaching
 ---
-<table class="table-capmainskill" style="margin-bottom: 15px;">
+<table class="table-capmain" style="margin-bottom: 15px;">
   <tr>
     <td style="background-color: #35343b; color: #c8c7cf;">
       <b>CELTA</b>
