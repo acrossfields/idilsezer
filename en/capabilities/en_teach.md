@@ -6,10 +6,10 @@ title: English Teaching
 ---
 <table class="table-capmainskill" style="margin-bottom: 15px;">
   <tr>
-    <td style="background-color: #35343b; color: #c8c7cf;"></td>
+    <td style="background-color: #35343b; color: #c8c7cf;">
       <b>CELTA</b>
     </td>
-    <td style="background-color: #42414a; color: #c8c7cf;"></td>
+    <td style="background-color: #42414a; color: #c8c7cf;">
       <p style="font-size: 14px;">
         <b>English teaching course & qualification</b>
       </p>
