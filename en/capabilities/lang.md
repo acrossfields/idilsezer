@@ -85,6 +85,9 @@ title: Languages
         <p style="margin-bottom: 5px; font-size: 14px;">
           <i>by the Brazilian Ministry of Education</i>
         </p>
+        <p style="margin-bottom: 5px; font-size: 14px;">
+          "Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Certificate of Proficiency in Portuguese for Foreigners)"
+        </p>
         <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
         <p style="margin-bottom: 5px; font-size: 14px;">
           Level: Intermediate
