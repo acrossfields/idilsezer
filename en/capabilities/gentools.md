@@ -34,3 +34,77 @@ title: General-Purpose Tools
   </tr>
 </table>
 
+<table class="table-captool" style="margin-bottom: 15px;">
+  <tr>
+    <td>
+      <b>Microsoft Excel</b>
+    </td>
+    <td>
+      [about excel]
+    </td>
+    <td>
+      2019<br>
+      present
+    </td>
+  </tr>
+</table>
+
+<table class="table-captool" style="margin-bottom: 15px;">
+  <tr>
+    <td>
+      <b>Google Drive Environment</b>
+    </td>
+    <td>
+      [about drive]
+    </td>
+    <td>
+      2018<br>
+      present
+    </td>
+  </tr>
+</table>
+
+<table class="table-captool" style="margin-bottom: 15px;">
+  <tr>
+    <td>
+      <b>Atlassian Jira</b>
+    </td>
+    <td>
+      [about jira]
+    </td>
+    <td>
+      2019<br>
+      2024
+    </td>
+  </tr>
+</table>
+
+<table class="table-captool" style="margin-bottom: 15px;">
+  <tr>
+    <td>
+      <b>Atlassian Confluence</b>
+    </td>
+    <td>
+      [about confluence]
+    </td>
+    <td>
+      2019<br>
+      2024
+    </td>
+  </tr>
+</table>
+
+<table class="table-captool" style="margin-bottom: 30px;">
+  <tr>
+    <td>
+      <b>[AI prompting]</b>
+    </td>
+    <td>
+      [about AI]
+    </td>
+    <td>
+      2024<br>
+      present
+    </td>
+  </tr>
+</table>
