@@ -456,7 +456,7 @@ body a:hover {
   font-size: 16px;
 }
 
-.table-capmain {
+.table-caplang {
   width: 100%;
   table-layout: fixed;
   text-align: left;
@@ -464,23 +464,23 @@ body a:hover {
   margin: 0;
 }
 
-.table-capmain td {
+.table-caplang td {
   padding: 8px;
 }
 
-.table-capmain td:nth-child(1) {
+.table-caplang td:nth-child(1) {
   width: 100px;
   color: #292730;
   background-color: #898895;
 }
 
-.table-capmain td:nth-child(2) {
+.table-caplang td:nth-child(2) {
   width: auto;
   color: #18171e;
   background-color: #b6b4c1;
 }
 
-.table-capmain p {
+.table-caplang p {
   margin: 0;
 }
 
@@ -492,7 +492,7 @@ body a:hover {
   line-height: 1.5;
 }
 
-.table-capsub {
+.table-capqua {
   width: 100%;
   table-layout: fixed;
   color: #c8c7cf;
@@ -501,21 +501,21 @@ body a:hover {
   margin: 0;
 }
 
-.table-capsub td {
+.table-capqua td {
   padding: 8px;
 }
 
-.table-capsub td:nth-child(1) {
+.table-capqua td:nth-child(1) {
   width: 80px;
   background-color: #35343b;
 }
 
-.table-capsub td:nth-child(2) {
+.table-capqua td:nth-child(2) {
   width: auto;
   background-color: #42414a;
 }
 
-.table-capsub p {
+.table-capqua p {
   margin: 0;
 }
 
