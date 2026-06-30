@@ -4,7 +4,7 @@ lang: en
 cap_id: 2
 title: General-Purpose Tools
 ---
-<table class="table-caplang" style="margin-bottom: 15px;">
+<table class="table-captool" style="margin-bottom: 15px;">
   <tr>
     <td>
       <b>Microsoft Word</b>
@@ -17,3 +17,18 @@ title: General-Purpose Tools
     </td>
   </tr>
 </table>
+
+<table class="table-captool" style="margin-bottom: 15px;">
+  <tr>
+    <td>
+      <b>Microsoft PowerPoint</b>
+    </td>
+    <td>
+      Audience-focused presentations across academic, technical, business, and less structured contexts
+    </td>
+    <td>
+      Early 2000s - present
+    </td>
+  </tr>
+</table>
+
