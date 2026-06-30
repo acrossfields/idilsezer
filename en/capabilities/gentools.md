@@ -10,10 +10,11 @@ title: General-Purpose Tools
       <b>Microsoft Word</b>
     </td>
     <td>
-      <p style="font-size: 14px;">Document design, structured writing, and adherence to templates and formal formatting conventions</p>
+      Document design, structured writing, and adherence to templates and formal formatting conventions
     </td>
     <td>
-      <p style="font-size: 12px;">Early 2000s - present</p>
+      Early 2000s<br>
+      present
     </td>
   </tr>
 </table>
@@ -24,10 +25,11 @@ title: General-Purpose Tools
       <b>Microsoft PowerPoint</b>
     </td>
     <td>
-      <p style="font-size: 14px;">Audience-focused presentations across academic, technical, business, and less structured contexts</p>
+      Audience-focused presentations across academic, technical, business, and less structured contexts
     </td>
     <td>
-      <p style="font-size: 12px;">Early 2000s - present</p>
+      Early 2000s<br>
+      present
     </td>
   </tr>
 </table>
