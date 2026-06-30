@@ -522,7 +522,6 @@ body a:hover {
 .table-captool {
   width: 100%;
   table-layout: fixed;
-  text-align: left;
   vertical-align: middle;
   margin: 0;
 }
@@ -532,18 +531,24 @@ body a:hover {
 }
 
 .table-captool td:nth-child(1) {
+  text-align: left;
+  font-size: 16px;
   width: 80px;
   color: #292730;
   background-color: #898895;
 }
 
 .table-captool td:nth-child(2) {
+  text-align: left;
+  font-size: 14px;
   color: #18171e;
   background-color: #9f9dab;
 }
 
 .table-captool td:nth-child(3) {
-  width: 50px;
+  font-size: 12px;
+  text-align: right;
+  width: 40px;
   color: #18171e;
   background-color: #b6b4c1;
 }
