@@ -9,7 +9,7 @@ title: General-Purpose Tools
     <td>
       <b>Microsoft Word</b>
     </td>
-    <td style="padding: 2px;">
+    <td>
       Document design, structured writing, and adherence to templates and formal formatting conventions
     </td>
     <td>
@@ -24,7 +24,7 @@ title: General-Purpose Tools
     <td>
       <b>Microsoft PowerPoint</b>
     </td>
-    <td style="padding: 2px;">
+    <td>
       Audience-focused presentations across academic, technical, business, and less structured contexts
     </td>
     <td>
