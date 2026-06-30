@@ -30,7 +30,7 @@ title: Languages
   <p style="margin-bottom: 10px;">
     [about EN proficiency]
   </p>
-  <table class="table-capqua" style="margin-bottom: 5px;">
+  <table class="table-caplangsub" style="margin-bottom: 5px;">
     <tr>
       <td>
         <b>IELTS Academic</b>
@@ -73,7 +73,7 @@ title: Languages
   <p style="margin-bottom: 10px;">
     [about PTBR proficiency]
   </p>
-  <table class="table-capqua" style="margin-bottom: 5px;">
+  <table class="table-caplangsub" style="margin-bottom: 5px;">
     <tr>
       <td>
         <b>CELPE-Bras</b>
