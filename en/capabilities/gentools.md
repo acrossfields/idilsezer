@@ -13,7 +13,7 @@ title: General-Purpose Tools
       Document design, structured writing, and adherence to templates and formal formatting conventions
     </td>
     <td>
-      <p style="margin-bottom: 5px;">Early 2000s</p>
+      <p style="margin-bottom: 3px; line-height: 1;">Early 2000s</p>
       <p>present</p>
     </td>
   </tr>
