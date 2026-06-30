@@ -40,7 +40,7 @@ title: General-Purpose Tools
       <b>Microsoft Excel</b>
     </td>
     <td>
-      Visually organized spreadsheet design, formula-driven workflow automation incorporating data lookup and cross-sheet referencing, and sanity checks using customized conditional formatting and data validation.
+      Visually organized spreadsheet design, formula-driven workflow automation incorporating data lookup and cross-sheet referencing, and sanity checks using customized conditional formatting and data validation
     </td>
     <td>
       2006<br>
@@ -52,10 +52,10 @@ title: General-Purpose Tools
 <table class="table-captool" style="margin-bottom: 15px;">
   <tr>
     <td>
-      <b>Google Drive Environment</b>
+      <b>Google Workspace</b>
     </td>
     <td>
-      [about drive]
+      Document organization, access management, and designing collaborative spreadsheets tailored to large textual datasets with instructions, formula-driven automation, sanity checks, and range-specific editing permissions
     </td>
     <td>
       2018<br>
