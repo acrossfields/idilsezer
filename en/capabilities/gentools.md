@@ -40,7 +40,7 @@ title: General-Purpose Tools
       <b>Microsoft Excel</b>
     </td>
     <td>
-      [about excel]
+      Visually organized spreadsheet design, formula-driven workflow automation incorporating data lookup and cross-sheet referencing, and sanity checks using customized conditional formatting and data validation.
     </td>
     <td>
       2006<br>
