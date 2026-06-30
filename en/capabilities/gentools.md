@@ -1,8 +1,8 @@
 ---
 category: cap_entry
 lang: en
-cap_id: 1
-title: Languages
+cap_id: 2
+title: General-Purpose Tools
 ---
 <table class="table-caplang" style="margin-bottom: 15px;">
   <tr>
