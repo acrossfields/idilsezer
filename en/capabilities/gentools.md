@@ -55,7 +55,7 @@ title: General-Purpose Tools
       <b>Google Workspace</b>
     </td>
     <td>
-      Document organization, access management, and designing collaborative spreadsheets tailored to large textual datasets with instructions, formula-driven automation, sanity checks, and range-specific editing permissions
+      Document organization, access management, and spreadsheet-based workflow design for large collaborative datasets using formula-driven automation, sanity checks, and range-specific editing permissions
     </td>
     <td>
       2018<br>
