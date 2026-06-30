@@ -30,3 +30,18 @@ title: English Teaching
     </td>
   </tr>
 </table>
+
+<table class="table-captool" style="margin-bottom: 30px;">
+  <tr>
+    <td>
+      <b>Promethean ActivInspire</b>
+    </td>
+    <td>
+      [about activinspire]
+    </td>
+    <td>
+      2016<br>
+      2017
+    </td>
+  </tr>
+</table>
