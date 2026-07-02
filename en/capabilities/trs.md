@@ -1,10 +1,10 @@
 ---
 category: cap_entry
 lang: en
-cap_id: 7
+cap_id: 5
 title: Translation
 ---
-<table class="table-captool">
+<table class="table-captool" style="margin-bottom: 30px;">
   <tr>
     <td>
       <b>MemoQ</b>
