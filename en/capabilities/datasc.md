@@ -16,8 +16,9 @@ title: Data Science
       <p style="margin-bottom: 5px; font-size: 14px;">
         <i>by Mindset Institute</i>
       </p>
+      <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
       <p style="margin-bottom: 5px; font-size: 14px;">
-        "Successfully completed all courses in the Python Programming Certificate Program"
+        Successfully completed all courses in the Python Programming Certificate Program
       </p>
       <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
       <p style="font-size: 12px;">
@@ -39,8 +40,9 @@ title: Data Science
       <p style="margin-bottom: 5px; font-size: 14px;">
         <i>by Istanbul Technical University</i>
       </p>
+      <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
       <p style="margin-bottom: 5px; font-size: 14px;">
-        "Successfully completed all courses in the Data Science Certificate Program"
+        Successfully completed all courses in the Data Science Certificate Program
       </p>
       <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
       <p style="font-size: 12px;">
