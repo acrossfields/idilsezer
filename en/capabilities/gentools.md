@@ -55,7 +55,7 @@ title: General-Purpose Tools
       <b>Atlassian Jira</b>
     </td>
     <td>
-      [about jira]
+      Project configuration, issue organization and tracking, dashboard creation, JQL (Jira Query Language) search and filtering, and report generation
     </td>
     <td>
       2019<br>
