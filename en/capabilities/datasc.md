@@ -42,7 +42,7 @@ title: Data Science
       </p>
       <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
       <p style="margin-bottom: 5px; font-size: 14px;">
-        Successfully completed all courses in the Data Science Certificate Program
+        Successfully completed all courses and the final project in the Data Science Certificate Program
       </p>
       <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
       <p style="font-size: 12px;">
