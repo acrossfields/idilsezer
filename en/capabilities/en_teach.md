@@ -37,7 +37,7 @@ title: English Teaching
       <b>Promethean ActivInspire</b>
     </td>
     <td>
-      [about activinspire]
+      Flipchart design and customization, multimedia and action button integration, whiteboard annotation and live object editing
     </td>
     <td>
       2016<br>
