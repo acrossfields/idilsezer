@@ -70,7 +70,7 @@ title: General-Purpose Tools
       <b>Atlassian Confluence</b>
     </td>
     <td>
-      [about confluence]
+      Documentation authoring, collaborative editing, hierarchical page organization, and permission management
     </td>
     <td>
       2019<br>
