@@ -7,12 +7,9 @@ title: Data Science
 <table class="table-captool" style="margin-bottom: 15px;">
   <tr>
     <td style="background-color: #35343b; color: #c8c7cf;">
-      <b>Python</b>
+      <b>Python Certificate</b>
     </td>
     <td colspan="2" style="background-color: #42414a; color: #c8c7cf;">
-      <p style="font-size: 14px;">
-        <b>Python course & certificate</b>
-      </p>
       <p style="margin-bottom: 5px; font-size: 14px;">
         <i>by Mindset Institute</i>
       </p>
@@ -31,12 +28,9 @@ title: Data Science
 <table class="table-captool" style="margin-bottom: 30px;">
   <tr>
     <td style="background-color: #35343b; color: #c8c7cf;">
-      <b>Data Science</b>
+      <b>Data Science Certificate</b>
     </td>
     <td colspan="2" style="background-color: #42414a; color: #c8c7cf;">
-      <p style="font-size: 14px;">
-        <b>Data science course & certificate</b>
-      </p>
       <p style="margin-bottom: 5px; font-size: 14px;">
         <i>by Istanbul Technical University</i>
       </p>
