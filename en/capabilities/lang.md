@@ -44,7 +44,7 @@ title: Languages
         </p>
         <hr style="border: none; border-top: 1px solid #898895; margin-bottom: 5px;">
         <p style="margin-bottom: 5px; font-size: 14px;">
-          <b>Overall score:</b> 8.5 / 9.0
+          Overall score: 8.5 / 9.0
         </p>
         <p style="margin-bottom: 5px; font-size: 14px;">
           Listening: 8.5 • Reading: 9.0 • Writing: 8.0 • Speaking: 8.5
