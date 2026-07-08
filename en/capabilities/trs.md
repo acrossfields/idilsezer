@@ -10,12 +10,8 @@ title: Translation
       <b>MemoQ</b>
     </td>
     <td>
-      <p style="margin-bottom: 5px;>
-        <b>As translator:</b> Translation and review of assigned files, establishing terminology, running QA
-      </p>
-      <p>
-        <b>As PM (project manager):</b> Project configuration, document import and preparation, file assignment, and delivery
-      </p>
+      <b>As translator:</b> Translation and review of assigned files, establishing terminology, running QA<br>
+      <b>As PM (project manager):</b> Project configuration, document import and preparation, file assignment, and delivery
     </td>
     <td>
       2019<br>
@@ -23,3 +19,4 @@ title: Translation
     </td>
   </tr>
 </table>
+
