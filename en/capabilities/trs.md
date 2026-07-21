@@ -10,7 +10,7 @@ title: Translation
       <b>MemoQ</b>
     </td>
     <td>
-      <p style="margin-bottom: 8px;">
+      <p style="margin-bottom: 5px;">
         <b style="color: #292730;">As translator:</b>
         Translation, review, and delivery of assigned files, establishing terminology, running QA
       </p>
