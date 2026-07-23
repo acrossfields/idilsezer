@@ -82,10 +82,10 @@ title: General-Purpose Tools
 <table class="table-captool" style="margin-bottom: 30px;">
   <tr>
     <td>
-      <b>[AI prompting]</b>
+      <b>LLM-Based AI Tools</b>
     </td>
     <td>
-      [about AI]
+      Developing human-directed solutions across unfamiliar technical domains through iterative prompting of AI chatbots, using AI tools to accelerate learning, bridge gaps in understanding, and extract insights
     </td>
     <td>
       2024<br>
