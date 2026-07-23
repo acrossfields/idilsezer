@@ -82,7 +82,7 @@ title: General-Purpose Tools
 <table class="table-captool" style="margin-bottom: 30px;">
   <tr>
     <td>
-      <b>LLM-Based AI Tools</b>
+      <b>LLM-based AI tools</b>
     </td>
     <td>
       Developing human-directed solutions across unfamiliar technical domains through iterative prompting of AI chatbots, using AI tools to accelerate learning, bridge gaps in understanding, and extract insights
