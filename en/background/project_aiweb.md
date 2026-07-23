@@ -62,14 +62,14 @@ taglist_sub4: []
         Website
       </td>
       <td>
-        Portfolio
+        Across Fields
       </td>
       <td>
       </td>
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[About Acrossfields]</p>
+        <p>A personally maintained website serving as a professional portfolio.</p>
       </td>
     </tr>
   </table>
