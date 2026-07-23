@@ -48,7 +48,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>A personally maintained website serving as a digital scrapbook, showcasing a collection of more than 50,000 words of original content written in English, including essays, poetry, and fiction, in addition to translated and credited content. Due to the personal nature of its content, disclosure of the website's name and URL is subject to request.</p>
+        <p>A personally maintained website serving as a digital scrapbook, showcasing a collection of more than 50,000 words of original content written in English, including essays, poetry, and fiction, in addition to translated and credited content. Due to its personal nature, disclosure of the website's name and URL is subject to request.</p>
       </td>
     </tr>
   </table>
