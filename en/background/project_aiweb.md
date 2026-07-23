@@ -30,7 +30,7 @@ taglist_sub4: []
 
 [[BLOCK_DESC]]
 <div class="bg-indented">
-  <p>Following the completion of the Data Science Certificate Program, during which I used LLM-based AI tools such as ChatGPT and Gemini to deepen my understanding of the course material, I decided to improve my AI-prompting skills. To that end, by iteratively querying generative AI chatbots, I built and published two websites on GitHub Pages to showcase content I created in other domains. Despite having no prior experience building websites, I developed fully customized layouts, navigation, styling, and interactive features, while becoming familiar with GitHub Pages and the core web technologies, including HTML5, CSS3, JavaScript, Jekyll, Liquid, and Markdown.</p>
+  <p>Following the completion of the Data Science Certificate Program, during which I used LLM-based AI tools such as ChatGPT and Gemini to deepen my understanding of the course material, I decided to improve my AI-prompting skills by taking on a challenge outside my area of expertise. To that end, by iteratively querying generative AI chatbots, I built and published two websites on GitHub Pages to showcase content I created in other domains. Despite having no prior experience building websites, I developed fully customized layouts, navigation, styling, and interactive features, while becoming familiar with GitHub Pages and the core web technologies, including HTML5, CSS3, JavaScript, Jekyll, Liquid, and Markdown.</p>
 </div>
 
 [[BLOCK_SUB1]]
