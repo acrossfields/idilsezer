@@ -48,7 +48,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>A personally maintained website serving as a digital scrapbook, showcasing a collection of more than 50,000 words of original content written in English, including essays, poetry, and fiction, in addition to translated and credited content. Due to its personal nature, disclosure of the website's name and URL is subject to request.</p>
+        <p>A website authored, designed, and maintained by me, and implemented with AI assistance. This website showcases a collection of more than 50,000 words of original content that I have written in English since 2022 as essays, poetry, and fiction, as well as translations and other credited content. Due to its personal nature, disclosure of the website's name and URL is subject to request.</p>
       </td>
     </tr>
   </table>
@@ -69,7 +69,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>A personally maintained website serving as a professional portfolio.</p>
+        <p>A website authored, designed, and maintained by me, and implemented with AI assistance, serving as a professional portfolio.</p>
       </td>
     </tr>
   </table>
