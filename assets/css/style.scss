@@ -346,6 +346,14 @@ body a:hover {
   background-color: inherit;
 }
 
+.backgr_entry {
+  max-width: 600px;
+}
+
+.backgr_entry:not(:last-child) {
+  margin-bottom: 30px;
+}
+
 .backgr_entry:not(:last-child) {
   margin-bottom: 30px;
 }
