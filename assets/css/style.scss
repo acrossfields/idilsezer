@@ -234,11 +234,11 @@ body a:hover {
 }
 
 .backgr_entry {
-  max-width: 600px;
-}
-
-.backgr_entry:not(:last-child) {
+  max-width: 620px;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 30px;
+  padding: 0 10px;
 }
 
 .table-bgheader {
