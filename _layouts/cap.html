@@ -19,19 +19,17 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix bg">
-        <div class="content-wrapper">
-          {% assign items = site.pages | where: "category", "cap_entry" | sort: "cap_id" %}
-          {% for item in items %}
-            <div class="cap_entry">
-              <div class="cap_title">
-                {{ item.title }}
-              </div>
-              <div class="cap_content">
-                {{ item.content }}
-              </div>
+        {% assign items = site.pages | where: "category", "cap_entry" | sort: "cap_id" %}
+        {% for item in items %}
+          <div class="cap_entry">
+            <div class="cap_title">
+              {{ item.title }}
             </div>
-          {% endfor %}
-        </div>
+            <div class="cap_content">
+              {{ item.content }}
+            </div>
+          </div>
+        {% endfor %}
       </div>
     </div>
     
