@@ -360,8 +360,9 @@ body a:hover {
 
 .search-panel {
   width: calc(100% - 16px);
-  margin: 10px 10px 30px 10px;
-  max-width: 500px;
+  margin: 10px auto 30px auto;
+  max-width: 520px;
+  padding: 0 10px;
   color: #d0e1e5;
 }
 
