@@ -18,21 +18,23 @@
     {% include header.html %}
 
     <div id="content-wrapper">
-      <div class="content-wrapper">
-        {% assign items = site.pages | where: "category", "cap_entry" | sort: "cap_id" %}
-        {% for item in items %}
-          <div class="cap_entry">
-            <div class="cap_title">
-              {{ item.title }}
+      <div class="inner clearfix bg">
+        <div class="content-wrapper">
+          {% assign items = site.pages | where: "category", "cap_entry" | sort: "cap_id" %}
+          {% for item in items %}
+            <div class="cap_entry">
+              <div class="cap_title">
+                {{ item.title }}
+              </div>
+              <div class="cap_content">
+                {{ item.content }}
+              </div>
             </div>
-            <div class="cap_content">
-              {{ item.content }}
-            </div>
-          </div>
-        {% endfor %}
+          {% endfor %}
+        </div>
       </div>
     </div>
-
+    
     <script>
     document.addEventListener("DOMContentLoaded", function () {
       document.querySelectorAll(".cap_title").forEach(function(title) {
