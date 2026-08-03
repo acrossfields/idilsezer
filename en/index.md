@@ -5,9 +5,9 @@ lang: en
 permalink: /en/
 ---
 
-<div class="home" style="margin-top: 15px; margin-bottom: 15px; padding: 0 10px; font-size: 18px; line-height: 1.5;">
-  <p>The face of technology is constantly changing, and the demands placed on the workforce are shifting with it. In today's professional landscape, what often makes the difference is not knowledge alone, but the curiosity and creativity to adapt.</p>
-  <p>My name is İdil Sezer, and this website offers an in-depth look at my multidisciplinary studies, international professional experience, and the skills I have developed across multiple domains.</p>
+<div class="home" style="padding: 0 10px; font-size: 18px; line-height: 1.5;">
+  <p style="margin-top: 15px; margin-bottom: 10px;">The face of technology is constantly changing, and the demands placed on the workforce are shifting with it. In today's professional landscape, what often makes the difference is not knowledge alone, but the curiosity and creativity to adapt.</p>
+  <p style="margin-bottom: 20px;">My name is İdil Sezer, and this website offers an in-depth look at my multidisciplinary studies, international professional experience, and the skills I have developed across multiple domains.</p>
 </div>
 
 <div class="home eng">
