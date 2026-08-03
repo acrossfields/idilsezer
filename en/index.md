@@ -5,7 +5,10 @@ lang: en
 permalink: /en/
 ---
 
-<p class="home">[Brand statement]</p>
+<p style="margin-top: 15px; margin-bottom: 15px; padding: 0 10px; font-family: 'Dosis', sans-serif; font-size: 18px; line-height: 1.25;">
+  The face of technology is constantly changing, and the demands placed on the workforce are shifting with it. In today's professional landscape, what often makes the difference is not knowledge alone, but the curiosity and creativity to adapt.
+  My name is İdil Sezer, and this website offers an in-depth look at my multidisciplinary studies, international professional experience, and the skills I have developed across multiple domains.
+</p>
 
 <div class="home eng">
   <p style="font-weight: bold; font-size: 22px; margin-top: 10px; margin-bottom: 15px;">Engineering</p>
