@@ -122,11 +122,10 @@ body a:hover {
 }
 
 .home {
-  margin: 15px;
-  padding: 8px 5px;
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 0 10px;
   font-family: 'Dosis', sans-serif;
-  font-size: 18px;
-  line-height: 1.25;
 }
 
 .home.eng {
