@@ -135,6 +135,7 @@ body a:hover {
   height: 150px;
   margin: 0 auto;
   padding: 0 10px;
+  box-sizing: border-box;
   background: linear-gradient(180deg, var(--grad-start), var(--grad-end));
   font-family: 'Dosis', sans-serif;
 }
