@@ -132,9 +132,10 @@ body a:hover {
 
 .homefield {
   font-family: 'Dosis', sans-serif;
-  width: 600px;
+  width: 620px;
   height: 150px;
   margin: 0 auto;
+  padding: 0 10px;
   background: linear-gradient(180deg, var(--grad-start), var(--grad-end));
   border-radius: 6px;
 }
