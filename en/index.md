@@ -12,7 +12,7 @@ permalink: /en/
 
 <div class="homefield" style="--grad-start: #4d7e9d; --grad-end: #0b2428; font-size: 20px; color: #e2f1f4">
   <div style="text-align: center; margin: 0; padding: 10px;">
-    <b>Engineering</b>
+    Engineering
   </div>
-  <img src="/idilsezer/assets/images/edu.png" alt="Engineering" style="width: 70px; height: 70px; object-fit: contain; display: block; margin: 0 auto;">
+  <img src="/idilsezer/assets/images/edu.png" alt="Engineering" style="width: 65px; height: 65px; object-fit: contain; display: block; margin: 0 auto;">
 </div>
