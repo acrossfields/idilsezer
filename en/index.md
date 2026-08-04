@@ -10,7 +10,7 @@ permalink: /en/
   <p style="margin: 0;">My name is İdil Sezer, and this website offers an in-depth look at my multidisciplinary studies, work experience across multiple countries, and the skills I have developed across multiple fields.</p>
 </div>
 
-<div class="homefield" style="--grad-start: #4d7e9d; --grad-end: #465d60; padding: 20px;">
+<div class="homefield" style="--grad-start: #4d7e9d; --grad-end: #465d60;">
   <div style="width: 30%; justify-content: center;">
     <img src="/idilsezer/assets/images/edu.png" alt="Engineering" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </div>
