@@ -23,3 +23,13 @@
     </div>
   </body>
 </html>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".collapsible").forEach(function (box) {
+    box.addEventListener("click", function () {
+      box.classList.toggle("open");
+    });
+  });
+});
+</script>
