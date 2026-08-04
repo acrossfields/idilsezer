@@ -48,7 +48,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>A website I designed and maintain to showcase a collection of more than 50,000 words of original content that I have written in English since 2022 as essays, poetry, and fiction, as well as translations and other credited content. This website was implemented with AI assistance. Due to its personal nature, disclosure of its name and URL is subject to request.</p>
+        <p>A website I designed and maintain to showcase a collection of more than 50,000 words of original content that I have written in English since 2022 as essays, poetry, and fiction, as well as translations and other credited content. Implemented with AI assistance. Due to its personal nature, disclosure of its name and URL is subject to request.</p>
       </td>
     </tr>
   </table>
@@ -69,7 +69,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>A website I authored, designed, and maintain to serve as a professional portfolio. Implemented with AI assistance.</p>
+        <p>This website, which I authored, designed, and maintain to serve as a professional portfolio. Implemented with AI assistance.</p>
       </td>
     </tr>
   </table>
