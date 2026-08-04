@@ -122,9 +122,10 @@ body a:hover {
 }
 
 .homeintro {
-  max-width: 620px;
+  max-width: 600px;
   margin: 10px auto 20px auto;
   padding: 0 10px;
+  box-sizing: border-box;
   font-family: 'Dosis', sans-serif;
   font-size: 18px;
   line-height: 1.5;
@@ -132,10 +133,11 @@ body a:hover {
 
 .homefield {
   font-family: 'Dosis', sans-serif;
-  width: 620px;
+  width: 600px;
   height: 150px;
   margin: 0 auto;
   padding: 0 10px;
+  box-sizing: border-box;
   background: linear-gradient(180deg, var(--grad-start), var(--grad-end));
 }
 
@@ -212,7 +214,7 @@ body a:hover {
 }
 
 .backgr_entry {
-  max-width: 620px;
+  max-width: 600px;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 30px;
@@ -404,7 +406,7 @@ body a:hover {
 }
 
 .cap_entry {
-  max-width: 620px;
+  max-width: 600px;
   margin: 10px auto;
   padding: 0 10px;
 }
