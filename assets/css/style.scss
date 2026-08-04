@@ -123,9 +123,11 @@ body a:hover {
 
 .homeintro {
   max-width: 620px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 10px auto 20px auto;
+  padding: 0 10px;
   font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
 }
 
 .homefield {
