@@ -11,8 +11,8 @@ permalink: /en/
 </div>
 
 <div class="homefield" style="--grad-start: #4d7e9d; --grad-end: #465d60;">
-  <div style="display: flex; align-items: center; height: 100%; padding: 0;">
-    <div style="width: 30%; height: 100%; display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; align-items: center; padding: 20;">
+    <div style="width: 30%; height: 100%; justify-content: center;">
      <img src="/idilsezer/assets/images/edu.png" alt="Engineering" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
     <div style="width: 70%; font-size: 24px; color: #e2f1f4;">
