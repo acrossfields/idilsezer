@@ -128,36 +128,40 @@ body a:hover {
   font-family: 'Dosis', sans-serif;
 }
 
-.home.eng {
+.home.field {
   margin: 20px;
-  padding: 8px 15px;
-  color: #162736;
-  background-color: #bbcddc;
+  padding: 12px 15px;
+  color: var(--text-color);
+  background: linear-gradient(180deg, var(--c1), var(--c2));
   border-radius: 6px;
+  cursor: pointer;
+  transition: filter 0.2s ease;
 }
 
-.home.lang {
-  margin: 20px;
-  padding: 8px 15px;
-  color: #282030;
-  background-color: #c5c8d7;
-  border-radius: 6px;
+.home.field:hover {
+  filter: brightness(1.04);
 }
 
-.home.qa {
-  margin: 20px;
-  padding: 8px 15px;
-  color: #2a3e39;
-  background-color: #c2d3c6;
-  border-radius: 6px;
+.home-title {
+  font-weight: bold;
+  font-size: 22px;
+  margin: 0 0 12px 0;
 }
 
-.home.data {
-  margin: 20px;
-  padding: 8px 15px;
-  color: #3b3603;
-  background-color: #d8dcbc;
-  border-radius: 6px;
+.home-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.home-details {
+  display: none;
+  margin-top: 15px;
+}
+
+.home.field.open .home-details {
+  display: block;
 }
 
 .search-panel {
