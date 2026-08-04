@@ -9,21 +9,3 @@ permalink: /en/
   <p style="margin: 0 0 10px 0;">The face of technology is constantly changing, and the demands placed on the workforce are shifting with it. In today's professional landscape, what often makes the difference is not knowledge alone, but the curiosity and creativity to adapt.</p>
   <p style="margin: 0;">My name is İdil Sezer, and this website offers an in-depth look at my multidisciplinary studies, work experience across multiple countries, and the skills I have developed across multiple fields.</p>
 </div>
-
-<div class="home field collapsible"
-     style="--c1:#4d7e9d; --c2:#0b2428; --text-color:#e2f1f4;">
-
-  <p class="home-title">Engineering</p>
-
-  <img src="/idilsezer/assets/images/edu.png"
-       alt="Engineering"
-       class="home-image">
-
-  <div class="home-details">
-    <ul>
-      <li>eng line 1</li>
-      <li>eng line 2</li>
-      <li>eng line 3</li>
-    </ul>
-  </div>
-</div>
