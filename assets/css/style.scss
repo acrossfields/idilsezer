@@ -121,11 +121,20 @@ body a:hover {
   text-decoration: underline;
 }
 
-.home {
+.homeintro {
   max-width: 620px;
   margin-right: auto;
   margin-left: auto;
   font-family: 'Dosis', sans-serif;
+}
+
+.homefield {
+  font-family: 'Dosis', sans-serif;
+  width: 150px;
+  height: 150px;
+  margin: 10px auto;
+  background: linear-gradient(180deg, var(--grad-start), var(--grad-end));
+  border-radius: 6px;
 }
 
 .search-panel {
