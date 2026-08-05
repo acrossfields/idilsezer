@@ -14,7 +14,7 @@ permalink: /en/
   <div style="width: 40%; margin: 20px;">
     <img src="/idilsezer/assets/images/edu.png" alt="Engineering" style="max-width: 100%; max-height: 100%;">
   </div>
-  <div style="width: 60%; margin: 20px; font-size: clamp(18px, 1vw, 84px); color: #e2f1f4;">
+  <div style="width: 60%; margin: 20px; font-size: clamp(18px, 8vw, 36px); color: #e2f1f4;">
     <b>Engineering</b>
   </div>
 </div>
