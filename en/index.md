@@ -11,10 +11,10 @@ permalink: /en/
 </div>
 
 <div class="homefield" style="--grad-start: #4d7e9d; --grad-end: #465d60;">
-  <div style="width: 45%; margin: 30px;">
+  <div style="width: 35%; margin: 15px;">
     <img src="/idilsezer/assets/images/edu.png" alt="Engineering" style="max-width: 100%; max-height: 100%;">
   </div>
-  <div style="width: 55%; margin: 30px; font-size: 28px; color: #e2f1f4;">
+  <div style="width: 65%; margin: 15px; font-size: 36px; color: #e2f1f4;">
     <b>Engineering</b>
   </div>
 </div>
