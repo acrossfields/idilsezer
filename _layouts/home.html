@@ -21,5 +21,17 @@
         {{ content }}
       </div>
     </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.homecard-button').forEach(function (button) {
+        button.addEventListener('click', function () {
+          const card = button.closest('.homecard');
+          card.classList.toggle('is-open');
+        });
+      });
+    });
+    </script>
+
   </body>
 </html>
