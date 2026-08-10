@@ -12,15 +12,15 @@ permalink: /en/
 
 <div class="homecards">
   
-  <div class="homecard" style="--card-color: #4d7e9d;">
+  <div class="homecard">
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_eng.png" alt="Engineering">
     </button>
-    <div class="homecard-content">
+    <div class="homecard-content" style="--card-color: #4d7e9d; padding: 15px 20px 20px 20px;">
       <p style="font-family: 'Dosis', sans-serif; font-size: 28px; margin: 0 0 10px 0;">
         <b>Engineering</b>
       </p>
-      <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; margin: 0; padding: 0 0 0 20px;">
+      <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; line-height: 1.5; margin: 0; padding: 0 0 0 20px;">
         <li style="margin-bottom: 10px;">Bachelor's & Master's degrees in Aeronautical Engineering</li>
         <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
         <li>Proven structural analysis expertise at a global aviation leader</li>
@@ -28,20 +28,20 @@ permalink: /en/
     </div>
   </div>
 
-  <div class="homecard" style="--card-color: #d4855c;">
+  <div class="homecard">
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_langcomm.png" alt="Language and Communication">
     </button>
-    <div class="homecard-content">
+    <div class="homecard-content" style="--card-color: #d4855c;">
       Placeholder text for language & communication card
     </div>
   </div>
 
-  <div class="homecard" style="--card-color: #6c823b;">
+  <div class="homecard">
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_digtech.png" alt="Digital Technologies">
     </button>
-    <div class="homecard-content">
+    <div class="homecard-content" style="--card-color: #6c823b;">
       Placeholder text for digital technologies card
     </div>
   </div>
