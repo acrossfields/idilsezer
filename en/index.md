@@ -20,9 +20,9 @@ permalink: /en/
       <p style="font-family: 'Dosis', sans-serif; font-size: 28px; margin: 0 0 10px 0;">
         <b>Engineering</b>
       </p>
-      <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; line-height: 1.5; margin: 0; padding: 0 0 0 20px;">
-        <li style="margin-bottom: 10px;">Bachelor's & Master's degrees in Aeronautical Engineering</li>
-        <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
+      <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; line-height: 1.5; margin: 0 0 10px 0; padding: 0 0 0 25px;">
+        <li>Bachelor's & Master's degrees in Aeronautical Engineering</li>
+        <li>Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
         <li>Proven structural analysis expertise at a global aviation leader</li>
       </ul>
     </div>
