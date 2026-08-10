@@ -13,28 +13,28 @@ permalink: /en/
 <div class="homecards">
 
   <div class="homecard"
-       style="--button-image: url('/assets/images/home/field1.jpg');
-              --card-color: #e7f1ff;">
+       style="--button-image: url('/idilsezer/assets/images/box_eng.png');
+              --card-color: #4d7e9d;">
     <button class="homecard-button" type="button"></button>
     <div class="homecard-content">
-      Placeholder text for card 1.
+      Placeholder text for engineering card
     </div>
   </div>
 
   <div class="homecard"
-       style="--button-image: url('/assets/images/home/field2.jpg');
-              --card-color: #f3e8ff;">
+       style="--button-image: url('/idilsezer/assets/images/box_langcomm.png');
+              --card-color: #d4855c;">
     <button class="homecard-button" type="button"></button>
     <div class="homecard-content">
-      Placeholder text for card 2.
+      Placeholder text for language & communication card
     </div>
   </div>
   <div class="homecard"
-       style="--button-image: url('/assets/images/home/field3.jpg');
-              --card-color: #e8f7ea;">
+       style="--button-image: url('/idilsezer/assets/images/box_digtech.png');
+              --card-color: #6c823b;">
     <button class="homecard-button" type="button"></button>
     <div class="homecard-content">
-      Placeholder text for card 3.
+      Placeholder text for digital technologies card
     </div>
   </div>
 
