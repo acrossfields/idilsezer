@@ -17,12 +17,12 @@ permalink: /en/
       <img src="/idilsezer/assets/images/box_eng.png" alt="Engineering">
     </button>
     <div class="homecard-content">
-      <p style="font-family: 'Dosis', sans-serif; font-size: 32px; margin: 0 0 10px 0;">
+      <p style="font-family: 'Dosis', sans-serif; font-size: 28px; margin: 0 0 10px 0;">
         <b>Engineering</b>
       </p>
-      <ul style="font-family: 'Dosis', sans-serif; font-size: 24px; margin: 0; padding: 0 0 0 20px;">
-        <li>Bachelor's & Master's degrees in Aeronautical Engineering</li>
-        <li>Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
+      <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; margin: 0; padding: 0 0 0 20px;">
+        <li style="margin-bottom: 10px;">Bachelor's & Master's degrees in Aeronautical Engineering</li>
+        <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
         <li>Proven structural analysis expertise at a global aviation leader</li>
       </ul>
     </div>
