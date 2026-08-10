@@ -16,7 +16,7 @@ permalink: /en/
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_eng.png" alt="Engineering">
     </button>
-    <div class="homecard-content" style="--card-color-rgb: 77, 126, 157; padding: 15px 20px 20px 20px;">
+    <div class="homecard-content" style="--card-color: #4d7e9d; padding: 15px 20px 20px 20px;">
       <p style="font-family: 'Dosis', sans-serif; font-size: 28px; margin: 0 0 10px 0;">
         <b>Engineering</b>
       </p>
