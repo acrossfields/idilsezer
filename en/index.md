@@ -32,8 +32,15 @@ permalink: /en/
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_langcomm.png" alt="Language and Communication">
     </button>
-    <div class="homecard-content" style="--card-color: #d4855c;">
-      Placeholder text for language & communication card
+    <div class="homecard-content" style="--card-color-top: #d4855c; --card-color-bottom: #4f4339; padding: 15px 20px 20px 20px;">
+      <p style="font-family: 'Dosis', sans-serif; font-size: 28px; margin: 0 0 10px 0;">
+        <b>Language & Communication</b>
+      </p>
+      <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
+        <li style="margin-bottom: 10px;">Langcomm line1</li>
+        <li style="margin-bottom: 10px;">Langcomm line2</li>
+        <li style="margin-bottom: 10px;">Langcomm line3</li>
+      </ul>
     </div>
   </div>
 
@@ -41,8 +48,15 @@ permalink: /en/
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_digtech.png" alt="Digital Technologies">
     </button>
-    <div class="homecard-content" style="--card-color: #6c823b;">
-      Placeholder text for digital technologies card
+    <div class="homecard-content" style="--card-color-top: #6c823b; --card-color-bottom: #2c422f; padding: 15px 20px 20px 20px;">
+      <p style="font-family: 'Dosis', sans-serif; font-size: 28px; margin: 0 0 10px 0;">
+        <b>Digital Technologies</b>
+      </p>
+      <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
+        <li style="margin-bottom: 10px;">Digtech line1</li>
+        <li style="margin-bottom: 10px;">Digtech line2</li>
+        <li style="margin-bottom: 10px;">Digtech line3</li>
+      </ul>
     </div>
   </div>
 
