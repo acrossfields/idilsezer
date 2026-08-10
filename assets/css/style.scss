@@ -157,20 +157,45 @@ body a:hover {
   display: block;
   width: 100%;
   height: auto;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.homecard-button:hover img {
+  opacity: 0.93;
+  transform: translateY(-2px);
+}
+
+.homecard-button:active img {
+  transform: scale(0.99);
 }
 
 .homecard-content {
   display: none;
-  margin-top: 10px;
   padding: 18px 20px;
   background-color: var(--card-color);
   border-radius: 12px;
   font-size: 18px;
   line-height: 1.5;
+  animation: homecard-fade 0.25s ease;
+}
+
+.homecard.is-open .homecard-button {
+  display: none;
 }
 
 .homecard.is-open .homecard-content {
   display: block;
+}
+
+@keyframes homecard-fade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .search-panel {
