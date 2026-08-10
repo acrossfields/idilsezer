@@ -10,11 +10,32 @@ permalink: /en/
   <p style="margin: 0;">My name is İdil Sezer, and this website offers an in-depth look at my multidisciplinary studies, work experience across multiple countries, and the skills I have developed across multiple fields.</p>
 </div>
 
-<div class="homefield" style="--grad-start: #4d7e9d; --grad-end: #465d60;">
-  <div style="width: 35%; margin: 15px;">
-    <img src="/idilsezer/assets/images/edu.png" alt="Engineering" style="max-width: 150px; object-fit: contain;">
+<div class="homecards">
+
+  <div class="homecard"
+       style="--button-image: url('/assets/images/home/field1.jpg');
+              --card-color: #e7f1ff;">
+    <button class="homecard-button" type="button"></button>
+    <div class="homecard-content">
+      Placeholder text for card 1.
+    </div>
   </div>
-  <div style="width: 65%; margin: 15px; font-size: 36px; color: #e2f1f4;">
-    <b>Engineering</b>
+
+  <div class="homecard"
+       style="--button-image: url('/assets/images/home/field2.jpg');
+              --card-color: #f3e8ff;">
+    <button class="homecard-button" type="button"></button>
+    <div class="homecard-content">
+      Placeholder text for card 2.
+    </div>
   </div>
+  <div class="homecard"
+       style="--button-image: url('/assets/images/home/field3.jpg');
+              --card-color: #e8f7ea;">
+    <button class="homecard-button" type="button"></button>
+    <div class="homecard-content">
+      Placeholder text for card 3.
+    </div>
+  </div>
+
 </div>
