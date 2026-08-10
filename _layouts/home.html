@@ -24,11 +24,18 @@
 
     <script>
     document.addEventListener('DOMContentLoaded', function () {
-      document.querySelectorAll('.homecard-button').forEach(function (button) {
-        button.addEventListener('click', function () {
-          const card = button.closest('.homecard');
+      document.querySelectorAll('.homecard').forEach(function (card) {
+        const button  = card.querySelector('.homecard-button');
+        const content = card.querySelector('.homecard-content');
+        function toggleCard() {
           card.classList.toggle('is-open');
-        });
+        }
+        if (button) {
+          button.addEventListener('click', toggleCard);
+        }
+        if (content) {
+          content.addEventListener('click', toggleCard);
+        }
       });
     });
     </script>
