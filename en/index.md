@@ -17,7 +17,12 @@ permalink: /en/
       <img src="/idilsezer/assets/images/box_eng.png" alt="Engineering">
     </button>
     <div class="homecard-content">
-      Placeholder text for engineering card
+      <p style="font-family: 'Dosis', sans-serif; font-size: 18px;">Engineering</p>
+      <ul style="font-family: 'Dosis', sans-serif; font-size: 14px;">
+        <li>Bachelor's & Master's degrees in Aeronautical Engineering</li>
+        <li>Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
+        <li>Proven structural analysis expertise at a global aviation leader</li>
+      </ul>
     </div>
   </div>
 
