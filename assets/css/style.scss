@@ -170,11 +170,13 @@ body a:hover {
 
 .homecard-content {
   display: none;
-  background: linear-gradient(
-    to bottom,
-    var(--card-color-top),
-    var(--card-color-bottom)
-  );
+  background:
+    var(--card-image),
+    linear-gradient(
+      to bottom,
+      var(--card-color-top),
+      var(--card-color-bottom)
+    );
   border-radius: 12px;
   animation: homecard-fade 0.25s ease;
 }
