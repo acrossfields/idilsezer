@@ -20,7 +20,7 @@ permalink: /en/
       --card-image: url('/idilsezer/assets/images/edu.png');
       --card-color-top: #4d7e9d; --card-color-bottom: #20414d;
       color: #e6f5fe; padding: 15px 20px 20px 20px;">
-      <p style="font-family: 'Signika', sans-serif; font-weight: 600; font-size: 30px; line-height: 1.2; margin: 0 0 10px 0;">
+      <p style="font-family: 'Signika', sans-serif; font-weight: 400; font-size: 30px; line-height: 1.2; margin: 0 0 10px 0;">
         Engineering
       </p>
       <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
@@ -39,7 +39,7 @@ permalink: /en/
       --card-image: url('/idilsezer/assets/images/study.png');
       --card-color-top: #d4855c; --card-color-bottom: #4f4339;
       color: #f9f3f1; padding: 15px 20px 20px 20px;">
-      <p style="font-family: 'Signika', sans-serif; font-weight: 500; font-size: 30px; line-height: 1.2; margin: 0 0 10px 0;">
+      <p style="font-family: 'Signika', sans-serif; font-weight: 400; font-size: 30px; line-height: 1.2; margin: 0 0 10px 0;">
         Language & Communication
       </p>
       <ul style="font-family: 'Dosis', sans-serif; font-size: 20px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
