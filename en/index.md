@@ -17,7 +17,7 @@ permalink: /en/
       <img src="/idilsezer/assets/images/box_eng.png" alt="Engineering">
     </button>
     <div class="homecard-content" style="
-      --card-image: url('/idilsezer/assets/images/box_eng.png');
+      --card-image: url('/idilsezer/assets/images/edu.png');
       --card-color-top: #4d7e9d; --card-color-bottom: #20414d;
       color: #e6f5fe; padding: 15px 20px 20px 20px;">
       <p style="font-family: 'Dosis', sans-serif; font-size: 28px; line-height: 1.2; margin: 0 0 10px 0;">
