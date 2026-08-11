@@ -170,14 +170,24 @@ body a:hover {
 
 .homecard-content {
   display: none;
-  background:
+  background-image:
     var(--card-image),
     linear-gradient(
       to bottom,
       var(--card-color-top),
       var(--card-color-bottom)
     );
+  background-size:
+    cover,
+    cover;
+  background-position:
+    center center,
+    center center;
+  background-repeat:
+    no-repeat,
+    no-repeat;
   border-radius: 12px;
+  overflow: hidden;
   animation: homecard-fade 0.25s ease;
 }
 
