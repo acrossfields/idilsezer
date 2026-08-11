@@ -58,7 +58,7 @@ permalink: /en/
       --card-image: url('/idilsezer/assets/images/freelance.png');
       --card-color-top: #6c823b; --card-color-bottom: #2c422f;
       color: #f3ffe8; padding: 15px 20px 20px 20px;">
-      <p style="font-family: 'Signika', sans-serif; font-size: 32px; line-height: 1.2; margin: 5px 0 15px 0;">
+      <p style="font-family: 'Signika', sans-serif; font-weight: 400; font-size: 32px; line-height: 1.2; margin: 5px 0 15px 0;">
         Digital Technologies
       </p>
       <ul style="font-family: 'Signika', sans-serif; font-weight: 300; font-size: 22px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
