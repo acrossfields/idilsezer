@@ -23,7 +23,7 @@ permalink: /en/
       <p style="font-weight: 400; font-size: 32px; line-height: 1.2; margin: 5px 0 15px 0;">
         Engineering
       </p>
-      <ul style="font-weight: 300; font-size: 26px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
+      <ul style="font-weight: 300; font-size: 24px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
         <li style="margin-bottom: 10px;">Bachelor's & Master's degrees in Aeronautical Engineering</li>
         <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
         <li style="margin-bottom: 10px;">Proven structural analysis expertise at a global aviation leader</li>
