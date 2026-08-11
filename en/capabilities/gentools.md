@@ -10,7 +10,7 @@ title: General-Purpose Tools
       <b>Microsoft Word & PowerPoint</b>
     </td>
     <td>
-      Structured writing, document and presentation design, and adherence to templates across academic, technical, and business contexts
+      Structured writing, document and presentation design, and adherence to templates in academic, technical, and business settings
     </td>
     <td>
       <p style="margin-bottom: 3px; line-height: 1.2;">early 2000s</p>
