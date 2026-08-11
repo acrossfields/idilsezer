@@ -61,7 +61,7 @@ permalink: /en/
       <p style="font-family: 'Signika', sans-serif; font-size: 32px; line-height: 1.2; margin: 5px 0 15px 0;">
         Digital Technologies
       </p>
-      <ul style="font-family: 'Dosis', sans-serif; font-size: 22px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
+      <ul style="font-family: 'Signika', sans-serif; font-size: 22px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
         <li style="margin-bottom: 10px;">Digtech line1</li>
         <li style="margin-bottom: 10px;">Digtech line2</li>
         <li style="margin-bottom: 10px;">Digtech line3</li>
