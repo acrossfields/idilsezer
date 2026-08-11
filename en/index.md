@@ -35,7 +35,10 @@ permalink: /en/
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_langcomm.png" alt="Language and Communication">
     </button>
-    <div class="homecard-content" style="--card-color-top: #d4855c; --card-color-bottom: #4f4339; color: #f9f3f1; padding: 15px 20px 20px 20px;">
+    <div class="homecard-content" style="
+      --card-image: url('/idilsezer/assets/images/study.png');
+      --card-color-top: #d4855c; --card-color-bottom: #4f4339;
+      color: #f9f3f1; padding: 15px 20px 20px 20px;">
       <p style="font-family: 'Dosis', sans-serif; font-size: 28px; line-height: 1.2; margin: 0 0 10px 0;">
         <b>Language & Communication</b>
       </p>
@@ -51,7 +54,10 @@ permalink: /en/
     <button class="homecard-button" type="button">
       <img src="/idilsezer/assets/images/box_digtech.png" alt="Digital Technologies">
     </button>
-    <div class="homecard-content" style="--card-color-top: #6c823b; --card-color-bottom: #2c422f; color: #f3ffe8; padding: 15px 20px 20px 20px;">
+    <div class="homecard-content" style="
+      --card-image: url('/idilsezer/assets/images/freelance.png');
+      --card-color-top: #6c823b; --card-color-bottom: #2c422f;
+      color: #f3ffe8; padding: 15px 20px 20px 20px;">
       <p style="font-family: 'Dosis', sans-serif; font-size: 28px; line-height: 1.2; margin: 0 0 10px 0;">
         <b>Digital Technologies</b>
       </p>
