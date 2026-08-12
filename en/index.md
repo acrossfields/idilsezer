@@ -26,7 +26,7 @@ permalink: /en/
       <ul style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
         <li style="margin-bottom: 10px;">Bachelor's & Master's degrees in Aeronautical Engineering</li>
         <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
-        <li style="margin-bottom: 10px;">Proven structural analysis expertise at a global aviation leader</li>
+        <li style="margin-bottom: 10px;">Structural analysis and design experience at a global aviation leader</li>
       </ul>
     </div>
   </div>
@@ -45,7 +45,7 @@ permalink: /en/
       <ul style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
         <li style="margin-bottom: 10px;">Native-level command of English applied in academic, technical, business, creative, and conversational settings</li>
         <li style="margin-bottom: 10px;">Cambridge certificate in English teaching and classroom experience at a leading language institute in Brazil</li>
-        <li style="margin-bottom: 10px;">Translation of over one million words from English into Turkish in addition to extensive localization management experience in the video game industry</li>
+        <li style="margin-bottom: 10px;">Translation of over one million words from English into Turkish and in-depth knowledge of localization management in the video game industry</li>
       </ul>
     </div>
   </div>
@@ -62,9 +62,9 @@ permalink: /en/
         Digital Technologies
       </p>
       <ul style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
-        <li style="margin-bottom: 10px;">Digtech line1</li>
-        <li style="margin-bottom: 10px;">Digtech line2</li>
-        <li style="margin-bottom: 10px;">Digtech line3</li>
+        <li style="margin-bottom: 10px;">Extensive experience in manual quality assurance for video games in both tester and leadership roles</li>
+        <li style="margin-bottom: 10px;">Certification in data science with applied training in Python-based methods</li>
+        <li style="margin-bottom: 10px;">Independent website development through AI prompting</li>
       </ul>
     </div>
   </div>
