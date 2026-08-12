@@ -45,7 +45,7 @@ permalink: /en/
       <ul style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
         <li style="margin-bottom: 10px;">Native-level command of English applied in academic, technical, business, creative, and conversational settings</li>
         <li style="margin-bottom: 10px;">Cambridge certificate in English teaching and classroom experience at a leading language institute in Brazil</li>
-        <li style="margin-bottom: 10px;">Translation of over one million words from English into Turkish in addition to testing and leading localization in the video game industry</li>
+        <li style="margin-bottom: 10px;">Translation of over one million words from English into Turkish in addition to extensive localization management experience in the video game industry</li>
       </ul>
     </div>
   </div>
