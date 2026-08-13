@@ -28,7 +28,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
         <li style="margin-bottom: 10px;">Structural analysis and design experience at a global aviation leader</li>
       </ul>
-      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 0 0 0 10px;">
+      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 15px 0 10px 10px;">
         <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=engn">
           View Engineering background
         </a>
