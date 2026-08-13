@@ -198,6 +198,17 @@
         catOptions.forEach(cb => cb.checked = true);
         applyFilter();
       });
+      const params = new URLSearchParams(window.location.search);
+      const field = params.get("field");
+      if (field) {
+        fieldOptions.forEach(cb => {
+          cb.checked = (cb.value === field);
+        });
+        catOptions.forEach(cb => {
+          cb.checked = true;
+        });
+        applyFilter();
+      }
     });
     </script>
     
