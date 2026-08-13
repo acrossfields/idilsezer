@@ -1,47 +1,47 @@
 ---
 ---
 
-.header-wrapper {                     /* HEADER BAR */
-  margin-left: 0;                     /* between header wrapper's left edge and body border */
-  margin-right: 0;                    /* between header wrapper's right edge and body border */
-  margin-bottom: 0;                   /* between header wrapper's bottom edge and navbar's top edge */
-  padding: 2px;                       /* padding between logo/flag box and header wrapper */
-  background-color: #0d4052;          /* header bar's background color */
-  border-top: 3px solid #092935;      /* thickness & color of line over header bar */
-  border-bottom: 3px solid #093339;   /* thickness & color of line under header bar */
+.header-wrapper {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding: 2px;
+  background-color: #0d4052;
+  border-top: 3px solid #092935;
+  border-bottom: 3px solid #093339;
   display: flex;
   justify-content: space-between;
 }
 
 .logo-box {
-  padding-top: 6px;                    /* between logo and the logo box's top edge*/
-  padding-left: 8px;                   /* between logo and the logo box's left edge*/
-  padding-bottom: 8px;                 /* between logo and the logo box's bottom edge*/
+  padding-top: 6px;
+  padding-left: 8px;
+  padding-bottom: 8px;
   height: 50px;
 }
 
-.nav-wrapper {                           /* NAVIGATION BAR */
-  margin-left: 0;                        /* between navbar's left edge and body border*/
-  margin-right: 0;                       /* between navbar's right edge and body border */
-  margin-bottom: 0;                      /* between navbar's bottom edge and beginning of content */
-  background-color: #116671;             /* navbar's background color */
-  border-bottom: 2px solid #0d4e57;      /* thickness & color of line under navbar */
+.nav-wrapper {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  background-color: #116671;
+  border-bottom: 2px solid #0d4e57;
   display: flex;
-  flex-wrap: wrap;                       /* allows navbar to wrap if menu is too long */
-  padding-top: 3px;                       /* between navbar's top edge and row of menu items */ 
-  padding-left: 10px;                      /* between navbar's left edge and first menu item */ 
-  padding-bottom: 4px;                    /* between navbar's bottom edge and row of menu items */ 
-  padding-right: 5px;                     /* between navbar's right edge and last menu item */ 
-  gap: 0 12px;                             /* between menu items - vertical and horizontal */
+  flex-wrap: wrap;
+  padding-top: 3px;
+  padding-left: 10px;
+  padding-bottom: 4px;
+  padding-right: 5px;
+  gap: 0 12px;
 }
 
 .nav-wrapper .menu-item {
-  font-size: 18px;                               /* menu items font size */
-  line-height: 1.5;                              /* menu items line height */
-  color: #cfffea;                                /* menu items font color */
-  font-family: 'Averia Libre', sans-serif;       /* menu items font */
-  padding-top: 2px;                              /* vertical padding for each menu item */
-  padding-bottom: 2px;                           /* vertical padding for each menu item */
+  font-size: 18px;
+  line-height: 1.5;
+  color: #cfffea;
+  font-family: 'Averia Libre', sans-serif;
+  padding-top: 2px;
+  padding-bottom: 2px;
   text-decoration: none;
 }
 
@@ -103,20 +103,21 @@
 }
 
 body {
-  margin: 0;                             /* between the body and sides of the screen */
-  font-family: 'Nunito', sans-serif;     /* default font */
-  color: #e2f1f4;                        /* default font color */
-  font-size: 16px;                       /* default fontsize */
-  line-height: 1.5;                      /* default line height*/
-  background-color: #0b2428;             /* background color */
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  color: #e2f1f4;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: #0b2428;
 }
 
 body a {
-  color: #85bfc9;                        /* default link color */
+  color: #85bfc9;
+  text-decoration: none;
 }
 
 body a:hover {
-  color: #a5d7e0;                      /* default link hover color */
+  color: #a5d7e0;
   text-decoration: underline;
 }
 
