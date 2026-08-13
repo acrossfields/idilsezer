@@ -28,7 +28,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
         <li style="margin-bottom: 10px;">Structural analysis and design experience at a global aviation leader</li>
       </ul>
-      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 15px 0 10px 10px;">
+      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 5px 0 5px 10px;">
         <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=engn">
           View Engineering background
         </a>
@@ -44,7 +44,7 @@ permalink: /en/
       --card-image: url('/idilsezer/assets/images/study.png');
       --card-color-top: #d4855c; --card-color-bottom: #4f4339;
       color: #f9f3f1; padding: 15px 20px 20px 20px;">
-      <p style="font-weight: 400; font-size: 32px; line-height: 1.2; margin: 5px 0 15px 0;">
+      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 5px 0 5px 10px;">
         Language & Communication
       </p>
       <ul style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 25px;">
@@ -52,7 +52,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Cambridge certificate in English teaching and classroom experience at a leading language institute in Brazil</li>
         <li style="margin-bottom: 10px;">Translation of over one million words into Turkish and in-depth knowledge of localization management in the video game industry</li>
       </ul>
-      <p style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 15px;">
+      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 5px 0 5px 10px;">
         <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=langcomm">
           View Language & Communication background
         </a>
