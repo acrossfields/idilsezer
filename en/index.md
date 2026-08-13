@@ -29,7 +29,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Structural analysis and design experience at a global aviation leader</li>
       </ul>
       <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=engn" class="homecard-linkbtn"
-        style="background:#2e5b72; color:#e6f5fe; font-weight: 300; font-size: 22px; padding: 5px 10px;">
+        style="background:#7f9eb2; color:#112e39; font-weight: 300; font-size: 22px; padding: 5px 10px;">
         View Engineering background
       </a>
     </div>
@@ -51,11 +51,10 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Cambridge certificate in English teaching and classroom experience at a leading language institute in Brazil</li>
         <li style="margin-bottom: 10px;">Translation of over one million words into Turkish and in-depth knowledge of localization management in the video game industry</li>
       </ul>
-      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 5px 0 5px 10px;">
-        <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=langcomm">
-          View Language & Communication background
-        </a>
-      </p>
+      <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=langcomm" class="homecard-linkbtn"
+        style="background:#cb967a; color:#342921; font-weight: 300; font-size: 22px; padding: 5px 10px;">
+        View Language & Communication background
+      </a>
     </div>
   </div>
 
@@ -75,11 +74,10 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Certification in data science with applied training in Python-based methods</li>
         <li style="margin-bottom: 10px;">Independent website development through AI prompting</li>
       </ul>
-      <p style="font-weight: 400; font-size: 22px; margin: 0; line-height: 1.5; padding: 5px 0 5px 10px;">
-        <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=digtech">
-          View Digital Technologies background
-        </a>
-      </p>
+      <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=digtech" class="homecard-linkbtn"
+        style="background:#879568; color:#1a2f1d; font-weight: 300; font-size: 22px; padding: 5px 10px;">
+        View Digital Technologies background
+      </a>
     </div>
   </div>
 
