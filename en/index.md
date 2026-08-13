@@ -28,6 +28,11 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Grounding in FEA, composite mechanics, and CAD/CAE tools</li>
         <li style="margin-bottom: 10px;">Structural analysis and design experience at a global aviation leader</li>
       </ul>
+      <p style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 15px;">
+        <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=engn">
+          View Engineering background
+        </a>
+      </p>
     </div>
   </div>
 
@@ -47,6 +52,11 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Cambridge certificate in English teaching and classroom experience at a leading language institute in Brazil</li>
         <li style="margin-bottom: 10px;">Translation of over one million words into Turkish and in-depth knowledge of localization management in the video game industry</li>
       </ul>
+      <p style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 15px;">
+        <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=langcomm">
+          View Language & Communication background
+        </a>
+      </p>
     </div>
   </div>
 
@@ -66,6 +76,11 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Certification in data science with applied training in Python-based methods</li>
         <li style="margin-bottom: 10px;">Independent website development through AI prompting</li>
       </ul>
+      <p style="font-weight: 300; font-size: 18px; margin: 0; line-height: 1.5; padding: 0 0 0 15px;">
+        <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=digtech">
+          View Digital Technologies background
+        </a>
+      </p>
     </div>
   </div>
 
