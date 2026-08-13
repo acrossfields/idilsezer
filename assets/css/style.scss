@@ -211,6 +211,24 @@ body a:hover {
   }
 }
 
+.homecard-linkbtn {
+  display: inline-block;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: filter 0.2s ease, transform 0.15s ease;
+}
+
+.homecard-linkbtn:hover,
+.homecard-linkbtn:focus {
+  filter: brightness(1.15);
+  text-decoration: none;
+}
+
+.homecard-linkbtn:active {
+  filter: brightness(0.95);
+  transform: translateY(1px);
+}
+
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px auto 30px auto;
