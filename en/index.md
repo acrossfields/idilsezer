@@ -29,7 +29,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Structural analysis and design experience at a global aviation leader</li>
       </ul>
       <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=engn" class="homecard-linkbtn"
-        style="background:#2e5b72; color:#e6f5fe; font-weight: 300; font-size: 22px; padding: 5px;">
+        style="background:#2e5b72; color:#e6f5fe; font-weight: 300; font-size: 22px; padding: 5px 10px;">
         View Engineering background
       </a>
     </div>
