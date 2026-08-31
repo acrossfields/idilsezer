@@ -21,7 +21,7 @@ title: Languages
       <b>English</b>
     </td>
     <td>
-      Native-level proficiency
+      Advanced proficiency
     </td>
   </tr>
 </table>
