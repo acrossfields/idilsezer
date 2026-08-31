@@ -29,7 +29,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Structural analysis and design experience at a global aviation leader</li>
       </ul>
       <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=engn" class="homecard-linkbtn"
-        style="background:#7f9eb2cc; color:#112e39; font-weight: 400; font-size: 22px; margin: 10px; padding: 5px 10px;">
+        style="background:#7f9eb2b2; color:#112e39; font-weight: 400; font-size: 22px; margin: 10px; padding: 5px 10px;">
         View Engineering Background
       </a>
     </div>
@@ -52,7 +52,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Translation of over one million words into Turkish and in-depth knowledge of localization management in the video game industry</li>
       </ul>
       <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=langcomm" class="homecard-linkbtn"
-        style="background:#cb967acc; color:#342921; font-weight: 400; font-size: 22px; margin: 10px; padding: 5px 10px;">
+        style="background:#cb967ab2; color:#342921; font-weight: 400; font-size: 22px; margin: 10px; padding: 5px 10px;">
         View Language & Communication Background
       </a>
     </div>
@@ -75,7 +75,7 @@ permalink: /en/
         <li style="margin-bottom: 10px;">Independent website development through AI prompting</li>
       </ul>
       <a href="https://acrossfields.github.io/idilsezer/en/background/explore/?field=digtech" class="homecard-linkbtn"
-        style="background:#879568cc; color:#1a2f1d; font-weight: 400; font-size: 22px; margin: 10px; padding: 5px 10px;">
+        style="background:#879568b2; color:#1a2f1d; font-weight: 400; font-size: 22px; margin: 10px; padding: 5px 10px;">
         View Digital Technologies Background
       </a>
     </div>
