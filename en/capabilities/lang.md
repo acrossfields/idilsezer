@@ -56,7 +56,7 @@ title: Languages
   <p style="margin: 15px 0;">
     The timeline below illustrates when and in which areas I developed my English skills.
   </p>
-  <img src="/idilsezer/assets/images/en_timeline4.png" alt="EN Timeline" style="width: 100%; height: auto; padding: 0 0 10px 0;">
+  <img src="/idilsezer/assets/images/en_timeline5.png" alt="EN Timeline" style="width: 100%; height: auto; padding: 0 0 10px 0;">
 </div>
 
 <table class="table-caplang" style="margin: 0 0 7px 0;">
