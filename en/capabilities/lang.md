@@ -27,11 +27,11 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 20px;">
-  <p style="margin: 0; padding: 5px 0 15px 0;">
+  <p style="margin: 0; padding: 5px 0 20px 0;">
     The timeline below illustrates when and in which areas I developed my English skills.
   </p>
   <img src="/idilsezer/assets/images/en_timeline.png" alt="EN Timeline" style="width: 100%; height: auto;">
-  <table class="table-caplangsub" style="padding: 15px 0 10px 0;">
+  <table class="table-caplangsub" style="padding: 20px 0 10px 0;">
     <tr>
       <td>
         <b>IELTS Academic</b>
