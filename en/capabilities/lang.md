@@ -4,7 +4,7 @@ lang: en
 cap_id: 1
 title: Languages
 ---
-<table class="table-caplang" style="margin-bottom: 5px 0 20px 0;">
+<table class="table-caplang" style="margin: 5px 0 20px 0;">
   <tr>
     <td>
       <b>Turkish</b>
@@ -71,7 +71,7 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 30px;">
-  <p style="margin-bottom: 0 0 15px 0; padding: 5px 0 0 0;">
+  <p style="margin: 0 0 15px 0; padding: 5px 0 0 0;">
     [about PTBR proficiency]
   </p>
   <table class="table-caplangsub" style="padding: 0 0 10px 0;">
