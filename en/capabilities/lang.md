@@ -27,9 +27,6 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 15px;">
-  <p style="margin-bottom: 10px;">
-    [about EN proficiency]
-  </p>
   <table class="table-caplangsub" style="margin-bottom: 5px;">
     <tr>
       <td>
@@ -56,8 +53,11 @@ title: Languages
       </td>
     </tr>
   </table>
+  <p style="margin-bottom: 10px;">
+    The timeline below provides an overview of how I developed and used my English skills over time.
+  </p>
+  <img src="/idilsezer/assets/images/en_timeline.png" alt="EN Timeline" style="width: 100%; height: auto;">
 </div>
-
 <table class="table-caplang" style="margin-bottom: 8px;">
   <tr>
     <td>
