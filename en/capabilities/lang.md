@@ -27,7 +27,7 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 15px;">
-  <table class="table-caplangsub" style="margin: 10px 0;">
+  <table class="table-caplangsub" style="padding: 5px 0 0 0;">
     <tr>
       <td>
         <b>IELTS Academic</b>
@@ -53,13 +53,13 @@ title: Languages
       </td>
     </tr>
   </table>
-  <p style="margin: 10px 0;">
+  <p style="margin: 15px 0;">
     The timeline below illustrates when and in which areas I developed my English skills.
   </p>
   <img src="/idilsezer/assets/images/en_timeline.png" alt="EN Timeline" style="width: 100%; height: auto; padding: 0 0 10px 0;">
 </div>
 
-<table class="table-caplang" style="margin-bottom: 8px;">
+<table class="table-caplang" style="margin-bottom: 10px;">
   <tr>
     <td>
       <b>Portuguese (Brazil)</b>
@@ -71,7 +71,7 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 30px;">
-  <p style="margin: 0 10px;">
+  <p style="margin: 15px 0;">
     [about PTBR proficiency]
   </p>
   <table class="table-caplangsub" style="padding: 0 0 10px 0;">
