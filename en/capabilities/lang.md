@@ -26,7 +26,7 @@ title: Languages
   </tr>
 </table>
 
-<div class="cap-indented" style="margin: 0 0 20px 0;">
+<div class="cap-indented" style="margin-bottom: 20px;">
   <table class="table-caplangsub" style="padding: 5px 0 0 0;">
     <tr>
       <td>
@@ -70,7 +70,7 @@ title: Languages
   </tr>
 </table>
 
-<div class="cap-indented" style="margin: 0 0 30px 0;">
+<div class="cap-indented" style="margin-bottom: 30px;">
   <p style="margin: 0 0 15px 0; padding: 5px 0 0 0;">
     [about PTBR proficiency]
   </p>
