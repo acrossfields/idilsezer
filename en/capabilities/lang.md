@@ -15,7 +15,7 @@ title: Languages
   </tr>
 </table>
 
-<table class="table-caplang" style="margin-bottom: 8px;">
+<table class="table-caplang" style="margin-bottom: 10px;">
   <tr>
     <td>
       <b>English</b>
@@ -71,10 +71,10 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 30px;">
-  <p style="margin-bottom: 10px;">
+  <p style="margin: 0 10px;">
     [about PTBR proficiency]
   </p>
-  <table class="table-caplangsub" style="margin-bottom: 5px;">
+  <table class="table-caplangsub" style="padding: 0 0 10px 0;">
     <tr>
       <td>
         <b>CELPE-Bras</b>
