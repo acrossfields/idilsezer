@@ -71,7 +71,7 @@ title: Languages
 </table>
 
 <div class="cap-indented" style="margin-bottom: 30px;">
-  <p style="margin: 15px 0;">
+  <p style="margin-bottom: 15px; padding: 5px 0 0 0;">
     [about PTBR proficiency]
   </p>
   <table class="table-caplangsub" style="padding: 0 0 10px 0;">
