@@ -72,7 +72,7 @@ title: Languages
 
 <div class="cap-indented" style="margin-bottom: 30px;">
   <p style="margin: 0; padding: 4px 0 12px 0;">
-    [about PTBR proficiency]
+    I acquired my Portuguese language skills through language immersion while living in Brazil and have communicated in it in everyday and social contexts. I have not used Portuguese in a professional capacity.
   </p>
   <table class="table-caplangsub" style="padding: 0 0 10px 0;">
     <tr>
