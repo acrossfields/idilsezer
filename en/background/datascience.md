@@ -36,7 +36,7 @@ taglist_sub4: []
 
 [[BLOCK_DESC]]
 <div class="bg-indented">
-  <p>Building on introductory training in programming and my experience in quality assurance, I completed an 8-month certificate program comprising Python and data science training to further develop my understanding of digital technologies and establish a foundational knowledge of programming, data analysis, and machine learning.</p>
+  <p>Building on my QA experience involving formula-based logic and data manipulation, followed by introductory training in programming, I completed an 8-month certificate program comprising Python and data science training to further develop my understanding of digital technologies and establish a foundational knowledge of programming, data analysis, and machine learning.</p>
 </div>
 
 [[BLOCK_SUB1]]
@@ -54,7 +54,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>Python Programming, a 48-hour certificate program offered by Mindset Institute covering basic programming concepts for data science using Python 3 in Jupyter, in addition to an introduction to statistics, version control, and APIs. Completed in July 2024.</p>
+        <p>Python Programming, a 48-hour certificate program offered by Mindset Institute covering the basics of Python 3 using Jupyter for data science applications, in addition to an introduction to statistics, version control, and APIs. Completed in July 2024.</p>
       </td>
     </tr>
   </table>
