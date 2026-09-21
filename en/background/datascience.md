@@ -54,7 +54,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>Python Programming, a 48-hour certificate program offered by Mindset Institute covering Python programming fundamentals, including data structures, functions, object-oriented programming, file operations, exception handling, Git version control, Jupyter, APIs, and statistics for data science. Completed in July 2024.</p>
+        <p>Python Programming, a 48-hour certificate program offered by Mindset Institute covering basic programming concepts for data science using Python 3 in Jupyter, in addition to an introduction to statistics, version control, and APIs. Completed in July 2024.</p>
       </td>
     </tr>
   </table>
