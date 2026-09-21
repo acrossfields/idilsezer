@@ -30,7 +30,7 @@ taglist_sub4: []
 
 [[BLOCK_DESC]]
 <div class="bg-indented">
-  <p>Driven by the growing complexity of the spreadsheets I designed and the increasingly lengthy formulas I constructed to manage QA workflows across various roles, I began exploring programming as a more efficient approach to data handling and process automation, and pursued a series of introductory courses to build familiarity with programming concepts.</p>
+  <p>Driven by the growing complexity of the spreadsheets I designed and the increasingly lengthy formulas I constructed to manage QA workflows across various roles, I began exploring programming as a more efficient approach to data handling and process automation, and pursued a series of introductory courses to build familiarity with its concepts.</p>
 </div>
 
 [[BLOCK_SUB1]]
