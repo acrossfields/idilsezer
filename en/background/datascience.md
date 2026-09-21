@@ -36,7 +36,7 @@ taglist_sub4: []
 
 [[BLOCK_DESC]]
 <div class="bg-indented">
-  <p>Building on my QA experience involving formula-based logic and data manipulation, followed by introductory training in programming, I completed an 8-month certificate program comprising Python and data science training to further develop my understanding of digital technologies and establish a foundational knowledge of programming, data analysis, and machine learning.</p>
+  <p>Building on my QA experience involving formula-based logic and data manipulation, and following an introductory training in programming, I completed an 8-month certificate program comprising Python and data science training to further develop my understanding of digital technologies and establish a foundational knowledge of programming, data analysis, and machine learning.</p>
 </div>
 
 [[BLOCK_SUB1]]
