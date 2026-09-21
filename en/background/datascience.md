@@ -36,7 +36,7 @@ taglist_sub4: []
 
 [[BLOCK_DESC]]
 <div class="bg-indented">
-  <p>[Details of ITU & Mindset Data science certificate program]</p>
+  <p>Building on introductory training in programming and my experience in quality assurance, I completed an 8-month certificate program comprising Python and data science training to further develop my understanding of digital technologies and establish a foundational knowledge of programming, data analysis, and machine learning.</p>
 </div>
 
 [[BLOCK_SUB1]]
