@@ -54,7 +54,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[Details of Python program - Mindset - May 2024 / Jul 2024 - 48h]</p>
+        <p>Python Programming, a 48-hour certificate program offered by Mindset Institute covering Python programming fundamentals, including data structures, functions, object-oriented programming, file operations, exception handling, Git version control, Jupyter, APIs, and statistics for data science. Completed in July 2024.</p>
       </td>
     </tr>
   </table>
@@ -75,7 +75,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>[Details of Data Science program - ITU via Mindset - Aug 2024 / Dec 2025 - 90h]</p>
+        <p>Data Science, a 90-hour certificate program offered by Istanbul Technical University covering data analysis with NumPy and pandas, data visualization, statistical and machine learning methods (including regression, classification, clustering, decision trees, random forests, and model validation), introductory SQL and database management, and the foundations of big data and data science workflows. Certificate awarded upon successful completion and approval of a final data analysis project. Completed via Mindset Institute in December 2024.</p>
       </td>
     </tr>
   </table>
