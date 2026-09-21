@@ -75,7 +75,7 @@ taglist_sub4: []
     </tr>
     <tr class="table-bgsub-details">
       <td colspan="3">
-        <p>Data Science, a 90-hour certificate program offered by Istanbul Technical University covering foundations of big data and data science workflows, data exploration and analysis (NumPy, pandas), data visualization (Matplotlib, seaborn), machine learning theories and applications (scikit-learn), introduction to deep learning, overview of data models and database management systems, and introduction to SQL and no-SQL languages. Certificate awarded upon successful completion and approval of a final data analysis project. Completed via Mindset Institute in December 2024.</p>
+        <p>Data Science, a 90-hour certificate program offered by Istanbul Technical University covering foundations of big data and data science workflows, data exploration and analysis (NumPy, pandas), data visualization (Matplotlib, seaborn), machine learning theories and applications (scikit-learn), principles of deep learning, overview of data models and database management systems, and introduction to SQL and no-SQL languages. Certificate awarded upon successful completion and approval of a final data analysis project. Completed via Mindset Institute in December 2024.</p>
       </td>
     </tr>
   </table>
