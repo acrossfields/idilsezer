@@ -36,7 +36,7 @@ taglist_sub4: []
 
 [[BLOCK_DESC]]
 <div class="bg-indented">
-  <p>In my current role, I operate at the intersection of communication and digital technologies, supporting initiatives in a range of fields from e-commerce solutions to research-driven retail technologies. I examine the technical scope and development of projects to produce content aligned with the criteria for applications to national and international research initiatives, including technoparks, TÜBİTAK, and Horizon Europe. My responsibilities include drafting project proposals and presentations, monitoring open calls and submission timelines, and supporting the coordination of application and closure processes, ensuring consistency between project objectives, technical documentation, and submission requirements.</p>
+  <p>In my current role, I operate at the intersection of communication and digital technologies, supporting initiatives in a range of fields from e-commerce solutions to research-driven retail technologies. I assess the technical scope and development of projects to produce content aligned with application criteria for national and international research initiatives, including technoparks, TÜBİTAK, and Horizon Europe. My responsibilities include drafting project proposals and presentations, monitoring open calls and submission timelines, and supporting the coordination of application and closure processes, ensuring consistency between project objectives, technical documentation, and submission requirements.</p>
 </div>
 
 [[BLOCK_SUB1]]
