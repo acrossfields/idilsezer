@@ -252,6 +252,11 @@ body a:hover {
   width: 30%;
 }
 
+.bgsum-table td p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px auto 30px auto;
