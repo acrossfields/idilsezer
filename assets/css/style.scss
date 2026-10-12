@@ -239,15 +239,16 @@ body a:hover {
 }
 
 .bgsum-table td {
-  padding: 8px;
+  padding: 0;
+  margin: 0;
 }
 
 .bgsum-table td:nth-child(1) {
-  width: 65%;
+  width: 80%;
 }
 
 .bgsum-table td:nth-child(2) {
-  width: 35%;
+  width: 20%;
 }
 
 .search-panel {
