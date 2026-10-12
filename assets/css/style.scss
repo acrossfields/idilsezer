@@ -229,6 +229,15 @@ body a:hover {
   transform: translateY(1px);
 }
 
+.bgsum {
+  max-width: 600px;
+  margin: 10px auto 20px auto;
+  padding: 0 10px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px auto 30px auto;
