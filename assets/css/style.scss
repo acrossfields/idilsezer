@@ -238,6 +238,18 @@ body a:hover {
   line-height: 1.5;
 }
 
+.bgsum-table td {
+  padding: 8px;
+}
+
+.bgsum-table td:nth-child(1) {
+  width: 65%;
+}
+
+.bgsum-table td:nth-child(2) {
+  width: 35%;
+}
+
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px auto 30px auto;
