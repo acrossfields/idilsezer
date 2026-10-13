@@ -262,18 +262,13 @@ body a:hover {
 
 .contact-table td {
   vertical-align: top;
+  width: 100%;
+  table-layout: auto;
+  border-collapse: collapse;
   margin: 0;
   padding: 0;
   background-color: #0b2428;
   color: #e2f1f4;
-}
-
-.contact-table td:nth-child(1) {
-  width: 60%;
-}
-
-.contact-table td:nth-child(2) {
-  width: 40%;
 }
 
 .search-panel {
