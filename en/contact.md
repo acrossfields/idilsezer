@@ -6,7 +6,7 @@ permalink: /en/contact/
 ---
 
 <div class="contact">
-  <p style="font-family: 'Dosis', sans-serif; font-size: 20px; line-height: 1.5; margin: 0; padding: 0 0 20px 0;">
+  <p style="font-family: 'Signika', sans-serif; font-size: 20px; line-height: 1.5; margin: 0; padding: 0 0 20px 0;">
     I'm open to connecting with people and teams looking for someone with my background and skills. For inquiries or potential collaborations, you can contact me via email or LinkedIn.
   </p>
   
