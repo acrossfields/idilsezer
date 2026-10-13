@@ -5,13 +5,11 @@ lang: en
 permalink: /en/contact/
 ---
 
-<div class="conact">
+<div class="contact">
 I'm open to connecting with people and teams looking for someone with my experience and skills. For inquiries or potential collaborations, you can reach me at the contact details below.
 
 <table class="contact-table">
   <tr>
-    <td>
-    </td>
     <td style="padding: 20px 10px;">
       <p style="font-family: 'Ubuntu Condensed', sans-serif; font-weight: bold; font-size: 18px; margin: 0 0 20px 0;">
         İdil Sezer
@@ -27,9 +25,11 @@ I'm open to connecting with people and teams looking for someone with my experie
         Kadıköy, İstanbul, Türkiye
       </p>
     </td>
+    <td>
+      <img src="/idilsezer/assets/images/contact01.jpg" alt="Profile picture">
+    </td>
   </tr>
 </table>
-
   
 </div>
 
