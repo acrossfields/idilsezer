@@ -1,9 +1,11 @@
 ---
-layout: home
+layout: contact
 title: Contact
 lang: en
 permalink: /en/contact/
 ---
 
-I will share my contact on this page.
+<div class="bgsum">
+I'm open to connecting with people and teams looking for someone with my background and skills. For inquiries or potential collaborations, you can reach me at the contact details below.
+</div>
 
