@@ -6,8 +6,8 @@ permalink: /en/contact/
 ---
 
 <div class="contact">
-  <p style="font-family: 'Barlow', sans-serif; font-size: 16px; line-height: 1.5; margin: 0; padding: 0 20px 0 0;">
-    I'm open to connecting with people and teams looking for someone with my experience and skills. For inquiries or potential collaborations, you can reach me at the contact details below.
+  <p style="font-family: 'Barlow', sans-serif; font-size: 16px; line-height: 1.5; margin: 0; padding: 0 0 20px 0;">
+    I'm open to connecting with people and teams looking for someone with my background and skills. For inquiries or potential collaborations, you can contact me via email or LinkedIn.
   </p>
   
   <table class="contact-table">
@@ -28,7 +28,7 @@ permalink: /en/contact/
         </p>
       </td>
       <td>
-        <img src="/idilsezer/assets/images/contact01.jpg" alt="Profile picture" style="height: 100px; vertical-align: top;">
+        <img src="/idilsezer/assets/images/contact01.jpg" alt="Profile picture" style="height: 100px; padding: 20px 10px; vertical-align: top;">
       </td>
     </tr>
   </table>
