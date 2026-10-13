@@ -7,10 +7,10 @@ permalink: /en/contact/
 
 <div class="contact">
 
-<table class="contact-table" style="margin: 20px 0;">
+<table class="contact-table" style="margin: 15px 0 30px 0;">
   <tr>
     <td>
-      <p style="font-family: 'Signika', sans-serif; font-size: 20px; line-height: 1.5; margin: 0; padding: 0 10px 0 0;">
+      <p style="font-family: 'Signika', sans-serif; font-weight: 300; font-size: 18px; line-height: 1.5; margin: 0; padding: 0 10px 0 0;">
         I'm open to connecting with people and teams looking for someone with my experience and skills. For inquiries or potential collaborations, you can contact me via email or LinkedIn.
       </p>
     </td>
