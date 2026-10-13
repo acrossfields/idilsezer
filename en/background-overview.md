@@ -15,10 +15,10 @@ permalink: /en/background/overview/
       </p>
     </td>
     <td>
-      <p style="font-family: 'Barlow', sans-serif; font-size: 14px; margin: 0; padding: 20px 10px 10px 10px;">
+      <p style="font-family: 'Barlow', sans-serif; font-size: 14px; margin: 0; padding: 20px 5px 10px 5px;">
         Background by field
       </p>
-      <p style="font-family: 'Barlow', sans-serif; font-size: 14px; margin: 0; padding: 10px;">
+      <p style="font-family: 'Barlow', sans-serif; font-size: 14px; margin: 0; padding: 10px 5px;">
         Capabilities by domain
       </p>
     </td>
