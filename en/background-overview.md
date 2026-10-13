@@ -15,15 +15,15 @@ permalink: /en/background/overview/
       </p>
     </td>
     <td style="padding: 20px 10px;">
-      <p style="font-family: 'Ubuntu Condensed', sans-serif; font-weight: bold; font-size: 16px; margin: 0 0 20px 0;">
+      <p style="font-family: 'Ubuntu Condensed', sans-serif; font-weight: bold; font-size: 18px; margin: 0 0 20px 0;">
         Explore further
       </p>
       <hr style="border: none; border-top: 2px solid #93b2ba; margin: 0 0 20px 0;">
       <p style="font-family: 'Barlow', sans-serif; font-size: 14px; margin: 0 0 20px 0;">
-        Background by field
+        <a href="{{ '/en/background/explore/' | relative_url }}">Background by field</a>
       </p>
       <p style="font-family: 'Barlow', sans-serif; font-size: 14px; margin: 0;">
-        Capabilities by domain
+        <a href="{{ '/en/capabilities/' | relative_url }}">Capabilities by domain</a>
       </p>
     </td>
   </tr>
