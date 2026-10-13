@@ -26,7 +26,7 @@ I'm open to connecting with people and teams looking for someone with my experie
       </p>
     </td>
     <td>
-      <img src="/idilsezer/assets/images/contact01.jpg" alt="Profile picture">
+      <img src="/idilsezer/assets/images/contact01.jpg" alt="Profile picture" style="height: 100px; vertical-align: top;">
     </td>
   </tr>
 </table>
