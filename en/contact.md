@@ -28,7 +28,7 @@ permalink: /en/contact/
         </p>
       </td>
       <td>
-        <img src="/idilsezer/assets/images/contact01.jpg" alt="Profile picture" style="height: 100px; padding: 20px 10px; vertical-align: top;">
+        <img src="/idilsezer/assets/images/contact01.jpg" alt="Profile picture" style="height: 200px; padding: 20px 10px; vertical-align: top;">
       </td>
     </tr>
   </table>
