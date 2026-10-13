@@ -254,6 +254,28 @@ body a:hover {
   text-align: center;
 }
 
+.contact {
+  max-width: 600px;
+  margin: 10px auto 30px auto;
+  padding: 0 10px;
+}
+
+.contact-table td {
+  vertical-align: top;
+  margin: 0;
+  padding: 0;
+  background-color: #0b2428;
+  color: #e2f1f4;
+}
+
+.contact-table td:nth-child(1) {
+  width: 60%;
+}
+
+.contact-table td:nth-child(2) {
+  width: 40%;
+}
+
 .search-panel {
   width: calc(100% - 16px);
   margin: 10px auto 30px auto;
