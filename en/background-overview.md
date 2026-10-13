@@ -15,7 +15,7 @@ permalink: /en/background/overview/
       </p>
     </td>
     <td style="background-color: #93b2ba; color: #22393c;">
-      <p style="margin: 0; padding: 8px;">
+      <p style="margin: 0; padding: 8px 10px;">
         See more: Background by field / Capabilities by domain
       </p>
     </td>
