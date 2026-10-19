@@ -1,3 +1,6 @@
+
+{% assign current_lang = page.lang | default: site.lang %}
+
 <header class="header-wrapper">
   <div class="logo-box">
     <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Site Logo" height="50">
@@ -5,8 +8,23 @@
 </header>
 
 <nav class="nav-wrapper">
-  <a href="{{ '/en/' | relative_url }}" class="menu-item{% if page.url == '/en/' %} active{% endif %}">Home</a>
-  <a href="{{ '/en/background/' | relative_url }}" class="menu-item{% if page.url contains '/en/background/' %} active{% endif %}">Background</a>
-  <a href="{{ '/en/capabilities/' | relative_url }}" class="menu-item{% if page.url == '/en/capabilities/' %} active{% endif %}">Capabilities</a>
-  <a href="{{ '/en/contact/' | relative_url }}" class="menu-item{% if page.url == '/en/contact/' %} active{% endif %}">Contact</a>
+  <a href="{{ '/' | append: current_lang | append: '/' | relative_url }}"
+     class="menu-item{% if page.url == '/en/' or page.url == '/tr/' %} active{% endif %}">
+    {% if current_lang == 'tr' %}Ana Sayfa{% else %}Home{% endif %}
+  </a>
+
+  <a href="{{ '/' | append: current_lang | append: '/background/' | relative_url }}"
+     class="menu-item{% if page.url contains '/background/' %} active{% endif %}">
+    {% if current_lang == 'tr' %}Deneyim{% else %}Background{% endif %}
+  </a>
+
+  <a href="{{ '/' | append: current_lang | append: '/capabilities/' | relative_url }}"
+     class="menu-item{% if page.url contains '/capabilities/' %} active{% endif %}">
+    {% if current_lang == 'tr' %}Yetkinlikler{% else %}Capabilities{% endif %}
+  </a>
+
+  <a href="{{ '/' | append: current_lang | append: '/contact/' | relative_url }}"
+     class="menu-item{% if page.url contains '/contact/' %} active{% endif %}">
+    {% if current_lang == 'tr' %}İletişim{% else %}Contact{% endif %}
+  </a>
 </nav>
